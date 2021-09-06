@@ -1,11 +1,4 @@
-
-
-
-Participer à la réunion Zoom
-https://utc-fr.zoom.us/j/87273562034?pwd=V2ttWGFyekVWYTRISnFzTm5yYlgwZz09
-
-ID de réunion : 872 7356 2034
-Code secret : 973229
+# 2020, just for reference
 
 
 Bonjour tout le monde!
