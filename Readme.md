@@ -55,11 +55,11 @@ Win-10-C-HPD413/6
 
 #### Questions & Solutions:
 
-Week | Day | Question | Solution    
-------- | ------- | ---------------- | ----------: 
-Week 1  | Day 1  | [Exercise 1.1](../../tree/day1-ex1.1) | [Solution](../../tree/day1-ex1.1-solution) 
-Week 1  | Day 1  | [Exercise 1.2](../../tree/day1-ex1.2) | [Solution](../../tree/day1-ex1.2-solution) 
-Week 1  | Day 1  | [Exercise 1.3](../../tree/day1-ex1.3) | [Solution](../../tree/day1-ex1.3-solution) 
+Exercise | Solution    
+ ---------------- | ----------: 
+[Exercise 1](../../tree/day1-ex1.1) | [Solution](../../tree/day1-ex1.1-solution) 
+[Exercise 2](../../tree/ex2) | [Solution](../../tree/ex2-ans) 
+[Exercise 3](../../tree/ex3) | [Solution](../../tree/ex3-ans) 
 
 
 ## Project
