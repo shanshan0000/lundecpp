@@ -1,4 +1,4 @@
-# LO02 C++
+# LO02 C++ 2021
 
 ## Install CLion and Git
 
@@ -14,7 +14,7 @@
 
 ## :heartpulse: :rocket: :musical_note: :100: Teaching Assistants :heartpulse: :rocket: :musical_note: :100:
 We have eight volunteer Teaching Assistants, from Promotion 2017 and Promotion 2018.
-They have each got an A in their LO02 course.
+They have each got an A in their LO02 course in the last year.
 Please don't hesitate to ask them questions.
 They are:
 
@@ -26,6 +26,7 @@ Please remember to say "thank you" each time they help :clap: :clap: :clap:.
 Week | Day | Question | Solution    
 ------- | ------- | ---------------- | ----------: 
 Week 1  | Day 1  | [Exercise 1.1](../../tree/day1-ex1.1) | [Solution](../../tree/day1-ex1.1-solution) 
+Week 1  | Day 1  | [Exercise 1.2](../../tree/day1-ex1.2) | [Solution](../../tree/day1-ex1.2-solution) 
 
 
 
