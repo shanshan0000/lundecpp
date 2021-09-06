@@ -2,7 +2,7 @@
 
 ## Course videos
 
-[:tv: Course videos on Bilibili](https://www.bilibili.com/video/BV1364y1h7sb?spm_id_from=pageDriver)
+[:tv: Course videos are on Chaoxing Platform]
 
 ## Online QA with Zoom, each Monday 18:00-21:40
 
@@ -44,8 +44,15 @@ Please remember to say "thank you" each time they help :clap: :clap: :clap:.
 
 ## TD
 
-#### Time: each Thursday, Wednesday and Friday, 8:00 to 11:40
-#### Classroom:  at D413
+#### Time: 
+each Thursday, Wednesday and Friday, 8:00 to 11:40
+
+#### Classroom: 
+D413
+ 
+#### Which Operating System to boot from:
+Win-10-C-HPD413/6
+
 #### Questions & Solutions:
 
 Week | Day | Question | Solution    
