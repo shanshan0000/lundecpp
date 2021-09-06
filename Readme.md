@@ -4,7 +4,7 @@
 
 [:tv: Course videos are on Chaoxing Platform]
 
-## Online QA with Zoom, each Monday 18:00-21:40
+## Online QA with Zoom, each Monday 18:00-20:40
 
 Participer à la réunion Zoom https://utc-fr.zoom.us/j/87273562034?pwd=V2ttWGFyekVWYTRISnFzTm5yYlgwZz09
 
@@ -25,7 +25,7 @@ Code secret : 973229
 [:books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
 
 ## :heartpulse: :rocket: :musical_note: :100: Teaching Assistants
-We have eight volunteer Teaching Assistants, from Promotion 2017 and Promotion 2018.
+We have nine volunteer Teaching Assistants, from Promotion 2017 and Promotion 2018.
 They have each got an A in their LO02 course in the last year.
 Please don't hesitate to ask them questions.
 They are:
@@ -60,3 +60,11 @@ Week | Day | Question | Solution
 Week 1  | Day 1  | [Exercise 1.1](../../tree/day1-ex1.1) | [Solution](../../tree/day1-ex1.1-solution) 
 Week 1  | Day 1  | [Exercise 1.2](../../tree/day1-ex1.2) | [Solution](../../tree/day1-ex1.2-solution) 
 Week 1  | Day 1  | [Exercise 1.3](../../tree/day1-ex1.3) | [Solution](../../tree/day1-ex1.3-solution) 
+
+
+## Project
+
+
+
+
+
