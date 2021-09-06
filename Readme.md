@@ -8,5 +8,5 @@
 
 #### Textbooks, slides, exercises
 
-[:point_right: :books: Textbooks, slides, exercises](/pdf)
+[:point_right: :books: Textbooks, slides, exercises](../../master/pdf)
 
