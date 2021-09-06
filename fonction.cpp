@@ -9,8 +9,3 @@ void bonjour() {
     cin>>prenom;
     cout<<"Bonjour "<<prenom<<"\n";
 }
-
-int main() {
-    bonjour();
-    return 0;
-}
