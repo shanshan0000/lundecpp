@@ -64,7 +64,13 @@ Week 1  | Day 1  | [Exercise 1.3](../../tree/day1-ex1.3) | [Solution](../../tree
 
 ## Project
 
+#### Forming teams: 
 
+https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
+
+#### Project description:
+[:books: Project description in pdf](../../tree/master/project)
+ 
 
 
 
