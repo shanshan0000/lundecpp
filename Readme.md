@@ -12,7 +12,7 @@
 
 [:point_right: :books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
 
-## :heartpulse::rocket::musical_note: Teaching Assistants :heartpulse::rocket::musical_note:
+## :heartpulse::rocket::musical_note::100: Teaching Assistants :heartpulse::rocket::musical_note::100:
 We have eight volunteer Teaching Assistants, from Promotion 2017 and Promotion 2018.
 They have each got an A in their LO02 course.
 Please don't hesitate to ask them questions.
