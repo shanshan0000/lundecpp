@@ -2,7 +2,7 @@
 
 ## Course videos
 
-[:point_right: :tv: Course videos on Bilibili](https://www.bilibili.com/video/BV1364y1h7sb?spm_id_from=pageDriver)
+[:tv: Course videos on Bilibili](https://www.bilibili.com/video/BV1364y1h7sb?spm_id_from=pageDriver)
 
 ## Online QA with Zoom, each Monday 18:00-21:40
 
@@ -14,17 +14,17 @@ Code secret : 973229
 
 ## Install CLion and Git
 
-[:point_right: :computer: Install CLion and Git](https://gitee.com/lundechen/hello)
+[:computer: Install CLion and Git](https://gitee.com/lundechen/hello)
 
 ## Announcement (For 2020, just for reference)
 
-[:point_right: :loudspeaker: Please read carefully the Announcement](../master/Announcement.md)
+[:loudspeaker: Please read carefully the Announcement](../master/Announcement.md)
 
 ## Textbooks, slides, exercises in pdf
 
-[:point_right: :books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
+[:books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
 
-## :heartpulse: :rocket: :musical_note: :100: Teaching Assistants :heartpulse: :rocket: :musical_note: :100:
+## :heartpulse: :rocket: :musical_note: :100: Teaching Assistants
 We have eight volunteer Teaching Assistants, from Promotion 2017 and Promotion 2018.
 They have each got an A in their LO02 course in the last year.
 Please don't hesitate to ask them questions.
@@ -36,11 +36,11 @@ in the WeChat group :rocket: :rocket: :rocket:.
 
 ![](img/ta.png)
 
-:clap: :clap: :clap: Please remember to say "thank you" each time they help :clap: :clap: :clap:.
+Please remember to say "thank you" each time they help :clap: :clap: :clap:.
 
 ## Corresponding Github repository (for TAs only)
 
-[:point_right: :gem: Corresponding Github repository (for TAs only)](https://github.com/cppshu/cpp_2021/tree/master)
+[Corresponding Github repository (for TAs only)](https://github.com/cppshu/cpp_2021/tree/master)
 
 ## TD
 
