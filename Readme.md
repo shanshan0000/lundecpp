@@ -30,9 +30,13 @@ They have each got an A in their LO02 course in the last year.
 Please don't hesitate to ask them questions.
 They are:
 
+TA-黎袁昊 ，TA-钟乐幸， TA-黄智梵 ，TA-jzk ，TA-施朱泽翾 ，TA-朱珂亿 ，TA-余南骏 ，TA-黄永辉  and TA-陈一铭 
+
+in the WeChat group :rocket: :rocket: :rocket:.
+
 ![](img/ta.png)
 
-Please remember to say "thank you" each time they help :clap: :clap: :clap:.
+:clap: :clap: :clap: Please remember to say "thank you" each time they help :clap: :clap: :clap:.
 
 ## Corresponding Github repository (for TAs only)
 
