@@ -36,7 +36,7 @@ Week | Day | Question | Solution
 ------- | ------- | ---------------- | ----------: 
 Week 1  | Day 1  | [Exercise 1.1](../../tree/day1-ex1.1) | [Solution](../../tree/day1-ex1.1-solution) 
 Week 1  | Day 1  | [Exercise 1.2](../../tree/day1-ex1.2) | [Solution](../../tree/day1-ex1.2-solution) 
-Week 1  | Day 1  | [Exercise 1.23](../../tree/day1-ex1.3) | [Solution](../../tree/day1-ex1.3-solution) 
+Week 1  | Day 1  | [Exercise 1.3](../../tree/day1-ex1.3) | [Solution](../../tree/day1-ex1.3-solution) 
 
 
 
