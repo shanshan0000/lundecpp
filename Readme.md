@@ -4,7 +4,7 @@
 
 #### Announcement
 
-[:point_right: :loudspreaker: Please read carefully the Announcement](../master/Announcement.md)
+[:point_right: :loudspeaker: Please read carefully the Announcement](../master/Announcement.md)
 
 #### Textbooks, slides, exercises
 
