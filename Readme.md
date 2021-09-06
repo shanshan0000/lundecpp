@@ -38,7 +38,7 @@ in the WeChat group :rocket: :rocket: :rocket:.
 
 Please remember to say "thank you" each time they help :clap: :clap: :clap:.
 
-## Corresponding Github repository (for TAs only)
+## Corresponding Github repository (private repository, for TAs only)
 
 [Corresponding Github repository (for TAs only)](https://github.com/cppshu/cpp_2021/tree/master)
 
