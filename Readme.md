@@ -2,7 +2,7 @@
 
 ## Course videos
 
-[:tv: Course videos are on Chaoxing Platform]
+:tv: Course videos are on Chaoxing Platform
 
 ## Online QA with Zoom, each Monday 18:00-20:40
 
