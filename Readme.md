@@ -28,7 +28,7 @@ Please remember to say "thank you" each time they help :clap: :clap: :clap:.
 
 ## Corresponding Github repository (for TAs only)
 
-[:point_right: :gem: Corresponding Github repository (for TAs only)](https://github.com/cppshu/cpp_2021_TA/tree/master)
+[:point_right: :gem: Corresponding Github repository (for TAs only)](https://github.com/cppshu/cpp_2021/tree/master)
 
 ## TD branches
 
@@ -36,6 +36,7 @@ Week | Day | Question | Solution
 ------- | ------- | ---------------- | ----------: 
 Week 1  | Day 1  | [Exercise 1.1](../../tree/day1-ex1.1) | [Solution](../../tree/day1-ex1.1-solution) 
 Week 1  | Day 1  | [Exercise 1.2](../../tree/day1-ex1.2) | [Solution](../../tree/day1-ex1.2-solution) 
+Week 1  | Day 1  | [Exercise 1.23](../../tree/day1-ex1.3) | [Solution](../../tree/day1-ex1.3-solution) 
 
 
 
