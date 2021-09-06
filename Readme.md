@@ -12,7 +12,7 @@
 
 [:point_right: :books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
 
-## Teaching Assistants
+## :heartpulse::rocket::musical_note: Teaching Assistants :heartpulse::rocket::musical_note:
 We have eight volunteer Teaching Assistants, from Promotion 2017 and Promotion 2018.
 They have each got an A in their LO02 course.
 Please don't hesitate to ask them questions.
@@ -20,6 +20,7 @@ They are:
 
 ![](img/ta.png)
 
+Please remember to say "thank you" each time they help :clap::clap::clap:.
 ## TD branches
 
 Week | Day | Question | Solution    
