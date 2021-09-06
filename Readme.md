@@ -4,7 +4,7 @@ https://gitee.com/lundechen/hello
 
 #### Announcement
 
-[Please read carefully the Announcement](../../master/Announcement.md)
+[Please read carefully the Announcement](../master/Announcement.md)
 
 
 
