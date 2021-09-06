@@ -1,5 +1,9 @@
 # LO02 C++ 2021
 
+## Course videos
+
+[:point_right: :tv: Course videos on Bilibili](https://www.bilibili.com/video/BV1364y1h7sb?spm_id_from=pageDriver)
+
 ## Install CLion and Git
 
 [:point_right: :computer: Install CLion and Git](https://gitee.com/lundechen/hello)
@@ -21,6 +25,11 @@ They are:
 ![](img/ta.png)
 
 Please remember to say "thank you" each time they help :clap: :clap: :clap:.
+
+## Corresponding Github repository (for TAs only)
+
+[:point_right: :gem: Corresponding Github repository (for TAs only)](https://github.com/cppshu/cpp_2021_TA/tree/master)
+
 ## TD branches
 
 Week | Day | Question | Solution    
