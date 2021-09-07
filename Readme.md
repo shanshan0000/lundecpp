@@ -75,6 +75,16 @@ Exercise | Solution
 [ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans) 
 [ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans) 
 [ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) 
+-                     | [ex7-ans](../../tree/ex7-ans) 
+-                     | [ex8-ans-1](../../tree/ex8-ans-1) [ex8-ans-2](../../tree/ex8-ans-2) 
+[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1) [ex9-ans-2](../../tree/ex9-ans-2) 
+[ex10](../../tree/ex6) | [ex10-ans](../../tree/ex10-ans) 
+
+
+
+
+
+
 
 
 ## Project
