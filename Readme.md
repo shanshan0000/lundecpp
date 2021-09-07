@@ -49,6 +49,18 @@ each Thursday, Wednesday and Friday, 8:00 to 11:40
 
 #### Classroom: 
 D413
+
+#### Tencent Meeting:
+
+点击链接入会，或添加至会议列表：
+
+https://meeting.tencent.com/s/ckxVNof1hVka?rs=25
+
+会议 ID：958 9491 5777
+
+会议直播：
+
+https://meeting.tencent.com/l/TfmYIwVlqSVP
  
 #### Which Operating System to boot from:
 Win-10-C-HPD413/6
@@ -57,7 +69,7 @@ Win-10-C-HPD413/6
 
 Exercise | Solution    
  ---------------- | ----------: 
-[Exercise 1](../../tree/day1-ex1.1) | [Solution](../../tree/day1-ex1.1-solution) 
+[Exercise 1](../../tree/ex1) | [Solution](../../tree/ex1-ans) 
 [Exercise 2](../../tree/ex2) | [Solution](../../tree/ex2-ans) 
 [Exercise 3](../../tree/ex3) | [Solution](../../tree/ex3-ans) 
 
