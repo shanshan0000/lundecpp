@@ -56,7 +56,7 @@ D413
 
 https://meeting.tencent.com/s/ckxVNof1hVka?rs=25
 
-会议 ID：958 9491 5777
+**会议 ID：958 9491 5777**
 
 会议直播：
 
@@ -72,6 +72,9 @@ Exercise | Solution
 [Exercise 1](../../tree/ex1) | [Solution](../../tree/ex1-ans) 
 [Exercise 2](../../tree/ex2) | [Solution](../../tree/ex2-ans) 
 [Exercise 3](../../tree/ex3) | [Solution](../../tree/ex3-ans) 
+[Exercise 4](../../tree/ex4) | [Solution](../../tree/ex4-ans) 
+[Exercise 5](../../tree/ex5) | [Solution](../../tree/ex5-ans) 
+[Exercise 6](../../tree/ex6) | [Solution](../../tree/ex6-ans) 
 
 
 ## Project
