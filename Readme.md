@@ -65,6 +65,13 @@ https://meeting.tencent.com/l/TfmYIwVlqSVP
 #### Which Operating System to boot from:
 Win-10-C-HPD413/6
 
+
+#### When you are blocked with CLion:
+
+- 重新 clone （VCS->Get from Version Control）试试
+
+- 或者关了 CLION, 删除项目的 .idea 文件夹，然后再次打开 Clion
+
 #### Questions & Solutions:
 
 Exercise | Solution    
