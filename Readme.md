@@ -69,12 +69,12 @@ Win-10-C-HPD413/6
 
 Exercise | Solution    
  ---------------- | ----------: 
-[Exercise 1](../../tree/ex1) | [Solution](../../tree/ex1-ans) 
-[Exercise 2](../../tree/ex2) | [Solution](../../tree/ex2-ans) 
-[Exercise 3](../../tree/ex3) | [Solution](../../tree/ex3-ans) 
-[Exercise 4](../../tree/ex4) | [Solution](../../tree/ex4-ans) 
-[Exercise 5](../../tree/ex5) | [Solution](../../tree/ex5-ans) 
-[Exercise 6](../../tree/ex6) | [Solution](../../tree/ex6-ans) 
+[ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans) 
+[ex2](../../tree/ex2) | [ex2-ans](../../tree/ex2-ans) 
+[ex3](../../tree/ex3) | [ex3-ans](../../tree/ex3-ans) 
+[ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans) 
+[ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans) 
+[ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) 
 
 
 ## Project
