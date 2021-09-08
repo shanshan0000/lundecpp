@@ -80,7 +80,7 @@ Exercise | Solution
 [ex2](../../tree/ex2) | [ex2-ans](../../tree/ex2-ans) 
 [ex3](../../tree/ex3) | [ex3-ans](../../tree/ex3-ans) 
 [ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans) 
-[ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans) 
+[ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans)  [ex5-ans-extended](../../tree/ex5-ans-extended)
 [ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) 
 NAN                   | [ex7-ans](../../tree/ex7-ans) 
 NAN                   | [ex8-ans-1](../../tree/ex8-ans-1) [ex8-ans-2](../../tree/ex8-ans-2) 
