@@ -90,7 +90,7 @@ NAN                   | [ex8-ans-1](../../tree/ex8-ans-1) [ex8-ans-2](../../tree
 [ex12](../../tree/ex12) | [ex12-ans](../../tree/ex12-ans)  | [Reverse String](https://leetcode.com/problems/reverse-string/) [ex12-leetcode](../../tree/ex12-leetcode) | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) |
 NAN | [ex13-ans](../../tree/ex13-ans)  | |
 [ex14](../../tree/ex14) | [ex14-ans](../../tree/ex14-ans)  | |
-[ex15](../../tree/ex15) | [ex15-ans](../../tree/ex15-ans)  | |
+[ex15](../../tree/ex15) | [ex15-ans](../../tree/ex15-ans)  | [video](https://www.bilibili.com/video/BV1cf4y1E77w/) |
 
 
 
