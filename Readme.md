@@ -74,7 +74,7 @@ Win-10-C-HPD413/6
 
 #### Questions & Solutions:
 
-Exercise | Solution  | Leetcode  | Video/Blog
+Exercise | Solution  | Leetcode  | Video
 ---------------- | ----------------  | ----------------| ----------------: 
 [ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans)  | |
 [ex2](../../tree/ex2) | [ex2-ans](../../tree/ex2-ans) | |
