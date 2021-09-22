@@ -125,6 +125,9 @@ https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 #### Project description:
 [:books: Project description in pdf](../../tree/master/project)
  
+#### UML online
 
+https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=ClassDiagram
 
+https://online.visual-paradigm.com/app/diagrams/#diagram:type=ClassDiagram&gallery=/repository/e3676c7c-2bb5-44a1-a600-4502fd09e99e.xml&name=Car
 
