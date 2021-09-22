@@ -104,7 +104,7 @@ NAN | [ex13-ans](../../tree/ex13-ans)  | |
 [ex20](../../tree/ex20-q1)  | [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | |
 [ex20-q4](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | |
 NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1)  | |
-NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |
+NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |  [video](https://www.bilibili.com/video/bv1q64y187Ah)
 
 
 
