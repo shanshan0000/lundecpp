@@ -95,6 +95,22 @@ NAN | [ex13-ans](../../tree/ex13-ans)  | |
 [ex17](../../tree/ex17) | [ex17-ans](../../tree/ex17-ans)  |   |  [video](https://www.bilibili.com/video/BV1234y1S72T)
 [ex18](../../tree/ex18) | [ex18-ans](../../tree/ex18-ans)  | |
 [ex19](../../tree/ex19) | [ex19-ans](../../tree/ex19-ans)  | |
+[ex20](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  | |
+[ex20](../../tree/ex20-q1)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | |
+[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1)  | |
+[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-2](../../tree/ex20-q3-ans-2)  | |
+[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-3](../../tree/ex20-q3-ans-3)  | |
+[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-4](../../tree/ex20-q3-ans-4)  | |
+[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | |
+[ex20-q4](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | |
+NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1)  | |
+NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |
+
+
+
+
+
+
 
 
 
