@@ -105,7 +105,7 @@ NAN | [ex13-ans](../../tree/ex13-ans)  | |
 [ex20-q4](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | |
 NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1)  | |
 NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |  [video](https://www.bilibili.com/video/bv1q64y187Ah)
-[ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  | |
+[ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  | [leetcode-1941](../../tree/leetcode-1941) |
 NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | |
 
 
