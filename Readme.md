@@ -109,7 +109,7 @@ NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |  [video](https://www.bilibi
 NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | |
 [ex21](../../tree/ex21-q1)  | [ex21-q1-ans-1](../../tree/ex21-q1-ans-1)  | | [blog](https://blog.csdn.net/m0_37968340/article/details/74165221)
 [ex21](../../tree/ex21-q1)  | [ex21-q1-ans-2](../../tree/ex21-q1-ans-2)  | | [blog](https://en.cppreference.com/w/cpp/language/operators)
-[ex21](../../tree/ex21-q1)  | [ex21-q2-ans](../../tree/ex21-q2-ans)  | | 
+[ex21](../../tree/ex21-q1)  | [ex21-q2-ans](../../tree/ex21-q2-ans)  | | [blog](https://stackoverflow.com/questions/36557340/implicit-conversion-from-int-to-a-class-type)
 [ex21](../../tree/ex21-q1)  | [ex21-q3-ans](../../tree/ex21-q3-ans)  | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/increment-and-decrement-operator-overloading-cpp?view=msvc-160)
 [ex21](../../tree/ex21-q1)  | [ex21-q4-ans](../../tree/ex21-q4-ans)  | [leetcode-1748](../../tree/leetcode-1748) |
 
