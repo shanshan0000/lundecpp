@@ -18,10 +18,6 @@ https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occur
 
 https://leetcode.com/problems/sum-of-unique-elements/
 
-https://leetcode.com/problems/reshape-the-matrix/
-
-https://leetcode.com/problems/matrix-diagonal-sum/
-
 https://leetcode.com/problems/implement-queue-using-stacks/
 
 https://leetcode.com/problems/implement-stack-using-queues/
