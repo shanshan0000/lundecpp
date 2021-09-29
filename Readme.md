@@ -117,6 +117,7 @@ NAN  | [ex22-q2-ans](../../tree/ex22-q2-ans)  |  |
 NAN  | [ex22-q3-ans](../../tree/ex22-q3-ans)  | [leetcode-1603](../../tree/leetcode-1603) | 
 NAN  | [ex22-q4-ans](../../tree/ex22-q4-ans)  |  | 
 NAN  | [ex22-q5-ans](../../tree/ex22-q5-ans)  |  | [video](https://www.bilibili.com/video/bv1Mg411F7Zs)
+NAN  | [ex23-ex24-solutions-pdf](../../tree/master/pdf/Pdf_Ex23_Ex24_solutions.pdf)  |  | 
 
 
 
