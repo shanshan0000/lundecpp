@@ -80,11 +80,15 @@ Exercise | Solution  | Leetcode  | Video
 [ex2](../../tree/ex2) | [ex2-ans](../../tree/ex2-ans) | |
 [ex3](../../tree/ex3) | [ex3-ans](../../tree/ex3-ans) | |
 [ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans)  | |
-[ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans)  [ex5-extended](../../tree/ex5-extended) | |
+[ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans)  | |
+[ex5](../../tree/ex5) | [ex5-extended](../../tree/ex5-extended) | |
 [ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | |
 NAN                   | [ex7-ans](../../tree/ex7-ans) | |
-NAN                   | [ex8-ans-1](../../tree/ex8-ans-1) [ex8-ans-2](../../tree/ex8-ans-2) | |
-[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1) [ex9-ans-2](../../tree/ex9-ans-2) [ex9-ans-extended](../../tree/ex9-ans-extended)  | |
+NAN                   | [ex8-ans-1](../../tree/ex8-ans-1) | |
+NAN                   | [ex8-ans-2](../../tree/ex8-ans-2) | |
+[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | |
+[ex9](../../tree/ex9) | [ex9-ans-2](../../tree/ex9-ans-2)  | |
+[ex9](../../tree/ex9) | [ex9-ans-extended](../../tree/ex9-ans-extended)  | |
 [ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | |
 [ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | |
 [ex12](../../tree/ex12) | [ex12-ans](../../tree/ex12-ans)  | [leetcode-344](../../tree/leetcode-344) | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) 
