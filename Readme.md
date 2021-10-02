@@ -74,57 +74,58 @@ Win-10-C-HPD413/6
 
 #### Questions & Solutions:
 
-Exercise | Solution  | Leetcode  | Video
----------------- | ----------------  | ----------------| ----------------: 
-[ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans)  | |
-[ex2](../../tree/ex2) | [ex2-ans](../../tree/ex2-ans) | |
-[ex3](../../tree/ex3) | [ex3-ans](../../tree/ex3-ans) | |
-[ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans)  | |
-[ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans)  | |
-[ex5](../../tree/ex5) | [ex5-extended](../../tree/ex5-extended) | |
-[ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | |
-NAN                   | [ex7-ans](../../tree/ex7-ans) | |
-NAN                   | [ex8-ans-1](../../tree/ex8-ans-1) | |
-NAN                   | [ex8-ans-2](../../tree/ex8-ans-2) | |
-[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | |
-[ex9](../../tree/ex9) | [ex9-ans-2](../../tree/ex9-ans-2)  | |
-[ex9](../../tree/ex9) | [ex9-ans-extended](../../tree/ex9-ans-extended)  | |
-[ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | |
-[ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | |
-[ex12](../../tree/ex12) | [ex12-ans](../../tree/ex12-ans)  | [leetcode-344](../../tree/leetcode-344) | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) 
+Exercise | Solution  | Leetcode  | Video | Blog
+---------------- | ----------------  | ----------------| ----------------| ----------------: 
+[ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans)  | | |
+[ex2](../../tree/ex2) | [ex2-ans](../../tree/ex2-ans) | | |
+[ex3](../../tree/ex3) | [ex3-ans](../../tree/ex3-ans) | | |
+[ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans)  | | |
+[ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans)  | | |
+[ex5](../../tree/ex5) | [ex5-extended](../../tree/ex5-extended) | | |
+[ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | | |
+NAN                   | [ex7-ans](../../tree/ex7-ans) | | |
+NAN                   | [ex8-ans-1](../../tree/ex8-ans-1) | | |
+ NAN                   | [ex8-ans-2](../../tree/ex8-ans-2) | | |
+[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | | |
+[ex9](../../tree/ex9) | [ex9-ans-2](../../tree/ex9-ans-2)  | | |
+[ex9](../../tree/ex9) | [ex9-ans-extended](../../tree/ex9-ans-extended)  | | |
+[ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | |
+[ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | | |
+[ex12](../../tree/ex12) | [ex12-ans](../../tree/ex12-ans)  | [leetcode-344](../../tree/leetcode-344) | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) |
 NAN | [ex13-ans](../../tree/ex13-ans)  | |
-[ex14](../../tree/ex14) | [ex14-ans](../../tree/ex14-ans)  | |
-[ex15](../../tree/ex15) | [ex15-ans](../../tree/ex15-ans)  |  | [video](https://www.bilibili.com/video/BV1cf4y1E77w/) 
-[ex16](../../tree/ex16) | [ex16-ans](../../tree/ex16-ans)  | |
-[ex17](../../tree/ex17) | [ex17-ans](../../tree/ex17-ans)  |   |  [video](https://www.bilibili.com/video/BV1234y1S72T)
-[ex18](../../tree/ex18) | [ex18-ans](../../tree/ex18-ans)  | |
-[ex19](../../tree/ex19) | [ex19-ans](../../tree/ex19-ans)  | |
-[ex20](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  | |
-[ex20](../../tree/ex20-q1)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | |
-[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1)  | |
-[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-2](../../tree/ex20-q3-ans-2)  | |
-[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-3](../../tree/ex20-q3-ans-3)  | |
-[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-4](../../tree/ex20-q3-ans-4)  | |
-[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | |
-[ex20-q4](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | |
-NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1)  | |
-NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |  [video](https://www.bilibili.com/video/bv1q64y187Ah)
-[ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  | [leetcode-1941](../../tree/leetcode-1941) |
-NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | |
-[ex21](../../tree/ex21-q1)  | [ex21-q1-ans-1](../../tree/ex21-q1-ans-1)  | | [blog](https://blog.csdn.net/m0_37968340/article/details/74165221)
-[ex21](../../tree/ex21-q1)  | [ex21-q1-ans-2](../../tree/ex21-q1-ans-2)  | | [blog](https://en.cppreference.com/w/cpp/language/operators)
-[ex21](../../tree/ex21-q1)  | [ex21-q2-ans](../../tree/ex21-q2-ans)  | | [blog](https://stackoverflow.com/questions/36557340/implicit-conversion-from-int-to-a-class-type)
-[ex21](../../tree/ex21-q1)  | [ex21-q3-ans](../../tree/ex21-q3-ans)  | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/increment-and-decrement-operator-overloading-cpp?view=msvc-160)
-[ex21](../../tree/ex21-q1)  | [ex21-q4-ans](../../tree/ex21-q4-ans)  | [leetcode-1748](../../tree/leetcode-1748) | [video](https://www.bilibili.com/video/bv183411276k)
-NAN  | [ex22-q1-ans](../../tree/ex22-q1-ans)  |  | 
-NAN  | [ex22-q2-ans](../../tree/ex22-q2-ans)  |  | 
-NAN  | [ex22-q3-ans](../../tree/ex22-q3-ans)  | [leetcode-1603](../../tree/leetcode-1603) | 
-NAN  | [ex22-q4-ans](../../tree/ex22-q4-ans)  |  | 
-NAN  | [ex22-q5-ans](../../tree/ex22-q5-ans)  |  | [video](https://www.bilibili.com/video/bv1Mg411F7Zs)
-NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1Su411f7iT)
-NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |  | 
-NAN  | [ex23-q3-q4-q5-ans](../../tree/ex23-q3-q4-q5-ans)  |  | 
-10-01 Holiday  | [ex23-ex24-solution-pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf)  |  | 
+[ex14](../../tree/ex14) | [ex14-ans](../../tree/ex14-ans)  | | |
+[ex15](../../tree/ex15) | [ex15-ans](../../tree/ex15-ans)  |  | [video](https://www.bilibili.com/video/BV1cf4y1E77w/) |
+[ex16](../../tree/ex16) | [ex16-ans](../../tree/ex16-ans)  | | |
+[ex17](../../tree/ex17) | [ex17-ans](../../tree/ex17-ans)  |   |  [video](https://www.bilibili.com/video/BV1234y1S72T) |
+[ex18](../../tree/ex18) | [ex18-ans](../../tree/ex18-ans)  | | |
+[ex19](../../tree/ex19) | [ex19-ans](../../tree/ex19-ans)  | | |
+[ex20](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  | | |
+[ex20](../../tree/ex20-q1)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | | |
+[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1)  | | |
+[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-2](../../tree/ex20-q3-ans-2)  |  | |
+[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-3](../../tree/ex20-q3-ans-3)  | | |
+[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-4](../../tree/ex20-q3-ans-4)  | | |
+[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | | |
+[ex20-q4](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
+NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1)  | | |
+NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |  [video](https://www.bilibili.com/video/bv1q64y187Ah) |
+[ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  | [leetcode-1941](../../tree/leetcode-1941) | | 
+NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | | |
+[ex21](../../tree/ex21-q1)  | [ex21-q1-ans-1](../../tree/ex21-q1-ans-1)  | | | [blog](https://blog.csdn.net/m0_37968340/article/details/74165221)
+[ex21](../../tree/ex21-q1)  | [ex21-q1-ans-2](../../tree/ex21-q1-ans-2)  | |  | [blog](https://en.cppreference.com/w/cpp/language/operators)
+[ex21](../../tree/ex21-q1)  | [ex21-q2-ans](../../tree/ex21-q2-ans)  | | | [blog](https://stackoverflow.com/questions/36557340/implicit-conversion-from-int-to-a-class-type)
+[ex21](../../tree/ex21-q1)  | [ex21-q3-ans](../../tree/ex21-q3-ans)  | | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/increment-and-decrement-operator-overloading-cpp?view=msvc-160)
+[ex21](../../tree/ex21-q1)  | [ex21-q4-ans](../../tree/ex21-q4-ans)  | [leetcode-1748](../../tree/leetcode-1748) | [video](https://www.bilibili.com/video/bv183411276k) |
+NAN  | [ex22-q1-ans](../../tree/ex22-q1-ans)  |  |  |
+NAN  | [ex22-q2-ans](../../tree/ex22-q2-ans)  |  |  |
+NAN  | [ex22-q3-ans](../../tree/ex22-q3-ans)  | [leetcode-1603](../../tree/leetcode-1603) |  |
+NAN  | [ex22-q4-ans](../../tree/ex22-q4-ans)  |  |  |
+NAN  | [ex22-q5-ans](../../tree/ex22-q5-ans)  |  | [video](https://www.bilibili.com/video/bv1Mg411F7Zs) |
+NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1Su411f7iT) |
+NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |  |  |
+NAN  | [ex23-q3-q4-q5-ans](../../tree/ex23-q3-q4-q5-ans) |  |  | 
+10-01 Holiday  | [ex23-ex24-solution-pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf)  |  |  |
+
 
 
 
