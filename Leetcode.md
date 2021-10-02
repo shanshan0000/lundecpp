@@ -12,8 +12,6 @@ https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 
 ## Hashmap
 
-https://leetcode.com/problems/finding-pairs-with-a-certain-sum/
-
 https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 
 https://leetcode.com/problems/sum-of-unique-elements/
