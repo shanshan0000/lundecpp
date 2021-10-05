@@ -36,6 +36,9 @@ https://leetcode.com/problems/seat-reservation-manager/
 
 https://leetcode.com/problems/subrectangle-queries/
 
+https://leetcode.com/problems/reshape-the-matrix/
+
+
 
 
 
