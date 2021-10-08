@@ -147,6 +147,9 @@ NAN  | [ex23-q3-q4-q5-ans](../../tree/ex23-q3-q4-q5-ans) |  |  |
 
 [How do I declare an array of objects whose class has no default constructor?](https://stackoverflow.com/questions/2343558/how-do-i-declare-an-array-of-objects-whose-class-has-no-default-constructor)
 
+[Why don't std::vector's elements need a default constructor?](https://stackoverflow.com/questions/2376989/why-dont-stdvectors-elements-need-a-default-constructor)
+
+[Object array initialization without default constructor](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor)
 
 
 
