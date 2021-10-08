@@ -122,9 +122,10 @@ NAN  | [ex22-q3-ans](../../tree/ex22-q3-ans)  | [leetcode-1603](../../tree/leetc
 NAN  | [ex22-q4-ans](../../tree/ex22-q4-ans)  |  |  |
 NAN  | [ex22-q5-ans](../../tree/ex22-q5-ans)  |  | [video](https://www.bilibili.com/video/bv1Mg411F7Zs) |
 NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1Su411f7iT) |
-NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |  |  |
-NAN  | [ex23-q3-q4-q5-ans](../../tree/ex23-q3-q4-q5-ans) |  |  | 
 10-01 Holiday  | [ex23-ex24-solution-pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf)  |  |  |
+NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |   |  |  [blog1](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor) [blog2](http://www.cplusplus.com/forum/general/49311/) [blog3](http://www.cplusplus.com/forum/general/49311/) 
+NAN  | [ex23-q4-ans](../../tree/ex23-q3-q4-q5-ans)  |  |  |
+NAN  | [ex23-q5-ans](../../tree/ex23-q3-q4-q5-ans)  |   | [video](https://www.bilibili.com/video/bv1br4y127MK) | [blog](https://www.geeksforgeeks.org/destructors-c/)
 
 
 
@@ -145,15 +146,9 @@ NAN  | [ex23-q3-q4-q5-ans](../../tree/ex23-q3-q4-q5-ans) |  |  |
 #### Ex23
 [What is the difference between association, aggregation and composition?](https://stackoverflow.com/questions/885937/what-is-the-difference-between-association-aggregation-and-composition)
 
-[How do I declare an array of objects whose class has no default constructor?](https://stackoverflow.com/questions/2343558/how-do-i-declare-an-array-of-objects-whose-class-has-no-default-constructor)
 
-[Why don't std::vector's elements need a default constructor?](https://stackoverflow.com/questions/2376989/why-dont-stdvectors-elements-need-a-default-constructor)
 
-[Object array initialization without default constructor](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor)
 
-[Array of objects with no default constructor workaround](http://www.cplusplus.com/forum/general/49311/)
-
-[https://tutorialink.com/cpp/array-of-objects-in-cpp.cpp](Array of Objects in c++)
 
 
 
@@ -171,4 +166,23 @@ https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=ClassDiagram
 
 https://online.visual-paradigm.com/app/diagrams/#diagram:type=ClassDiagram&gallery=/repository/e3676c7c-2bb5-44a1-a600-4502fd09e99e.xml&name=Car
+
+## Asking Questions
+
+#### Principe
+Le principe est le suivant :
+
+Google First, Peers Second, TAs third, Profs Last.
+
+Questions will be answered selectively. Questions won't be answered if:
+- they could be solved on a simple Google search
+- they are out of the scope of the course
+- well in advance in the progress of the course
+- professors think that it's not interesting for discussion
+- they are asked in personal WeChat chats 
+
+Learning how to use Google & Baidu & Bing to solve programming impasses is an important skill you should develop during this course.
+
+#### Office Hour
+Office visit is NOT welcome unless you make an appointment three days in advance.
 

@@ -1,4 +1,4 @@
-# 2020, just for reference
+# This Document was for Year 2020, just for reference
 
 
 Bonjour tout le monde!
@@ -38,15 +38,9 @@ Questions will be answered selectively. Questions won't be answered if:
 
 Learning how to use Google & Baidu & Bing to solve programming impasses is an important skill you should develop during this course.
 
-En dehors des heures de cours et de TD, vous pouvez poser vos questions sur le groupe WeChat et les profs vous répondront aux heures suivantes  :
-- Lundi de 17h00 à 18h00
-- Mercredi de 17h00 à 18h00
-
 Pour des questions privées, merci d'envoyer vos questions par mail à ces adresses ci-dessous :
 lunde.chen@yahoo.fr (Lunde Chen)
 antoine.jouglet@hds.utc.fr (Antoine jouglet)
-p.blondel@net.estia.fr (Paul Blondel)
-
 
 IV. Notes
 Voici comment seront calculées les notes de l'UV (sur un total de 105, au lieu de 100):
