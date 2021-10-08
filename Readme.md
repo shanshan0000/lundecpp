@@ -151,9 +151,9 @@ NAN  | [ex23-q3-q4-q5-ans](../../tree/ex23-q3-q4-q5-ans) |  |  |
 
 [Object array initialization without default constructor](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor)
 
+[Array of objects with no default constructor workaround](http://www.cplusplus.com/forum/general/49311/)
 
-
-
+[https://tutorialink.com/cpp/array-of-objects-in-cpp.cpp](Array of Objects in c++)
 
 
 
