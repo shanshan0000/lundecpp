@@ -28,9 +28,6 @@ https://leetcode.com/problems/iterator-for-combination/
 
 https://leetcode.com/problems/clone-graph/
 
-## Set
-
-https://leetcode.com/problems/seat-reservation-manager/
 
 ## Vector
 
