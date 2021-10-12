@@ -126,7 +126,7 @@ NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  |  | [video](https://www.bilibili.
 NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |   |  |  [blog1](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor) [blog2](http://www.cplusplus.com/forum/general/49311/) [blog3](http://www.cplusplus.com/forum/general/49311/) 
 NAN  | [ex23-q4-ans](../../tree/ex23-q3-q4-q5-ans)  |  |  |
 NAN  | [ex23-q5-ans](../../tree/ex23-q3-q4-q5-ans)  |   | [video](https://www.bilibili.com/video/bv1br4y127MK) | [blog](https://www.geeksforgeeks.org/destructors-c/)
-
+NAN | [ex23-q9-ans](../../tree/ex23-q9-ans)  | | |
 
 
 ## Reading Materials:
