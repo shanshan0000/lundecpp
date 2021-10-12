@@ -16,10 +16,6 @@ Code secret : 973229
 
 [:computer: Install CLion and Git](https://gitee.com/lundechen/hello)
 
-## Announcement (For 2020, just for reference)
-
-[:loudspeaker: Please read carefully the Announcement](../master/Announcement.md)
-
 ## Textbooks, slides, exercises in pdf
 
 [:books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
@@ -155,18 +151,42 @@ NAN | [ex23-q9-ans](../../tree/ex23-q9-ans)  | | [video](https://www.bilibili.co
 
 ## Project
 
+#### Project
+
+Dans le cadre de cet UV, vous travaillerez par groupe sur un projet C++ en rapport avec le contenu de votre cours et des TDs.
+Chaque groupe sera formé de 4 à 5 étudiants.
+Vous devrez rendre un livrable le ?? novembre à 23h59 au plus tard (!) sur: "Chaoxing Plateform" - Section Homework (作业).
+Plus de détails seront donnés dans la fiche projet qui vous sera transmise plus tard.
+
 #### Forming teams: 
 
 https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 
 #### Project description:
 [:books: Project description in pdf](../../tree/master/project)
- 
+
+
 #### UML online
 
 https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=ClassDiagram
 
 https://online.visual-paradigm.com/app/diagrams/#diagram:type=ClassDiagram&gallery=/repository/e3676c7c-2bb5-44a1-a600-4502fd09e99e.xml&name=Car
+
+
+## Notes & Exam:
+
+Voici comment seront calculées les notes de l'UV (sur un total de 105, au lieu de 100): 
+
+- La présence en cours : 15% 
+- L'examen mi-terme : 30%
+- Le projet : 20% L'examen final : 40%
+
+Some further clarifications on mid-term exam:
+
+- You could print the pdf of poly_cours_opt and bring it with you. Your personal paper notebooks as well. But the poly d’exercices corrigés is not allowed. Chinese textbooks are not allowed.
+- Dictonaries on smartphone are NOT allowed. All electronic devices are forbiden of use during exam.
+- If you have difficulties answering in French, you could answer in English. 
+
 
 ## Asking Questions
 
@@ -183,6 +203,10 @@ Questions will be answered selectively. Questions won't be answered if:
 - they are asked in personal WeChat chats 
 
 Learning how to use Google & Baidu & Bing to solve programming impasses is an important skill you should develop during this course.
+
+Pour des questions privées, merci d'envoyer vos questions par mail à ces adresses ci-dessous :
+- lunde.chen@yahoo.fr (Lunde Chen)
+- antoine.jouglet@hds.utc.fr (Antoine Jouglet)
 
 #### Office Hour
 Office visit is NOT welcome unless you make an appointment three days in advance.
