@@ -126,7 +126,8 @@ NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  |  | [video](https://www.bilibili.
 NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |   |  |  [blog1](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor) [blog2](http://www.cplusplus.com/forum/general/49311/) [blog3](http://www.cplusplus.com/forum/general/49311/) 
 NAN  | [ex23-q4-ans](../../tree/ex23-q3-q4-q5-ans)  |  |  |
 NAN  | [ex23-q5-ans](../../tree/ex23-q3-q4-q5-ans)  |   | [video](https://www.bilibili.com/video/bv1br4y127MK) | [blog](https://www.geeksforgeeks.org/destructors-c/)
-NAN | [ex23-q9-ans](../../tree/ex23-q9-ans)  | | |
+NAN | [ex23-q7-ans](../../tree/ex23-q6-q7-q8-ans)  | |  | [blog1](https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean) [blog2](https://stackoverflow.com/questions/2814188/c-array-of-pointers-delete-or-delete) [blog3](https://stackoverflow.com/questions/21731888/deleting-array-of-pointers/21732015)
+NAN | [ex23-q9-ans](../../tree/ex23-q9-ans)  | | [video](https://www.bilibili.com/video/bv1tQ4y1D7xg) | [blog1](https://www.delftstack.com/howto/cpp/cpp-vector-implementation/) [blog2](https://www.geeksforgeeks.org/shallow-copy-and-deep-copy-in-c/) [blog3](http://www.fredosaurus.com/notes-cpp/oop-condestructors/shallowdeepcopy.html)
 
 
 ## Reading Materials:
@@ -147,19 +148,6 @@ NAN | [ex23-q9-ans](../../tree/ex23-q9-ans)  | | |
 [What is the difference between association, aggregation and composition?](https://stackoverflow.com/questions/885937/what-is-the-difference-between-association-aggregation-and-composition)
 
 
-
-leetcode 1476 
-
-
-https://stackoverflow.com/questions/21731888/deleting-array-of-pointers/21732015 
-
-C++ explicit 关键字 
-
-https://stackoverflow.com/questions/26716333/deleting-pointers-in-destructor?rq=1 
-
-https://stackoverflow.com/questions/2814188/c-array-of-pointers-delete-or-delete 
-
-https://www.delftstack.com/howto/cpp/cpp-vector-implementation/ 
 
 
 
