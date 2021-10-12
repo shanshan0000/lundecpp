@@ -146,10 +146,11 @@ NAN | [ex23-q9-ans](../../tree/ex23-q9-ans)  | | |
 #### Ex23
 [What is the difference between association, aggregation and composition?](https://stackoverflow.com/questions/885937/what-is-the-difference-between-association-aggregation-and-composition)
 
-陈伦德
+
+
 leetcode 1476 
-08:28
-陈伦德
+
+
 https://stackoverflow.com/questions/21731888/deleting-array-of-pointers/21732015 
 
 C++ explicit 关键字 
