@@ -143,6 +143,7 @@ NAN | [ex23-q9-ans](../../tree/ex23-q9-ans)  | | [video](https://www.bilibili.co
 #### Ex23
 [What is the difference between association, aggregation and composition?](https://stackoverflow.com/questions/885937/what-is-the-difference-between-association-aggregation-and-composition)
 
+https://stackoverflow.com/questions/12387239/reference-member-variables-as-class-members
 
 
 
