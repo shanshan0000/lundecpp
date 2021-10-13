@@ -26,7 +26,7 @@ They have each got an A in their LO02 course in the last year.
 Please don't hesitate to ask them questions.
 They are:
 
-TA-黎袁昊 ，TA-钟乐幸， TA-黄智梵 ，TA-jzk ，TA-施朱泽翾 ，TA-朱珂亿 ，TA-余南骏 ，TA-黄永辉  and TA-陈一铭 
+TA-黎袁昊 ，TA-钟乐幸， TA-黄智梵 ，TA-景祖宽 ，TA-施朱泽翾 ，TA-朱珂亿 ，TA-余南骏 ，TA-黄永辉  and TA-陈一铭 
 
 in the WeChat group :rocket: :rocket: :rocket:.
 
@@ -141,7 +141,6 @@ NAN  | ex23-q3-q6-q8-q10-ans  |  [leetcode-1476](../../tree/leetcode-1476)  [lee
 [When should I write the keyword 'inline' for a function/method?](https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method)
 
 #### Ex23
-[What is the difference between association, aggregation and composition?](https://stackoverflow.com/questions/885937/what-is-the-difference-between-association-aggregation-and-composition)
 
 https://stackoverflow.com/questions/12387239/reference-member-variables-as-class-members
 
@@ -180,12 +179,13 @@ Voici comment seront calculées les notes de l'UV (sur un total de 105, au lieu 
 
 - La présence en cours : 15% 
 - L'examen mi-terme : 30%
-- Le projet : 20% L'examen final : 40%
+- Le projet : 20% 
+- L'examen final : 40%
 
 Some further clarifications on mid-term exam:
 
 - You could print the pdf of poly_cours_opt and bring it with you. Your personal paper notebooks as well. But the poly d’exercices corrigés is not allowed. Chinese textbooks are not allowed.
-- Dictonaries on smartphone are NOT allowed. All electronic devices are forbiden of use during exam.
+- Dictionaries on smartphone are NOT allowed. All electronic devices are forbidden of use during exam.
 - If you have difficulties answering in French, you could answer in English. 
 
 
