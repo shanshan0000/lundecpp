@@ -16,8 +16,6 @@ https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occur
 
 https://leetcode.com/problems/sum-of-unique-elements/
 
-https://leetcode.com/problems/design-authentication-manager/
-
 ## Iterator design model
 
 https://leetcode.com/problems/peeking-iterator/
