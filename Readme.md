@@ -127,8 +127,8 @@ NAN | [ex23-q9-ans](../../tree/ex23-q9-ans)  | | [video](https://www.bilibili.co
 NAN  | ex23-q3-q6-q8-q10-ans  |  [leetcode-1476](../../tree/leetcode-1476)  [leetcode-284-v1](../../tree/leetcode-284-v1)  [leetcode-284-v2](../../tree/leetcode-284-v2)      | [video](https://www.bilibili.com/video/bv1dv411g7XY)         |  [blog](https://stackoverflow.com/questions/885937/what-is-the-difference-between-association-aggregation-and-composition)
 NAN  | [ex23-q11-ans](../../tree/ex23-q11-ans)  |  |  |
 NAN  | [ex23-q13-ans](../../tree/ex23-q13-ans)  |  |  |
-NAN  | [ex24-q1-ans-1](../../tree/ex24-q1-ans-1)  |  |  |
-NAN  | [ex24-q1-ans-2](../../tree/ex24-q1-ans-2)  |  |  |
+NAN  | [ex24-q1-ans-1](../../tree/ex24-q1-ans-1)  | [leetcode-1286-v1](https://leetcode.com/problems/iterator-for-combination/discuss/1509630) |  |
+NAN  | [ex24-q1-ans-2](../../tree/ex24-q1-ans-2)  | [leetcode-1286-v2](https://leetcode.com/problems/iterator-for-combination/discuss/1521899) |  |
 NAN  | [ex24-q1-ans-3](../../tree/ex24-q1-ans-3)  |  |  |
 ## Reading Materials:
 
@@ -150,9 +150,9 @@ https://stackoverflow.com/questions/17842594/virtual-function-inheritance
 
 https://stackoverflow.com/questions/616380/multiple-inheritance-virtual-function-mess
 
-https://leetcode.com/problems/iterator-for-combination/discuss/1521899/c%2B%2B-iteration
 
-https://leetcode.com/problems/iterator-for-combination/discuss/1509630/Simple-C%2B%2B-Backtracking-Solution.-Faster-than-93
+
+
 
 
 ## Project
