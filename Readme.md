@@ -144,6 +144,12 @@ NAN  | [ex24-q1-ans-3](../../tree/ex24-q1-ans-3)  |  |  |
 
 [When should I write the keyword 'inline' for a function/method?](https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method)
 
+#### Inheritance
+
+https://stackoverflow.com/questions/17842594/virtual-function-inheritance
+
+https://stackoverflow.com/questions/616380/multiple-inheritance-virtual-function-mess
+
 
 
 ## Project
