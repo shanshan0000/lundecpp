@@ -8,7 +8,11 @@ https://leetcode.com/problems/design-parking-system/
 
 ## Comparator & Sorting
 
-https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+1356: https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+
+[solution-1](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/discuss/1511757)
+
+[solution-2](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/discuss/1476589)
 
 ## Hashmap
 
@@ -20,7 +24,7 @@ https://leetcode.com/problems/sum-of-unique-elements/
 
 https://leetcode.com/problems/peeking-iterator/
 
-https://leetcode.com/problems/iterator-for-combination/
+1286: https://leetcode.com/problems/iterator-for-combination/
 
 ## Graph
 
@@ -31,7 +35,6 @@ https://leetcode.com/problems/clone-graph/
 
 https://leetcode.com/problems/subrectangle-queries/
 
-https://leetcode.com/problems/reshape-the-matrix/
 
 
 

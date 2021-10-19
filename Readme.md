@@ -151,15 +151,21 @@ NAN  | [ex24-q1-ans-3](../../tree/ex24-q1-ans-3)  |  | [video](https://www.bilib
 
 [When should I write the keyword 'inline' for a function/method?](https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method)
 
-#### 
+#### inheritance
 
 https://stackoverflow.com/questions/17842594/virtual-function-inheritance
 
 https://stackoverflow.com/questions/616380/multiple-inheritance-virtual-function-mess
 
+#### iterator
+
 https://stackoverflow.com/questions/1879255/performance-of-traditional-for-loop-vs-iterator-foreach-in-java
 
+https://stackoverflow.com/questions/131241/why-use-iterators-instead-of-array-indices
 
+https://stackoverflow.com/questions/22739507/iterator-and-memory-usage
+
+https://stackoverflow.com/questions/628903/performance-advantages-to-iterators
 
 
 ## Project
