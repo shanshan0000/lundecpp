@@ -125,7 +125,11 @@ NAN  | [ex23-q5-ans](../../tree/ex23-q3-q4-q5-ans)  |   | [video](https://www.bi
 NAN | [ex23-q7-ans](../../tree/ex23-q6-q7-q8-ans)  | |  | [blog1](https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean) [blog2](https://stackoverflow.com/questions/2814188/c-array-of-pointers-delete-or-delete) [blog3](https://stackoverflow.com/questions/21731888/deleting-array-of-pointers/21732015)
 NAN | [ex23-q9-ans](../../tree/ex23-q9-ans)  | | [video](https://www.bilibili.com/video/bv1tQ4y1D7xg) | [blog1](https://www.delftstack.com/howto/cpp/cpp-vector-implementation/) [blog2](https://www.geeksforgeeks.org/shallow-copy-and-deep-copy-in-c/) [blog3](http://www.fredosaurus.com/notes-cpp/oop-condestructors/shallowdeepcopy.html)
 NAN  | ex23-q3-q6-q8-q10-ans  |  [leetcode-1476](../../tree/leetcode-1476)  [leetcode-284-v1](../../tree/leetcode-284-v1)  [leetcode-284-v2](../../tree/leetcode-284-v2)      | [video](https://www.bilibili.com/video/bv1dv411g7XY)         |  [blog](https://stackoverflow.com/questions/885937/what-is-the-difference-between-association-aggregation-and-composition)
-
+NAN  | [ex23-q11-ans](../../tree/ex23-q11-ans)  |  |  |
+NAN  | [ex23-q13-ans](../../tree/ex23-q13-ans)  |  |  |
+NAN  | [ex24-q1-ans-1](../../tree/ex24-q1-ans-1)  |  |  |
+NAN  | [ex24-q1-ans-2](../../tree/ex24-q1-ans-2)  |  |  |
+NAN  | [ex24-q1-ans-3](../../tree/ex24-q1-ans-3)  |  |  |
 ## Reading Materials:
 
 ### Basics
@@ -139,13 +143,6 @@ NAN  | ex23-q3-q6-q8-q10-ans  |  [leetcode-1476](../../tree/leetcode-1476)  [lee
 [Why are C++ inline functions in the header?](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
 
 [When should I write the keyword 'inline' for a function/method?](https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method)
-
-#### Ex23
-
-https://stackoverflow.com/questions/12387239/reference-member-variables-as-class-members
-
-
-
 
 
 
