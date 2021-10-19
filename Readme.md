@@ -129,7 +129,14 @@ NAN  | [ex23-q11-ans](../../tree/ex23-q11-ans)  |  |  |
 NAN  | [ex23-q13-ans](../../tree/ex23-q13-ans)  |  |  |
 NAN  | [ex24-q1-ans-1](../../tree/ex24-q1-ans-1)  | [leetcode-1286-v1](https://leetcode.com/problems/iterator-for-combination/discuss/1509630) |  |
 NAN  | [ex24-q1-ans-2](../../tree/ex24-q1-ans-2)  | [leetcode-1286-v2](https://leetcode.com/problems/iterator-for-combination/discuss/1521899) |  |
-NAN  | [ex24-q1-ans-3](../../tree/ex24-q1-ans-3)  |  |  |
+NAN  | [ex24-q1-ans-3](../../tree/ex24-q1-ans-3)  |  | [video](https://www.bilibili.com/video/BV1Jh411n7UD/) |
+
+
+
+
+
+
+
 ## Reading Materials:
 
 ### Basics
@@ -150,7 +157,7 @@ https://stackoverflow.com/questions/17842594/virtual-function-inheritance
 
 https://stackoverflow.com/questions/616380/multiple-inheritance-virtual-function-mess
 
-
+https://stackoverflow.com/questions/1879255/performance-of-traditional-for-loop-vs-iterator-foreach-in-java
 
 
 
