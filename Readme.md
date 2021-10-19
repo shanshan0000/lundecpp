@@ -144,12 +144,15 @@ NAN  | [ex24-q1-ans-3](../../tree/ex24-q1-ans-3)  |  |  |
 
 [When should I write the keyword 'inline' for a function/method?](https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method)
 
-#### Inheritance
+#### 
 
 https://stackoverflow.com/questions/17842594/virtual-function-inheritance
 
 https://stackoverflow.com/questions/616380/multiple-inheritance-virtual-function-mess
 
+https://leetcode.com/problems/iterator-for-combination/discuss/1521899/c%2B%2B-iteration
+
+https://leetcode.com/problems/iterator-for-combination/discuss/1509630/Simple-C%2B%2B-Backtracking-Solution.-Faster-than-93
 
 
 ## Project
