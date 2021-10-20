@@ -130,6 +130,8 @@ NAN  | [ex23-q13-ans](../../tree/ex23-q13-ans)  |  |  |
 NAN  | [ex24-q1-ans-1](../../tree/ex24-q1-ans-1)  | [leetcode-1286-v1](https://leetcode.com/problems/iterator-for-combination/discuss/1509630) |  |
 NAN  | [ex24-q1-ans-2](../../tree/ex24-q1-ans-2)  | [leetcode-1286-v2](https://leetcode.com/problems/iterator-for-combination/discuss/1521899) |  |
 NAN  | [ex24-q1-ans-3](../../tree/ex24-q1-ans-3)  |  | [video](https://www.bilibili.com/video/BV1Jh411n7UD/) |
+NAN  | [ex24-q2-q3-q4-q5-q6-ans](../../tree/ex24-q2-q3-q4-q5-q6-ans)  |  | [video](https://www.bilibili.com/video/bv1ih411b7Xr/) |
+
 
 
 
