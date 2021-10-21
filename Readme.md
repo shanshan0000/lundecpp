@@ -194,7 +194,7 @@ Voici comment seront calculées les notes de l'UV (sur un total de 105, au lieu 
 - Le projet : 20% 
 - L'examen final : 40%
 
-Some further clarifications on mid-term exam:
+Some further clarifications on mid-term/final exam:
 
 - You could print the pdf of poly_cours_opt and bring it with you. Your personal paper notebooks are NOT allowed. The poly d’exercices corrigés is NOT allowed. Chinese textbooks are not allowed. Any other reference book is NOT allowed.
 - Dictionaries on smartphone are NOT allowed. All electronic devices are forbidden of use during exam.
