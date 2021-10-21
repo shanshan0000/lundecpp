@@ -1,34 +1,13 @@
-## Pointer & Reference
-
-https://leetcode.com/problems/reverse-string/
-
-## Exception Handling
-
-https://leetcode.com/problems/design-parking-system/
-
 ## Comparator & Sorting
 
 https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/discuss/1511757
 
 https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/discuss/1476589
 
-## Hashmap
 
-https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
+# Sort
 
-https://leetcode.com/problems/sum-of-unique-elements/
+https://leetcode.com/problems/sorting-the-sentence/discuss/1516239
 
-## Iterator design model
+https://leetcode.com/problems/sorting-the-sentence/discuss/1530870/
 
-https://leetcode.com/problems/peeking-iterator/
-
-https://leetcode.com/problems/iterator-for-combination/
-
-## Graph
-
-https://leetcode.com/problems/clone-graph/
-
-
-## Vector
-
-https://leetcode.com/problems/subrectangle-queries/

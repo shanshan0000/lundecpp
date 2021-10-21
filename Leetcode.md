@@ -2,14 +2,13 @@
 
 https://leetcode.com/problems/reverse-string/
 
-## Exception Handling
+## Design
 
 https://leetcode.com/problems/design-parking-system/
 
-## Comparator & Sorting
+https://leetcode.com/problems/design-an-ordered-stream/
 
-https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
-
+https://leetcode.com/problems/encode-and-decode-tinyurl/
 
 ## Hashmap
 
@@ -23,11 +22,25 @@ https://leetcode.com/problems/peeking-iterator/
 
 https://leetcode.com/problems/iterator-for-combination/
 
-## Graph
+https://leetcode.com/problems/flatten-nested-list-iterator/
+
+## Graph (To remove?)
 
 https://leetcode.com/problems/clone-graph/
 
-
 ## Vector
 
-https://leetcode.com/problems/subrectangle-queries/
+https://leetcode.com/problems/number-of-good-pairs/
+
+## String 
+
+https://leetcode.com/problems/defanging-an-ip-address/
+
+## Comparator & Sort
+
+https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+
+https://leetcode.com/problems/sort-array-by-increasing-frequency/
+
+https://leetcode.com/problems/sorting-the-sentence/
+
