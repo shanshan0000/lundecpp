@@ -8,8 +8,9 @@ https://leetcode.com/problems/design-parking-system/
 
 ## Comparator & Sorting
 
-https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/discuss/1511757
 
+https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/discuss/1476589
 
 ## Hashmap
 
