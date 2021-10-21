@@ -32,10 +32,6 @@ https://leetcode.com/problems/clone-graph/
 
 https://leetcode.com/problems/number-of-good-pairs/
 
-## String 
-
-https://leetcode.com/problems/defanging-an-ip-address/
-
 ## Comparator & Sort
 
 https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
