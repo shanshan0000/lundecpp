@@ -1,3 +1,6 @@
+## Hashmap
+
+https://leetcode.com/problems/unique-morse-code-words/discuss/1524232
 
 ## Iterator design model
 
@@ -15,3 +18,6 @@ https://leetcode.com/problems/sorting-the-sentence/discuss/1516239
 
 https://leetcode.com/problems/sorting-the-sentence/discuss/1530870/
 
+## String
+
+https://leetcode.com/problems/to-lower-case/discuss/1515360
