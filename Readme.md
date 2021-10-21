@@ -200,6 +200,16 @@ Some further clarifications on mid-term exam:
 - Dictionaries on smartphone are NOT allowed. All electronic devices are forbidden of use during exam.
 - If you have difficulties answering in French, you could answer in English. 
 
+#### 考试提醒：
+
+1. 答题纸**单面**答题。因为答题纸需要扫描发给法国老师。
+
+2. 每张答题纸最上面写上学号、中文姓名、姓名拼音。
+
+3. 每张答题纸最上面写上序号，比如 1/3, 2/3, 3/3。或者 1/4, 2/4, 3/4, 4/4。
+
+4. 不要使用涂改液、修正带，有可能会影响扫描效果。
+
 
 ## Asking Questions
 
