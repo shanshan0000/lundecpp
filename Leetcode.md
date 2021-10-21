@@ -24,10 +24,6 @@ https://leetcode.com/problems/iterator-for-combination/
 
 https://leetcode.com/problems/flatten-nested-list-iterator/
 
-## Graph (To remove?)
-
-https://leetcode.com/problems/clone-graph/
-
 ## Vector
 
 https://leetcode.com/problems/number-of-good-pairs/
