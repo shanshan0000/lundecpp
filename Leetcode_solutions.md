@@ -1,4 +1,8 @@
-## Hashmap
+## design parking system
+- With Exception Handling
+
+## check if all characters have equal number of occurrences
+- Could use unordered_map + set
 
 ## Iterator design model
 
@@ -10,9 +14,12 @@ https://leetcode.com/problems/flatten-nested-list-iterator/discuss/1530241/
 
 https://leetcode.com/problems/flatten-nested-list-iterator/discuss/1509179/
 
-## String
+## to lower case
 
 https://leetcode.com/problems/to-lower-case/discuss/1515360
+
+## reverse string
+- swap function, passing by pointer, passing by reference
 
 ## Comparator & Sorting
 
@@ -27,11 +34,7 @@ https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/discuss/1476
 
 https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1529350/
 
-
-## Misc 
-
-#### leetcode-1476 
-https://leetcode.com/problems/subrectangle-queries/
+## leetcode 1476 : subrectangle queries
 
 ```c++
 class Matrix{

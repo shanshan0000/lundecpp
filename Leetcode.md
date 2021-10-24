@@ -6,8 +6,6 @@ https://leetcode.com/problems/design-parking-system/
 
 https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 
-https://leetcode.com/problems/sum-of-unique-elements/
-
 ## Iterator design model
 
 https://leetcode.com/problems/peeking-iterator/
@@ -15,8 +13,6 @@ https://leetcode.com/problems/peeking-iterator/
 https://leetcode.com/problems/iterator-for-combination/
 
 ## Vector
-
-https://leetcode.com/problems/number-of-good-pairs/
 
 https://leetcode.com/problems/subrectangle-queries/
 
