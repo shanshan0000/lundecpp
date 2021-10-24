@@ -27,7 +27,9 @@ https://leetcode.com/problems/sorting-the-sentence/discuss/1530870/
 https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1529350/
 
 
-## leetcode-1476 
+## Extensions 
+
+#### leetcode-1476 
 https://leetcode.com/problems/subrectangle-queries/
 
 ```c++
@@ -39,9 +41,6 @@ class Matrix{
 }
 
  ```
-
-
-How could void print_matrix() be defined?
 
 
 ```c++
