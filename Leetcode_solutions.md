@@ -1,7 +1,5 @@
 ## Hashmap
 
-https://leetcode.com/problems/unique-morse-code-words/discuss/1524232
-
 ## Iterator design model
 
 https://leetcode.com/problems/iterator-for-combination/discuss/1509630
@@ -27,3 +25,54 @@ https://leetcode.com/problems/sorting-the-sentence/discuss/1516239
 https://leetcode.com/problems/sorting-the-sentence/discuss/1530870/
 
 https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1529350/
+
+
+## leetcode-1476 
+https://leetcode.com/problems/subrectangle-queries/
+
+```c++
+class Matrix{
+	public:
+	Matrix(vector<vector<int>> _m):m(_m){}
+	vector<vector<int>> m;
+	void print_matrix();
+}
+
+ ```
+
+
+How could void print_matrix() be defined?
+
+
+```c++
+void print_matrix(){
+	for(auto it_i = m.begin(); it_i != m.end(); ++ it_i) {
+        for (int j = 0; j <= 2; j++)
+            cout << (*it_i)[j] << " ";
+        cout << endl;
+    }
+}
+ ```
+
+
+```c++
+void print_matrix(){
+	for(int i = 0; i <= 2; i ++) {
+        for (auto it_j = m[i].begin(); it_j != m[i].end(); ++ it_j)
+            cout << *it_j << " ";
+        cout << endl;
+    }
+}
+ ```
+
+
+
+```c++
+void print_matrix(){
+	for(auto it_i = m.begin(); it_i != m.end(); ++ it_i) {
+        for (auto it_j = (*it_i).begin(); it_j != (*it_i).end(); ++ it_j)
+            cout << *it_j << " ";
+        cout << endl;
+    }
+}
+ ```
