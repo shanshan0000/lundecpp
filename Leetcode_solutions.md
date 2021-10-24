@@ -20,14 +20,15 @@ https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/discuss/1511
 
 https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/discuss/1476589
 
-https://leetcode.com/problems/sorting-the-sentence/discuss/1516239
+- https://leetcode.com/problems/sorting-the-sentence/discuss/1516239/ 
+- https://leetcode.com/problems/sorting-the-sentence/discuss/1530870/
+- Could use set instead of vector
 
-https://leetcode.com/problems/sorting-the-sentence/discuss/1530870/
 
 https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1529350/
 
 
-## Extensions 
+## Misc 
 
 #### leetcode-1476 
 https://leetcode.com/problems/subrectangle-queries/
