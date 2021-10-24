@@ -10,6 +10,8 @@ https://leetcode.com/problems/iterator-for-combination/discuss/1521899
 
 https://leetcode.com/problems/flatten-nested-list-iterator/discuss/1530241/
 
+https://leetcode.com/problems/flatten-nested-list-iterator/discuss/1509179/
+
 ## String
 
 https://leetcode.com/problems/to-lower-case/discuss/1515360
