@@ -131,7 +131,10 @@ NAN  | [ex24-q1-ans-1](../../tree/ex24-q1-ans-1)  | [leetcode-1286-v1](https://l
 NAN  | [ex24-q1-ans-2](../../tree/ex24-q1-ans-2)  | [leetcode-1286-v2](https://leetcode.com/problems/iterator-for-combination/discuss/1521899) |  |
 NAN  | [ex24-q1-ans-3](../../tree/ex24-q1-ans-3)  |  | [video](https://www.bilibili.com/video/BV1Jh411n7UD/) |
 NAN  | [ex24-q2-q3-q4-q5-q6-ans](../../tree/ex24-q2-q3-q4-q5-q6-ans)  |  | [video](https://www.bilibili.com/video/bv1ih411b7Xr/) | [blog1](https://docs.microsoft.com/en-us/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=msvc-160)   [blog2](https://leetcode.com/problems/iterator-for-combination/discuss/1509630) [blog3](https://gitee.com/lundechen/cpp_2021/blob/leetcode-284-v1/main.cpp) [blog4](https://stackoverflow.com/questions/131241/why-use-iterators-instead-of-array-indices) [blog5](https://stackoverflow.com/questions/22739507/iterator-and-memory-usage) [blog6](https://stackoverflow.com/questions/628903/performance-advantages-to-iterators) [blog7](https://stackoverflow.com/questions/1879255/performance-of-traditional-for-loop-vs-iterator-foreach-in-java)
-
+NAN  | [ex26-ans](../../tree/ex26-ans)  |  |  |
+NAN  | [ex27-q1-q2-q3-ans](../../tree/ex27-q1-q2-q3-ans)  |  |  |
+NAN  | [ex27-q4-ans](../../tree/ex27-q4-ans)  |  |  |
+NAN  | [ex28-ans](../../tree/ex28-ans)  |  |  |
 
 
 
