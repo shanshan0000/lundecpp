@@ -137,8 +137,16 @@ NAN  | [ex27-q4-ans](../../tree/ex27-q4-ans)  |  |  |
 NAN  | [ex28-ans](../../tree/ex28-ans)  |  |  |
 
 
+https://www.softwaretestinghelp.com/graph-implementation-cpp/
+https://www.geeksforgeeks.org/difference-between-vector-and-list/
+https://www.geeksforgeeks.org/vector-in-cpp-stl/
+https://www.cplusplus.com/reference/vector/vector/
+https://www.cplusplus.com/reference/list/list/
+https://www.geeksforgeeks.org/initialize-a-vector-in-cpp-different-ways/
+https://www.geeksforgeeks.org/std-find-in-cpp/
 
 
+https://stackoverflow.com/questions/654428/what-is-the-order-in-which-the-destructors-and-the-constructors-are-called-in-c
 
 
 
