@@ -78,12 +78,12 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans)  | | |
 [ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans)  | | |
 [ex5](../../tree/ex5) | [ex5-extended](../../tree/ex5-extended) | | |
-[ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | | |
+[ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | | | [blog](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/)
 NAN                   | [ex7-ans](../../tree/ex7-ans) | | |
 NAN                   | [ex8-ans-1](../../tree/ex8-ans-1) | | |
  NAN                   | [ex8-ans-2](../../tree/ex8-ans-2) | | |
-[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | | |
-[ex9](../../tree/ex9) | [ex9-ans-2](../../tree/ex9-ans-2)  | | |
+[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | | | 
+[ex9](../../tree/ex9) | [ex9-ans-2](../../tree/ex9-ans-2)  | | | [blog1](https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline) [blog2](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
 [ex9](../../tree/ex9) | [ex9-ans-extended](../../tree/ex9-ans-extended)  | | |
 [ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | |
 [ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | | |
@@ -132,21 +132,13 @@ NAN  | [ex24-q1-ans-2](../../tree/ex24-q1-ans-2)  | [leetcode-1286-v2](https://l
 NAN  | [ex24-q1-ans-3](../../tree/ex24-q1-ans-3)  |  | [video](https://www.bilibili.com/video/BV1Jh411n7UD/) |
 NAN  | [ex24-q2-q3-q4-q5-q6-ans](../../tree/ex24-q2-q3-q4-q5-q6-ans)  |  | [video](https://www.bilibili.com/video/bv1ih411b7Xr/) | [blog1](https://docs.microsoft.com/en-us/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=msvc-160)   [blog2](https://leetcode.com/problems/iterator-for-combination/discuss/1509630) [blog3](https://gitee.com/lundechen/cpp_2021/blob/leetcode-284-v1/main.cpp) [blog4](https://stackoverflow.com/questions/131241/why-use-iterators-instead-of-array-indices) [blog5](https://stackoverflow.com/questions/22739507/iterator-and-memory-usage) [blog6](https://stackoverflow.com/questions/628903/performance-advantages-to-iterators) [blog7](https://stackoverflow.com/questions/1879255/performance-of-traditional-for-loop-vs-iterator-foreach-in-java)
 NAN  | [ex26-ans](../../tree/ex26-ans)  |  |  |
-NAN  | [ex27-q1-q2-q3-ans](../../tree/ex27-q1-q2-q3-ans)  |  |  |
+NAN  | [ex27-q1-q2-q3-ans](../../tree/ex27-q1-q2-q3-ans)  |  | [video](https://www.bilibili.com/video/bv1gR4y1n7Na)  | [blog1](https://www.softwaretestinghelp.com/graph-implementation-cpp/) [blog2](https://www.geeksforgeeks.org/difference-between-vector-and-list/) [blog3](https://www.geeksforgeeks.org/vector-in-cpp-stl/) [blog4](https://www.cplusplus.com/reference/vector/vector/) [blog5](https://www.cplusplus.com/reference/list/list/) [blog6](https://www.geeksforgeeks.org/initialize-a-vector-in-cpp-different-ways/) [blog7](https://www.geeksforgeeks.org/std-find-in-cpp/) 
 NAN  | [ex27-q4-ans](../../tree/ex27-q4-ans)  |  |  |
 NAN  | [ex28-ans](../../tree/ex28-ans)  |  |  |
 
 
-https://www.softwaretestinghelp.com/graph-implementation-cpp/
-https://www.geeksforgeeks.org/difference-between-vector-and-list/
-https://www.geeksforgeeks.org/vector-in-cpp-stl/
-https://www.cplusplus.com/reference/vector/vector/
-https://www.cplusplus.com/reference/list/list/
-https://www.geeksforgeeks.org/initialize-a-vector-in-cpp-different-ways/
-https://www.geeksforgeeks.org/std-find-in-cpp/
 
 
-https://stackoverflow.com/questions/654428/what-is-the-order-in-which-the-destructors-and-the-constructors-are-called-in-c
 
 
 
@@ -154,23 +146,11 @@ https://stackoverflow.com/questions/654428/what-is-the-order-in-which-the-destru
 
 ### Basics
 
-[Overloading stream insertion (<>) operators in C++](https://www.geeksforgeeks.org/overloading-stream-insertion-operators-c/)
-
-[Variable assignment and initialization](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/)
-
-[Is there still a use for inline](https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline)
-
-[Why are C++ inline functions in the header?](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
-
-[When should I write the keyword 'inline' for a function/method?](https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method)
-
-#### inheritance
+https://stackoverflow.com/questions/654428/what-is-the-order-in-which-the-destructors-and-the-constructors-are-called-in-c
 
 https://stackoverflow.com/questions/17842594/virtual-function-inheritance
 
 https://stackoverflow.com/questions/616380/multiple-inheritance-virtual-function-mess
-
-
 
 ## Project
 
