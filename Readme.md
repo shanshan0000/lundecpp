@@ -144,8 +144,6 @@ NAN  | [ex28-ans](../../tree/ex28-ans)  |  |  |
 
 ## Reading Materials:
 
-### Basics
-
 https://stackoverflow.com/questions/654428/what-is-the-order-in-which-the-destructors-and-the-constructors-are-called-in-c
 
 https://stackoverflow.com/questions/17842594/virtual-function-inheritance
