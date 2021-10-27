@@ -136,7 +136,7 @@ NAN  | [ex27-q1-q2-q3-ans](../../tree/ex27-q1-q2-q3-ans)  |  | [video](https://w
 NAN  | [ex27-q4-ans](../../tree/ex27-q4-ans)  |  |  | [blog](https://stackoverflow.com/questions/654428/what-is-the-order-in-which-the-destructors-and-the-constructors-are-called-in-c)
 NAN  | [ex28-ans](../../tree/ex28-ans)  |  |  | [blog](https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm)
 [ex29-q1](../../tree/ex29-q1) | [ex29-q1-ans](../../tree/ex29-q1-ans)  | | | [blog1](https://stackoverflow.com/questions/58042421/c-multi-level-inheritance-with-virtual-functions) [blog2](https://stackoverflow.com/questions/17842594/virtual-function-inheritance)
-[ex29-q2](../../tree/ex29-q2) | [ex29-q2-ans](../../tree/ex29-q2-ans)  | | |
+[ex29-q2](../../tree/ex29-q2) | [ex29-q2-ans](../../tree/ex29-q2-ans)  | | [video](https://www.bilibili.com/video/BV1zL4y1i7sr/) |
 [ex30](../../tree/ex30) | [ex30-ans](../../tree/ex30-ans)  | | |
 
 
