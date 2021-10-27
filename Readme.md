@@ -141,6 +141,10 @@ NAN  | [ex28-ans](../../tree/ex28-ans)  |  |  | [blog](https://www.tutorialspoin
 
 
 
+https://stackoverflow.com/questions/99297/how-are-virtual-functions-and-vtable-implemented
+
+https://isocpp.org/wiki/faq/virtual-functions
+
 
 
 
