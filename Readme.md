@@ -135,7 +135,9 @@ NAN  | [ex26-ans](../../tree/ex26-ans)  |  |  |
 NAN  | [ex27-q1-q2-q3-ans](../../tree/ex27-q1-q2-q3-ans)  |  | [video](https://www.bilibili.com/video/bv1gR4y1n7Na)  | [blog1](https://www.softwaretestinghelp.com/graph-implementation-cpp/) [blog2](https://www.geeksforgeeks.org/difference-between-vector-and-list/) [blog3](https://www.geeksforgeeks.org/vector-in-cpp-stl/) [blog4](https://www.cplusplus.com/reference/vector/vector/) [blog5](https://www.cplusplus.com/reference/list/list/) [blog6](https://www.geeksforgeeks.org/initialize-a-vector-in-cpp-different-ways/) [blog7](https://www.geeksforgeeks.org/std-find-in-cpp/) 
 NAN  | [ex27-q4-ans](../../tree/ex27-q4-ans)  |  |  |
 NAN  | [ex28-ans](../../tree/ex28-ans)  |  |  |
-
+[ex29-q1](../../tree/ex29-q1) | [ex29-q1-ans](../../tree/ex29-q1-ans)  | | |
+[ex29-q2](../../tree/ex29-q2) | [ex29-q2-ans](../../tree/ex29-q2-ans)  | | |
+[ex30](../../tree/ex30) | [ex30-ans](../../tree/ex30-ans)  | | |
 
 
 
