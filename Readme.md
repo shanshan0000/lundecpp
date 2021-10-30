@@ -170,6 +170,11 @@ https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 [:books: Project description in pdf](../../tree/master/project)
 
 
+#### 提交作业
+
+将 pdf文件、video文件、代码文件夹（未压缩），放在同一个文件夹（文件夹命名为 Projet，注意没有 'c' 字母），然后压缩成一个 zip 文件（命名为 Projet.zip）。然后上传 zip 文件作为本题的答案即可。
+
+
 #### UML online
 
 https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=ClassDiagram
