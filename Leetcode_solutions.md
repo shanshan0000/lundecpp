@@ -22,10 +22,8 @@ https://leetcode.com/problems/to-lower-case/discuss/1515360
 - swap function, passing by pointer, passing by reference
 
 ```c++
-for(auto it1 = str.begin(); it1 != str.end(); ++it1)
-    for(auto it2 = str.rbegin(); it2 != str.rend(); ++it2)
-        if(it1 != it2)
-            swap(it1, it2);
+for(auto it1 = str.begin(), auto it2 = str.rbegin(); it1 != it2; ++it1, ++it2)
+    swap(it1, it2);
 ```
 
 
