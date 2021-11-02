@@ -138,6 +138,8 @@ NAN  | [ex28-ans](../../tree/ex28-ans)  |  |  | [blog](https://www.tutorialspoin
 [ex29-q1](../../tree/ex29-q1) | [ex29-q1-ans](../../tree/ex29-q1-ans)  | | | [blog1](https://stackoverflow.com/questions/58042421/c-multi-level-inheritance-with-virtual-functions) [blog2](https://stackoverflow.com/questions/17842594/virtual-function-inheritance)
 [ex29-q2](../../tree/ex29-q2) | [ex29-q2-ans](../../tree/ex29-q2-ans)  | | [video](https://www.bilibili.com/video/BV1zL4y1i7sr/) |
 [ex30](../../tree/ex30) | [ex30-ans](../../tree/ex30-ans)  | | |
+NAN | [ex31-ans](../../tree/ex31-ans)  | | [video](https://www.bilibili.com/video/BV1mb4y1b7kC/)| 
+NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  | [leetcode-1859](https://leetcode.com/problems/sorting-the-sentence/discuss/1453463)   | | [blog](https://en.cppreference.com/w/cpp/container/vector)
 
 
 
