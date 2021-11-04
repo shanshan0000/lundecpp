@@ -144,9 +144,14 @@ NAN | [ex32-q2-ans](../../tree/ex32-q2-ans)  | | | [blog1](https://www.bogotobog
 NAN | [ex33-ans](../../tree/ex33-ans)  | | | 
 NAN | [ex35-q1-ans](../../tree/ex35-q1-ans)  | | [video](https://www.bilibili.com/video/BV1rv411T7LZ)  | [blog](https://refactoring.guru/design-patterns/template-method/cpp/example)
 NAN | [ex35-q1-extended](../../tree/ex35-q1-extended)  | | | 
-
-
-
+NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | | | 
+NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  | | | 
+NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | | | 
+NAN | [ex36-ans](../../tree/ex36-ans)  | | | 
+NAN | [ex37-ans](../../tree/ex37-ans)  | | | 
+NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | | | 
+NAN | [ex38-q2-q3-ans](../../tree/ex38-q2-q3-ans)  | | | 
+NAN | [ex40-ans](../../tree/ex40-ans)  | | | 
 
 
 
