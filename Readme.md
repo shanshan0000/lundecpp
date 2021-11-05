@@ -145,7 +145,7 @@ NAN | [ex33-ans](../../tree/ex33-ans)  | | | [blog](https://stackoverflow.com/qu
 NAN | [ex35-q1-ans](../../tree/ex35-q1-ans)  | | [video](https://www.bilibili.com/video/BV1rv411T7LZ)  | [blog](https://refactoring.guru/design-patterns/template-method/cpp/example)
 NAN | [ex35-q1-extended](../../tree/ex35-q1-extended)  | | | 
 NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | leetcode-1636 | | 
-NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  |  leetcode-1859   | [video](https://www.bilibili.com/video/BV17q4y1V7F3/) | [blog](https://refactoring.guru/design-patterns/observer/cpp/example)
+NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  |  leetcode-1941   | [video](https://www.bilibili.com/video/BV17q4y1V7F3/) | [blog](https://refactoring.guru/design-patterns/observer/cpp/example)
 NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | leetcode-1859   | | [blog](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) 
 NAN | [ex36-ans](../../tree/ex36-ans)  | | | 
 NAN | [ex37-ans](../../tree/ex37-ans)  | | | 
@@ -169,7 +169,7 @@ NAN | [ex40-ans](../../tree/ex40-ans)  | | |
 
 Dans le cadre de cet UV, vous travaillerez par groupe sur un projet C++ en rapport avec le contenu de votre cours et des TDs.
 Chaque groupe sera formé de 4 à 5 étudiants.
-Vous devrez rendre un livrable le ?? novembre à 23h59 au plus tard (!) sur: "Chaoxing Plateform" - Section Homework (作业).
+Vous devrez rendre un livrable le 14 novembre à 23h59 au plus tard (!) sur: "Chaoxing Plateform" - Section Homework (作业).
 Plus de détails seront donnés dans la fiche projet qui vous sera transmise plus tard.
 
 #### Forming teams: 
