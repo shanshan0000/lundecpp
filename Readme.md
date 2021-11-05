@@ -141,12 +141,12 @@ NAN  | [ex28-ans](../../tree/ex28-ans)  |  |  | [blog](https://www.tutorialspoin
 NAN | [ex31-ans](../../tree/ex31-ans)  | | [video](https://www.bilibili.com/video/BV1mb4y1b7kC/)| [blog1](https://stackoverflow.com/questions/99297/how-are-virtual-functions-and-vtable-implemented) [blog2](https://isocpp.org/wiki/faq/virtual-functions)
 NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  | [leetcode-1859](https://leetcode.com/problems/sorting-the-sentence/discuss/1453463)   | | [blog](https://en.cppreference.com/w/cpp/container/vector)
 NAN | [ex32-q2-ans](../../tree/ex32-q2-ans)  | | | [blog1](https://www.bogotobogo.com/DesignPatterns/factorymethod.php) [blog2](https://refactoring.guru/design-patterns/factory-method/cpp/example)
-NAN | [ex33-ans](../../tree/ex33-ans)  | | | 
+NAN | [ex33-ans](../../tree/ex33-ans)  | | | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
 NAN | [ex35-q1-ans](../../tree/ex35-q1-ans)  | | [video](https://www.bilibili.com/video/BV1rv411T7LZ)  | [blog](https://refactoring.guru/design-patterns/template-method/cpp/example)
 NAN | [ex35-q1-extended](../../tree/ex35-q1-extended)  | | | 
-NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | | | 
-NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  | | | 
-NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | | | 
+NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | leetcode-1636 | | 
+NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  |  leetcode-1859   | [video](https://www.bilibili.com/video/BV17q4y1V7F3/) | [blog](https://refactoring.guru/design-patterns/observer/cpp/example)
+NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | leetcode-1859   | | [blog](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) 
 NAN | [ex36-ans](../../tree/ex36-ans)  | | | 
 NAN | [ex37-ans](../../tree/ex37-ans)  | | | 
 NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | | | 
