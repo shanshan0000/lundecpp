@@ -217,6 +217,8 @@ Some further clarifications on mid-term/final exam:
 
 4. 不要使用涂改液、修正带，有可能会影响扫描效果。
 
+5. 法方老师反馈，考试的时候卷面分占有一定比值(10%)。请大家答题时保持清晰、整洁。
+
 
 ## Asking Questions
 
