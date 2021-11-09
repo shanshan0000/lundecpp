@@ -147,8 +147,8 @@ NAN | [ex35-q1-extended](../../tree/ex35-q1-extended)  | | |
 NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | leetcode-1636 | | 
 NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  |  leetcode-1941   | [video](https://www.bilibili.com/video/BV17q4y1V7F3/) | [blog](https://refactoring.guru/design-patterns/observer/cpp/example)
 NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | leetcode-1859   | | [blog](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) 
-NAN | [ex36-ans](../../tree/ex36-ans)  | | | 
-NAN | [ex37-ans](../../tree/ex37-ans)  | | | 
+NAN | [ex36-ans](../../tree/ex36-ans)  | | | [blog1](https://en.cppreference.com/w/cpp/language/using_declaration) [blog2](https://stackoverflow.com/questions/19237411/const-and-non-const-operator-overloading)
+NAN | [ex37-ans](../../tree/ex37-ans)  | | [video](https://www.bilibili.com/video/bv1nP4y157dg) | [blog](https://refactoring.guru/design-patterns/strategy/cpp/example)
 NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | | | 
 NAN | [ex38-q2-q3-ans](../../tree/ex38-q2-q3-ans)  | | | 
 NAN | [ex40-ans](../../tree/ex40-ans)  | | | 
