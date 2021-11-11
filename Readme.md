@@ -157,7 +157,9 @@ NAN | [ex40-ans](../../tree/ex40-ans)  | | |
 
 
 
+https://en.cppreference.com/w/cpp/language/member_template
 
+https://stackoverflow.com/questions/11394832/how-to-define-a-template-member-function-of-a-template-class
 
 
 
