@@ -149,22 +149,9 @@ NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  |  leetcode-1941   | [video](ht
 NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | leetcode-1859   | | [blog](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) 
 NAN | [ex36-ans](../../tree/ex36-ans)  | | | [blog1](https://en.cppreference.com/w/cpp/language/using_declaration) [blog2](https://stackoverflow.com/questions/19237411/const-and-non-const-operator-overloading)
 NAN | [ex37-ans](../../tree/ex37-ans)  | | [video](https://www.bilibili.com/video/bv1nP4y157dg) | [blog](https://refactoring.guru/design-patterns/strategy/cpp/example)
-NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | | | 
-NAN | [ex38-q2-q3-ans](../../tree/ex38-q2-q3-ans)  | | | 
+NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | | | [blog1](https://stackoverflow.com/questions/6571381/dependent-scope-and-nested-templates)
+NAN | [ex38-q2-q3-ans](../../tree/ex38-q2-q3-ans)  | | [video](https://www.bilibili.com/video/bv1xq4y1u7Jo) | [blog1](https://stackoverflow.com/questions/35563193/) [blog2](https://stackoverflow.com/questions/11394832/) [blog3](https://stackoverflow.com/questions/5108359/how-do-i-define-a-template-function-within-a-template-class-outside-of-the-class) [blog4](https://stackoverflow.com/questions/10871100/pass-a-function-as-an-explicit-template-parameter) [blog5](https://stackoverflow.com/questions/1174169/function-passed-as-template-argument) [blog6](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1529350/)
 NAN | [ex40-ans](../../tree/ex40-ans)  | | | 
-
-
-
-
-
-https://stackoverflow.com/questions/35563193/
-
-https://en.cppreference.com/w/cpp/language/member_template
-
-https://stackoverflow.com/questions/11394832/how-to-define-a-template-member-function-of-a-template-class
-
-
-
 
 
 ## Project
