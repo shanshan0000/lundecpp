@@ -246,5 +246,5 @@ Pour des questions privées, merci d'envoyer vos questions par mail à ces adres
 - antoine.jouglet@hds.utc.fr (Antoine Jouglet)
 
 #### Office Hour
-Office visit is NOT welcome unless you make an appointment three days in advance.
+Office visit is NOT welcome unless you make an appointment one day in advance.
 
