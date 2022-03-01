@@ -20,24 +20,6 @@ Code secret : 973229
 
 [:books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
 
-## :heartpulse: :rocket: :musical_note: :100: Teaching Assistants
-We have nine volunteer Teaching Assistants, from Promotion 2017 and Promotion 2018.
-They have each got an A in their LO02 course in the last year.
-Please don't hesitate to ask them questions.
-They are:
-
-TA-黎袁昊 ，TA-钟乐幸， TA-黄智梵 ，TA-景祖宽 ，TA-施朱泽翾 ，TA-朱珂亿 ，TA-余南骏 ，TA-黄永辉  and TA-陈一铭 
-
-in the WeChat group :rocket: :rocket: :rocket:.
-
-![](img/ta.png)
-
-Please remember to say "thank you" each time they help :clap: :clap: :clap:.
-
-## Corresponding Github repository (private repository, for TAs only)
-
-[Corresponding Github repository (for TAs only)](https://github.com/cppshu/cpp_2021/tree/master)
-
 ## TD
 
 #### Time: 
@@ -226,9 +208,9 @@ Some further clarifications on mid-term/final exam:
 ## Asking Questions
 
 #### Principe
-Le principe est le suivant :
+Here is the principle for asking questions:
 
-Google First, Peers Second, TAs third, Profs Last.
+Google First, Peers Second, Profs Last.
 
 Questions will be answered selectively. Questions won't be answered if:
 - they could be solved on a simple Google search
@@ -237,12 +219,12 @@ Questions will be answered selectively. Questions won't be answered if:
 - professors think that it's not interesting for discussion
 - they are asked in personal WeChat chats 
 
-Learning how to use Google & Baidu & Bing to solve programming impasses is an important skill you should develop during this course.
+Learning how to use Google & Baidu & Bing to solve programming problems is an important skill you should develop during this course.
 
 Pour des questions privées, merci d'envoyer vos questions par mail à ces adresses ci-dessous :
 - lunde.chen@yahoo.fr (Lunde Chen)
 - antoine.jouglet@hds.utc.fr (Antoine Jouglet)
 
 #### Office Hour
-Office visit is NOT welcome unless you make an appointment one day in advance.
+Office visit is NOT welcome unless you make an appointment at least one day in advance.
 
