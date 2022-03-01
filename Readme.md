@@ -222,7 +222,7 @@ Questions will be answered selectively. Questions won't be answered if:
 Learning how to use Google & Baidu & Bing to solve programming problems is an important skill you should develop during this course.
 
 Pour des questions privées, merci d'envoyer vos questions par mail à ces adresses ci-dessous :
-- lunde.chen@yahoo.fr (Lunde Chen)
+- lundechen@shu.edu.cn (Lunde Chen)
 - antoine.jouglet@hds.utc.fr (Antoine Jouglet)
 
 #### Office Hour
