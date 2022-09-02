@@ -1,10 +1,10 @@
-# LO02 C++ 2021
+# LO02 C++ 2022
 
 ## Course videos
 
 :tv: Course videos are on Chaoxing Platform
 
-## Online QA with Zoom, each Monday 18:00-20:40
+## Online QA with Zoom, each Monday 18:00-20:45
 
 Participer à la réunion Zoom https://utc-fr.zoom.us/j/87273562034?pwd=V2ttWGFyekVWYTRISnFzTm5yYlgwZz09
 
@@ -14,7 +14,8 @@ Code secret : 973229
 
 ## Install CLion and Git
 
-[:computer: Install CLion and Git](https://gitee.com/lundechen/hello)
+- [:computer: Install CLion and Git](https://gitee.com/lundechen/hello)
+- [video: Install CLion and Git](https://www.bilibili.com/video/BV1cq4y1S7Be)
 
 ## Textbooks, slides, exercises in pdf
 
@@ -26,7 +27,7 @@ Code secret : 973229
 each Thursday, Wednesday and Friday, 8:00 to 11:40
 
 #### Classroom: 
-D413
+D406
 
 #### Tencent Meeting:
 
@@ -41,7 +42,7 @@ https://meeting.tencent.com/s/ckxVNof1hVka?rs=25
 https://meeting.tencent.com/l/TfmYIwVlqSVP
  
 #### Which Operating System to boot from:
-Win-10-C-HPD413/6
+Win-10-C-D406/6
 
 
 #### When you are blocked with CLion:
@@ -142,7 +143,7 @@ NAN | [ex40-ans](../../tree/ex40-ans)  | | | [blog](https://cppbetterexplained.c
 
 Dans le cadre de cet UV, vous travaillerez par groupe sur un projet C++ en rapport avec le contenu de votre cours et des TDs.
 Chaque groupe sera formé de 4 à 5 étudiants.
-Vous devrez rendre un livrable le 14 novembre à 23h59 au plus tard (!) sur: "Chaoxing Plateform" - Section Homework (作业).
+Vous devrez rendre un livrable le ?? novembre à 23h59 au plus tard (!) sur: "Chaoxing Plateform" - Section Homework (作业).
 Plus de détails seront donnés dans la fiche projet qui vous sera transmise plus tard.
 
 #### Forming teams: 
@@ -156,7 +157,6 @@ https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 #### 提交作业
 - 超星平台-作业-Projet
 - 将 pdf文件、video文件、代码文件夹（未压缩），放在同一个文件夹（文件夹命名为 Projet，注意没有 'c' 字母, 'P'字母大写），然后将Projet文件夹压缩成一个 zip 文件（命名为 Projet.zip，注意没有 'c' 字母, 'P'字母大写）。然后上传 zip 文件作为本题的答案即可。
-- 注意，上传的文件格式正确与否，占有 1 分(项目总分为20)。即：Projet.zip。
 - 每个小组只需要一个人提交就行。
 - 提交后检查一下网页的显示：
 
@@ -172,20 +172,17 @@ https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 错误示例3：
 ![](img/cuowu3.png)
 
-#### UML online
+#### UML 
 
-https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=ClassDiagram
-
-https://online.visual-paradigm.com/app/diagrams/#diagram:type=ClassDiagram&gallery=/repository/e3676c7c-2bb5-44a1-a600-4502fd09e99e.xml&name=Car
+Draw.io
 
 
 ## Notes & Exam:
 
 Voici comment seront calculées les notes de l'UV (sur un total de 105, au lieu de 100): 
 
-- La présence en cours : 15% 
-- L'examen mi-terme : 30%
-- Le projet : 20% 
+- L'examen mi-terme : 35%
+- Le projet : 30% 
 - L'examen final : 40%
 
 Some further clarifications on mid-term/final exam:
@@ -212,10 +209,10 @@ Here is the principle for asking questions:
 
 Google First, Peers Second, Profs Last.
 
-Questions will be answered selectively. Questions won't be answered if:
+In the **WeChat group**, questions will be answered selectively. Questions won't be answered if:
 - they could be solved on a simple Google search
 - they are out of the scope of the course
-- well in advance in the progress of the course
+- they are well in advance in the progress of the course
 - professors think that it's not interesting for discussion
 - they are asked in personal WeChat chats 
 
@@ -225,6 +222,27 @@ Pour des questions privées, merci d'envoyer vos questions par mail à ces adres
 - lundechen@shu.edu.cn (Lunde Chen)
 - antoine.jouglet@hds.utc.fr (Antoine Jouglet)
 
+
 #### Office Hour
 Office visit is NOT welcome unless you make an appointment at least one day in advance.
 
+## Online C Compiler
+If you are stuck with your CLion configuration during TP sessions, you could write and run your code online:
+- https://www.onlinegdb.com/online_c_compiler
+- https://www.online-cpp.com/online_c++_editor
+
+## Bilibili Videos
+![](img/bili.png)
+
+#### :hammer: Install CLion and Git
+- [Install CLion and Git](https://www.bilibili.com/video/BV1cq4y1S7Be)
+- https://gitee.com/lundechen/hello
+
+#### :rocket: How to manipulate with git during TD sessions
+- [B站视频-编程课程使用Git-师生交互-简单场景-以算法入门为例](https://www.bilibili.com/video/BV1gu411Q7T3/)
+
+Basically, you will use ```git stash```, ```git pull```  and ```git checkout``` most of the time.
+
+#### 使用 Gitee issue 提问
+By default, you should ask questions via Gitee Issue. Here is how:
+- https://www.bilibili.com/video/BV1364y1h7sb/
