@@ -204,6 +204,10 @@ Some further clarifications on mid-term/final exam:
 
 ## Asking Questions
 
+#### 使用 Gitee issue 提问
+By default, you should ask questions via Gitee Issue. Here is how:
+- https://www.bilibili.com/video/BV1364y1h7sb/
+
 #### Principe
 Here is the principle for asking questions:
 
@@ -226,11 +230,6 @@ Pour des questions privées, merci d'envoyer vos questions par mail à ces adres
 #### Office Hour
 Office visit is NOT welcome unless you make an appointment at least one day in advance.
 
-## Online C Compiler
-If you are stuck with your CLion configuration during TP sessions, you could write and run your code online:
-- https://www.onlinegdb.com/online_c_compiler
-- https://www.online-cpp.com/online_c++_editor
-
 ## Bilibili Videos
 ![](img/bili.png)
 
@@ -243,6 +242,3 @@ If you are stuck with your CLion configuration during TP sessions, you could wri
 
 Basically, you will use ```git stash```, ```git pull```  and ```git checkout``` most of the time.
 
-#### 使用 Gitee issue 提问
-By default, you should ask questions via Gitee Issue. Here is how:
-- https://www.bilibili.com/video/BV1364y1h7sb/
