@@ -144,17 +144,17 @@ NAN | [ex40-ans](../../tree/ex40-ans)  | | | [blog](https://cppbetterexplained.c
 Dans le cadre de cet UV, vous travaillerez par groupe sur un projet C++ en rapport avec le contenu de votre cours et des TDs.
 Chaque groupe sera formé de 4 à 5 étudiants.
 Vous devrez rendre un livrable le ?? novembre à 23h59 au plus tard (!) sur: "Chaoxing Plateform" - Section Homework (作业).
-Plus de détails seront donnés dans la fiche projet qui vous sera transmise plus tard.
-
-#### Forming teams: 
-
-https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 
 #### Project description:
 [:books: Project description in pdf](../../tree/master/project)
 
 
-#### 提交作业
+#### Forming teams: 
+
+https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
+
+
+#### 提交项目
 - 超星平台-作业-Projet
 - 将 pdf文件、video文件、代码文件夹（未压缩），放在同一个文件夹（文件夹命名为 Projet，注意没有 'c' 字母, 'P'字母大写），然后将Projet文件夹压缩成一个 zip 文件（命名为 Projet.zip，注意没有 'c' 字母, 'P'字母大写）。然后上传 zip 文件作为本题的答案即可。
 - 每个小组只需要一个人提交就行。
