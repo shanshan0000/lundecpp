@@ -204,7 +204,6 @@ Google First, Peers Second, Profs Last.
 In the **WeChat group**, questions will be answered selectively. 
 
 Questions won't be answered if:
-- they could be solved on a simple Google search
 - they are out of the scope of the course
 - they are well in advance in the progress of the course
 - professors think that it's not interesting for discussion
