@@ -4,7 +4,9 @@
 
 :tv: Course videos by Prof. Antoine Jouglet are on Chaoxing Platform.
 
-## Online QA with Zoom, each Monday 18:00-20:45
+## Online QA session by Prof. Antoine Jouglet
+
+Time: each Monday 18:00-20:45
 
 Participer à la réunion Zoom 
 - https://utc-fr.zoom.us/j/87273562034?pwd=V2ttWGFyekVWYTRISnFzTm5yYlgwZz09
@@ -159,9 +161,16 @@ https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 正确示例:
 ![](img/zhengque.png)
 
-#### UML 
+#### UML with Draw.io
 
-Draw.io
+Draw.io is very popular in the academy as well as in the industry.
+
+Download the software:
+- From GitHub: https://github.com/jgraph/drawio-desktop/releases
+- From Baidu: just Baidu search "Draw.io 下载".
+
+Online version: 
+- https://app.diagrams.net/
 
 
 ## Notes & Exam:
@@ -181,19 +190,16 @@ Some further clarifications on mid-term/final exam:
 
 #### 考试提醒：
 
-1. 答题纸**单面**答题。因为答题纸需要扫描发给法国老师。
-
-2. 每张答题纸最上面写上学号、中文姓名、姓名拼音。
-
-3. 每张答题纸最上面写上序号，比如 1/3, 2/3, 3/3。或者 1/4, 2/4, 3/4, 4/4。
-
-4. 法方老师反馈，考试的时候卷面分占有一定比值(10%)。请大家答题时保持清晰、整洁。可以适当使用涂改液或者修正带。
+- 1. 答题纸**单面**答题。因为答题纸需要扫描发给法国老师。
+- 2. 每张答题纸最上面写上学号、中文姓名、姓名拼音。
+- 3. 每张答题纸最上面写上序号，比如 1/4, 2/4, 3/4, 4/4。
+- 4. 法方老师反馈，考试的时候卷面分占有一定比值(10%)。请大家答题时保持清晰、整洁。可以适当使用涂改液或者修正带(在不影响扫描的前提下)。
 
 
 ## Asking Questions
 
 #### 使用 Gitee issue 提问
-By default, you should ask questions via Gitee Issue. Here is how:
+By default, you should ask questions via Gitee issue. Here is how:
 - https://www.bilibili.com/video/BV1364y1h7sb/
 
 #### Principe
@@ -201,11 +207,17 @@ Here is the principle for asking questions:
 
 >  **Google First, Peers Second, Profs Last.**
 
+#### WeChat group
+
+You are expected to ask questions via **Gitee issue**. However, as a **secondary** choice, 
+you can also 
+ask questions in the WeChat group.
+
 In the **WeChat group**, questions will be answered selectively. 
 
 Questions won't be answered if:
 - they are out of the scope of the course
-- they are well in advance in the progress of the course
+- they are well in advance of the progress of the course
 - professors think that it's not interesting for discussion
 
 #### Regarding personal WeChat chats:
