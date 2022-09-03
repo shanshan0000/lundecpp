@@ -17,6 +17,10 @@ Participer à la réunion Zoom
 
 [:books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
 
+## TA
+
+Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
+
 ## TD
 
 #### Time: 
