@@ -255,7 +255,18 @@ Office visit is NOT welcome unless you make an appointment at least one day in a
 - https://gitee.com/lundechen/hello
 
 #### :rocket: How to manipulate with git during TD sessions
-- [B站视频-编程课程使用Git-师生交互-简单场景-以算法入门为例](https://www.bilibili.com/video/BV1gu411Q7T3/)
+- [B站视频 - 编程课程使用Git-师生交互-简单场景-以算法入门为例](https://www.bilibili.com/video/BV1gu411Q7T3/)
 
 Basically, you will use ```git stash```, ```git pull```  and ```git checkout``` most of the time.
 
+#### :bug::bug::bug::bug: Debug
+For debugging with CLion, watch this:
+- [B站视频 - CLion Debug](https://www.bilibili.com/video/BV1u44y167jP/)
+
+## Why do we use Gitee/GitHub in this course?
+
+#### Why you should use GitHub: Lessons for the classroom and newsroom
+- https://www.storybench.org/use-github-lessons-classroom-newsroom/
+
+#### How do you use Issues in your class?
+- https://education.github.community/t/how-do-you-use-issues-in-your-class/
