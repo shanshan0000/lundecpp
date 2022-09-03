@@ -2,7 +2,7 @@
 
 ## Course videos
 
-:tv: Course videos by Prof. Antoine Jouglet are on Chaoxing Platform
+:tv: Course videos by Prof. Antoine Jouglet are on Chaoxing Platform.
 
 ## Online QA with Zoom, each Monday 18:00-20:45
 
@@ -43,6 +43,9 @@ Windows 10
 - 重新 clone （VCS->Get from Version Control）试试
 
 - 或者关了 CLION, 删除项目的 .idea 文件夹，然后再次打开 Clion
+
+## 往届学生的学习方法总结
+[往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
 
 #### Exercises & Solutions:
 
