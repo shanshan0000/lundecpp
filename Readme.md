@@ -201,12 +201,17 @@ Here is the principle for asking questions:
 
 Google First, Peers Second, Profs Last.
 
-In the **WeChat group**, questions will be answered selectively. Questions won't be answered if:
+In the **WeChat group**, questions will be answered selectively. 
+
+Questions won't be answered if:
 - they could be solved on a simple Google search
 - they are out of the scope of the course
 - they are well in advance in the progress of the course
 - professors think that it's not interesting for discussion
-- they are asked in personal WeChat chats 
+
+#### Regarding personal WeChat chats:
+- **Questions asked in personal WeChat chats will NOT be answered.**
+- **Messages sent after 20:00 in personal chats will be extremely unwelcome.**
 
 Learning how to use Google & Baidu & Bing to solve programming problems is an important skill you should develop during this course.
 
@@ -215,7 +220,7 @@ Pour des questions privées, merci d'envoyer vos questions par mail à ces adres
 - antoine.jouglet@hds.utc.fr (Antoine Jouglet)
 
 
-#### Office Hour
+#### Office visit
 Office visit is NOT welcome unless you make an appointment at least one day in advance.
 
 ## Bilibili Videos
