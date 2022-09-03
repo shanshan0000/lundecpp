@@ -4,7 +4,11 @@
 
 :tv: Course videos by Prof. Antoine Jouglet are on Chaoxing Platform.
 
-## Online QA session by Prof. Antoine Jouglet
+**You should watch the corresponding videos BEFORE the QA session of each Monday.**
+
+## Online QA session
+
+Professor: Antoine Jouglet
 
 Time: each Monday 18:00-20:45
 
@@ -17,14 +21,11 @@ Participer à la réunion Zoom
 
 [:books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
 
-## TA
 
-Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
-
-## TD
+## Travaux Dirigés (TD)
 
 #### Time: 
-each Thursday, Wednesday and Friday, 8:00 to 11:40
+Each Thursday, Wednesday and Friday, 8:00 to 11:40
 
 #### Classroom: 
 D406
@@ -50,8 +51,16 @@ Windows 10
 
 - 或者关了 CLION, 删除项目的 .idea 文件夹，然后再次打开 Clion
 
+## Teaching Assistant
+
+Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
+
+After finishing this course, you could contact me if you would like to be a TA. Basically,
+the TA will help ask questions in Gitee Issue and in WeChat group.
+
 ## 往届学生的学习方法总结
-[往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
+Suggestions from students who got an A (or first place in B): 
+- [往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
 
 #### Exercises & Solutions:
 
