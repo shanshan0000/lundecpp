@@ -2,20 +2,14 @@
 
 ## Course videos
 
-:tv: Course videos are on Chaoxing Platform
+:tv: Course videos by Prof. Antoine Jouglet are on Chaoxing Platform
 
 ## Online QA with Zoom, each Monday 18:00-20:45
 
-Participer à la réunion Zoom https://utc-fr.zoom.us/j/87273562034?pwd=V2ttWGFyekVWYTRISnFzTm5yYlgwZz09
-
-ID de réunion : 872 7356 2034 
-
-Code secret : 973229
-
-## Install CLion and Git
-
-- [:computer: Install CLion and Git](https://gitee.com/lundechen/hello)
-- [video: Install CLion and Git](https://www.bilibili.com/video/BV1cq4y1S7Be)
+Participer à la réunion Zoom 
+- https://utc-fr.zoom.us/j/87273562034?pwd=V2ttWGFyekVWYTRISnFzTm5yYlgwZz09
+- ID de réunion : 872 7356 2034 
+- Code secret : 973229
 
 ## Textbooks, slides, exercises in pdf
 
@@ -42,16 +36,15 @@ https://meeting.tencent.com/s/ckxVNof1hVka?rs=25
 https://meeting.tencent.com/l/TfmYIwVlqSVP
  
 #### Which Operating System to boot from:
-Win-10-C-D406/6
+Windows 10 
 
-
-#### When you are blocked with CLion:
+#### When your CLion project seems broken:
 
 - 重新 clone （VCS->Get from Version Control）试试
 
 - 或者关了 CLION, 删除项目的 .idea 文件夹，然后再次打开 Clion
 
-#### Questions & Solutions:
+#### Exercises & Solutions:
 
 Exercise | Solution  | Leetcode  | Video | Reading Materials
 ---------------- | ----------------  | ----------------| ----------------| ----------------: 
@@ -163,15 +156,6 @@ https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 正确示例:
 ![](img/zhengque.png)
 
-错误示例1：
-![](img/cuowu1.png)
-
-错误示例2：
-![](img/cuowu2.png)
-
-错误示例3：
-![](img/cuowu3.png)
-
 #### UML 
 
 Draw.io
@@ -188,8 +172,9 @@ Voici comment seront calculées les notes de l'UV (sur un total de 105, au lieu 
 Some further clarifications on mid-term/final exam:
 
 - You could print the pdf of poly_cours_opt and bring it with you. Your personal paper notebooks are NOT allowed. The poly d’exercices corrigés is NOT allowed. Chinese textbooks are not allowed. Any other reference book is NOT allowed.
+- Dictionaries in paper format are allowed.
 - Dictionaries on smartphone are NOT allowed. All electronic devices are forbidden of use during exam.
-- If you have difficulties answering in French, you could answer in English. 
+- If you have difficulties writing your answers in French, you could answer in English. 
 
 #### 考试提醒：
 
