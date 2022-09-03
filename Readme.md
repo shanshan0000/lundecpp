@@ -199,7 +199,7 @@ By default, you should ask questions via Gitee Issue. Here is how:
 #### Principe
 Here is the principle for asking questions:
 
-Google First, Peers Second, Profs Last.
+>  **Google First, Peers Second, Profs Last.**
 
 In the **WeChat group**, questions will be answered selectively. 
 
