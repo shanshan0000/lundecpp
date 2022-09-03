@@ -157,7 +157,7 @@ Dans le cadre de cet UV, vous travaillerez par groupe sur un projet C++ en rappo
 - Vous devrez rendre un livrable le ?? novembre à 23h59 au plus tard (!) sur: "Chaoxing Plateform" - Section Homework (作业).
 
 #### Project description:
-[:books: Project description in pdf](../../tree/master/project)
+[:books: Project description in pdf](../../tree/master/project)x
 
 
 #### Forming teams: 
@@ -259,7 +259,7 @@ Office visit is NOT welcome unless you make an appointment at least one day in a
 
 Basically, you will use ```git stash```, ```git pull```  and ```git checkout``` most of the time.
 
-#### :bug::bug::bug::bug: Debug
+#### :bug: :bug: :bug: :bug: Debug
 For debugging with CLion, watch this:
 - [B站视频 - CLion Debug](https://www.bilibili.com/video/BV1u44y167jP/)
 
