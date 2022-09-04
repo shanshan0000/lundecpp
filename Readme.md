@@ -229,13 +229,14 @@ ask questions in the WeChat group.
 In the **WeChat group**, questions will be answered selectively. 
 
 Questions won't be answered if:
+- they could be solved on a simple Google search
 - they are out of the scope of the course
 - they are well in advance of the progress of the course
 - professors think that it's not interesting for discussion
 
 #### Regarding personal WeChat chats:
 - **Questions asked in personal WeChat chats will NOT be answered.**
-- **Messages sent after 20:00 in personal chats will be extremely unwelcome.**
+- **Messages sent after 21:00 in personal chats will be extremely unwelcome.**
 
 Learning how to use Google & Baidu & Bing to solve programming problems is an important skill you should develop during this course.
 
