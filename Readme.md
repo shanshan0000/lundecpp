@@ -45,7 +45,7 @@ https://meeting.tencent.com/l/TfmYIwVlqSVP
 #### Which Operating System to boot from:
 Windows 10 
 
-#### When your CLion project seems broken:
+## When your CLion project seems broken:
 
 - 重新 clone （VCS->Get from Version Control）试试
 
@@ -58,7 +58,7 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 After finishing this course, you could contact me if you would like to be a TA. Basically,
 the TA will help ask questions in Gitee Issue and in WeChat group.
 
-## 往届学生的学习方法总结
+## They have been there as well ... and got an A!
 Suggestions from students who got an A (or first place in B): 
 - [往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
 
@@ -186,7 +186,7 @@ Online version:
 - https://app.diagrams.net/
 
 
-## Notes & Exam:
+## Notes & Exams:
 
 Voici comment seront calculées les notes de l'UV (sur un total de 105, au lieu de 100): 
 
@@ -201,7 +201,7 @@ Some further clarifications on mid-term/final exam:
 - Dictionaries on smartphone are NOT allowed. All electronic devices are forbidden of use during exam.
 - If you have difficulties writing your answers in French, you could answer in English. 
 
-#### 考试提醒：
+#### Answer sheet for exams：
 
 - 答题纸**单面**答题。因为答题纸需要扫描发给法国老师。
 - 每张答题纸最上面写上学号、中文姓名、姓名拼音。
@@ -270,3 +270,6 @@ For debugging with CLion, watch this:
 
 #### How do you use Issues in your class?
 - https://education.github.community/t/how-do-you-use-issues-in-your-class/
+
+## Why leetcode?
+- 
