@@ -256,6 +256,9 @@ Office visit is NOT welcome unless you make an appointment at least one day in a
 - [Install CLion and Git](https://www.bilibili.com/video/BV1cq4y1S7Be)
 - https://gitee.com/lundechen/hello
 
+Clion 2020.1 版本无法激活的同学，可以尝试下载 CLion 2022.2，然后激活：
+https://docs.qq.com/doc/p/41f1c0098815f3d0a6cbb3f9ad2b2312de4b43b3?dver=3.0.0
+
 #### :rocket: How to manipulate with git during TD sessions
 - [B站视频 - 编程课程使用Git-师生交互-简单场景-以算法入门为例](https://www.bilibili.com/video/BV1gu411Q7T3/)
 
