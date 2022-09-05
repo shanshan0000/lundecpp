@@ -45,12 +45,6 @@ https://meeting.tencent.com/l/TfmYIwVlqSVP
 #### Which Operating System to boot from:
 Windows 10 
 
-## When your CLion project seems broken:
-
-- 重新 clone （VCS->Get from Version Control）试试
-
-- 或者关了 CLION, 删除项目的 .idea 文件夹，然后再次打开 Clion
-
 ## Teaching Assistant
 
 Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
@@ -148,6 +142,13 @@ NAN | [ex38-q2-q3-ans](../../tree/ex38-q2-q3-ans)  | | [video](https://www.bilib
 NAN | [ex40-ans](../../tree/ex40-ans)  | | | [blog](https://cppbetterexplained.com/c-template-metaprogramming-in-practice/)
 
 
+## When your CLion project seems broken:
+
+- 重新 clone （VCS->Get from Version Control）试试
+
+- 或者关了 CLion, 删除项目的 .idea 文件夹，然后再次打开 Clion
+
+
 ## Project
 
 #### Project
@@ -157,7 +158,7 @@ Dans le cadre de cet UV, vous travaillerez par groupe sur un projet C++ en rappo
 - Vous devrez rendre un livrable le ?? novembre à 23h59 au plus tard (!) sur: "Chaoxing Plateform" - Section Homework (作业).
 
 #### Project description:
-[:books: Project description in pdf](../../tree/master/project)x
+[:books: Project description in pdf](../../tree/master/project)
 
 
 #### Forming teams: 
@@ -273,4 +274,4 @@ For debugging with CLion, watch this:
 - https://education.github.community/t/how-do-you-use-issues-in-your-class/
 
 ## Why leetcode?
-- 
+- Because it's fun.
