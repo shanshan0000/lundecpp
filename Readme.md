@@ -270,6 +270,10 @@ For debugging with CLion, watch this:
 
 ## Why do we use Gitee/GitHub in this course?
 
+I learned this approach of teaching from Prof. Fabien Pfaender, the French Dean of UTSEUS. I was so impressed. It was another level.
+
+Here in this course of LO02, we are using a very basic and simple form of teaching/learning with git/GitHub/Gitee. In the course of Introduction To Machine Learning, a more sophisticated approach will be employed.
+
 #### Why you should use GitHub: Lessons for the classroom and newsroom
 - https://www.storybench.org/use-github-lessons-classroom-newsroom/
 
@@ -278,3 +282,4 @@ For debugging with CLion, watch this:
 
 ## Why leetcode?
 - Because it's fun.
+- Because it's useful.
