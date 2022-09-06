@@ -62,8 +62,8 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 ---------------- | ----------------  | ----------------| ----------------| ----------------: 
 [ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans)  | | |
 [ex2](../../tree/ex2) | [ex2-ans](../../tree/ex2-ans) | | |
-[ex3](../../tree/ex3) | [ex3-ans](../../tree/ex3-ans) | | |
-[ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans)  | | |
+[ex3](../../tree/ex3) | [ex3-ans](../../tree/ex3-ans) | | | [blog](https://stackoverflow.com/questions/14517546/how-can-a-c-header-file-include-implementation)
+[ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans)  | | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170)
 [ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans)  | | |
 [ex5](../../tree/ex5) | [ex5-extended](../../tree/ex5-extended) | | |
 [ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | | | [blog](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/)
