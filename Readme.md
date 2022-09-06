@@ -25,7 +25,7 @@ Participer à la réunion Zoom
 ## Travaux Dirigés (TD)
 
 #### Time: 
-Each Thursday, Wednesday and Friday, 8:00 to 11:40
+Each Tuesday, Wednesday and Friday, 8:00 to 11:40
 
 #### Classroom: 
 D406
