@@ -60,7 +60,7 @@ Suggestions from students who got an A (or first place in B):
 
 Exercise | Solution  | Leetcode  | Video | Reading Materials
 ---------------- | ----------------  | ----------------| ----------------| ----------------: 
-[ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans)  | | |
+[ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans)  | | [video](https://www.bilibili.com/video/BV1124y1o71P/)|
 [ex2](../../tree/ex2) | [ex2-ans](../../tree/ex2-ans) | | |
 [ex3](../../tree/ex3) | [ex3-ans](../../tree/ex3-ans) | | | [blog](https://stackoverflow.com/questions/14517546/how-can-a-c-header-file-include-implementation)
 [ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans)  | | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170)
