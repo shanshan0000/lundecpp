@@ -264,6 +264,8 @@ https://docs.qq.com/doc/p/41f1c0098815f3d0a6cbb3f9ad2b2312de4b43b3?dver=3.0.0
 
 Basically, you will use ```git stash```, ```git pull```  and ```git checkout``` most of the time.
 
+LO02 C++ 相比 LO01 算法入门，主要是多了一个 git checkout。
+
 #### :bug: :bug: :bug: :bug: Debug
 For debugging with CLion, watch this:
 - [B站视频 - CLion Debug](https://www.bilibili.com/video/BV1u44y167jP/)
