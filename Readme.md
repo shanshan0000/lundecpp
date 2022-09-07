@@ -66,7 +66,7 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans)  | | | [blog1](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170) [blog2](https://www.learncpp.com/cpp-tutorial/header-guards/)
 [ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans)  | | |
 [ex5](../../tree/ex5) | [ex5-extended](../../tree/ex5-extended) | | |
-[ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | | | [blog](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/)
+[ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | | | [blog1](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/) [blog2](https://stackoverflow.com/questions/23345554/what-distinguishes-the-declaration-the-definition-and-the-initialization-of-a-v)
 NAN                   | [ex7-ans](../../tree/ex7-ans) | | |
 NAN                   | [ex8-ans-1](../../tree/ex8-ans-1) | | |
  NAN                   | [ex8-ans-2](../../tree/ex8-ans-2) | | |
