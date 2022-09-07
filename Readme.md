@@ -85,11 +85,11 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex19](../../tree/ex19) | [ex19-ans](../../tree/ex19-ans)  | | |
 [ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  | | |
 [ex20-q2](../../tree/ex20-q2)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | | |
-[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1)  | | |
-[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-2](../../tree/ex20-q3-ans-2)  |  | |
-[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-3](../../tree/ex20-q3-ans-3)  | | |
-[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-4](../../tree/ex20-q3-ans-4)  | | |
-[ex20](../../tree/ex20-q1)  | [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | | |
+NAN  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1)  | | |
+NAN  | [ex20-q3-ans-2](../../tree/ex20-q3-ans-2)  |  | |
+NAN  | [ex20-q3-ans-3](../../tree/ex20-q3-ans-3)  | | |
+NAN  | [ex20-q3-ans-4](../../tree/ex20-q3-ans-4)  | | |
+NAN  | [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | | |
 [ex20-q4](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
 NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1)  | | |
 NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |  [video](https://www.bilibili.com/video/bv1q64y187Ah) |
