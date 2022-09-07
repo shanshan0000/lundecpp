@@ -63,7 +63,7 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans)  | | [video](https://www.bilibili.com/video/BV1124y1o71P/)|
 [ex2](../../tree/ex2) | [ex2-ans](../../tree/ex2-ans) | | |
 [ex3](../../tree/ex3) | [ex3-ans](../../tree/ex3-ans) | | | [blog](https://stackoverflow.com/questions/14517546/how-can-a-c-header-file-include-implementation)
-[ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans)  | | | [blog1](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170) [blog2](https://www.learncpp.com/cpp-tutorial/header-guards/)
+[ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans)  | | [video](https://www.bilibili.com/video/BV1GP4y1Z7s1/) | [blog1](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170) [blog2](https://www.learncpp.com/cpp-tutorial/header-guards/)
 [ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans)  | | |
 [ex5](../../tree/ex5) | [ex5-extended](../../tree/ex5-extended) | | |
 [ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | | | [blog1](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/) [blog2](https://stackoverflow.com/questions/23345554/what-distinguishes-the-declaration-the-definition-and-the-initialization-of-a-v)
@@ -83,8 +83,8 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex17](../../tree/ex17) | [ex17-ans](../../tree/ex17-ans)  |   |  [video](https://www.bilibili.com/video/BV1234y1S72T) |
 [ex18](../../tree/ex18) | [ex18-ans](../../tree/ex18-ans)  | | |
 [ex19](../../tree/ex19) | [ex19-ans](../../tree/ex19-ans)  | | |
-[ex20](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  | | |
-[ex20](../../tree/ex20-q1)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | | |
+[ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  | | |
+[ex20-q2](../../tree/ex20-q2)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | | |
 [ex20](../../tree/ex20-q1)  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1)  | | |
 [ex20](../../tree/ex20-q1)  | [ex20-q3-ans-2](../../tree/ex20-q3-ans-2)  |  | |
 [ex20](../../tree/ex20-q1)  | [ex20-q3-ans-3](../../tree/ex20-q3-ans-3)  | | |
