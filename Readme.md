@@ -8,7 +8,7 @@
 
 ## Online QA session
 
-Professor: Antoine Jouglet
+Professor: Antoine Jouglet from UTC
 
 Time: each Monday 18:00-20:45
 
@@ -49,8 +49,7 @@ Windows 10
 
 Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 
-After finishing this course, you could contact me if you would like to be a TA. Basically,
-the TA will help ask questions in Gitee Issue and in WeChat group.
+> After finishing this course, you could contact me if you would like to be a TA. Basically, the TA will help ask questions in Gitee Issue and in WeChat group.
 
 ## They have been there as well ... and got an A!
 Suggestions from students who got an A (or first place in B): 
@@ -256,15 +255,12 @@ Office visit is NOT welcome unless you make an appointment at least one day in a
 - [Install CLion and Git](https://www.bilibili.com/video/BV1cq4y1S7Be)
 - https://gitee.com/lundechen/hello
 
-Clion 2020.1 版本无法激活的同学，可以尝试下载 CLion 2022.2，然后激活：
-https://docs.qq.com/doc/p/41f1c0098815f3d0a6cbb3f9ad2b2312de4b43b3?dver=3.0.0
+> Clion 2020.1 版本无法激活的同学，可以尝试下载 CLion 2022.2，然后激活：https://docs.qq.com/doc/p/41f1c0098815f3d0a6cbb3f9ad2b2312de4b43b3?dver=3.0.0
 
 #### :rocket: How to manipulate with git during TD sessions
 - [B站视频 - 编程课程使用Git-师生交互-简单场景-以算法入门为例](https://www.bilibili.com/video/BV1gu411Q7T3/)
-
-Basically, you will use ```git stash```, ```git pull```  and ```git checkout``` most of the time.
-
-LO02 C++ 相比 LO01 算法入门，主要是多了一个 git checkout。
+- Basically, you will use ```git stash```, ```git pull```  and ```git checkout``` most of the time.
+- LO02 C++ 相比 LO01 算法入门，主要是多了一个 git checkout。
 
 #### :bug: :bug: :bug: :bug: Debug
 For debugging with CLion, watch this:
@@ -284,4 +280,4 @@ Here in this course of LO02, we are using a very basic and simple form of teachi
 
 ## Why leetcode?
 - Because it's fun.
-- Because it's useful.
+
