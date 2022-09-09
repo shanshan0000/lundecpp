@@ -66,10 +66,10 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans)  | | |
 [ex5](../../tree/ex5) | [ex5-extended](../../tree/ex5-extended) | | | [blog](https://www.quora.com/Is-cout-an-object-or-a-function-Why)
 [ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | | | [blog1](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/) [blog2](https://stackoverflow.com/questions/23345554/what-distinguishes-the-declaration-the-definition-and-the-initialization-of-a-v)
-[ex7](../../tree/ex7)                   | [ex7-ans](../../tree/ex7-ans) | | |
+[ex7](../../tree/ex7)                   | [ex7-ans](../../tree/ex7-ans) | | | [blog](https://www.w3schools.com/CPP/cpp_variables_constants.asp)
 [ex8](../../tree/ex8)                   | [ex8-ans-1](../../tree/ex8-ans-1) | | |
 [ex8](../../tree/ex8)                   | [ex8-ans-2](../../tree/ex8-ans-2) | | |
-[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | | | 
+[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | | | [blog](https://www.programiz.com/cpp-programming/function-overloading)
 [ex9](../../tree/ex9) | [ex9-ans-2](../../tree/ex9-ans-2)  | | | [blog1](https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline) [blog2](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
 [ex9](../../tree/ex9) | [ex9-ans-extended](../../tree/ex9-ans-extended)  | | |
 [ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | |
