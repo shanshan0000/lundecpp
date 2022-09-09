@@ -69,7 +69,7 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex7](../../tree/ex7)                   | [ex7-ans](../../tree/ex7-ans) | | | [blog](https://www.w3schools.com/CPP/cpp_variables_constants.asp)
 [ex8](../../tree/ex8)                   | [ex8-ans-1](../../tree/ex8-ans-1) | | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-170)
 [ex8](../../tree/ex8)                   | [ex8-ans-2](../../tree/ex8-ans-2) | | |
-[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | | | [blog1](https://www.ascii-code.com/)[blog2](https://www.programiz.com/cpp-programming/function-overloading)
+[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | | | [blog1](https://www.ascii-code.com/) [blog2](https://www.programiz.com/cpp-programming/function-overloading)  [blog3](https://www.quora.com/How-did-one-come-up-with-42-being-the-answer-to-the-universe-or-is-it-a-hoax)
 [ex9](../../tree/ex9) | [ex9-ans-2](../../tree/ex9-ans-2)  | | | [blog1](https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline) [blog2](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
 [ex9](../../tree/ex9) | [ex9-ans-extended](../../tree/ex9-ans-extended)  | | |
 [ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | |
