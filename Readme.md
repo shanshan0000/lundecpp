@@ -66,7 +66,7 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans)  | | |
 [ex5](../../tree/ex5) | [ex5-extended](../../tree/ex5-extended) | | | [blog](https://www.quora.com/Is-cout-an-object-or-a-function-Why)
 [ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | | | [blog1](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/) [blog2](https://stackoverflow.com/questions/23345554/what-distinguishes-the-declaration-the-definition-and-the-initialization-of-a-v)
-[ex7](../../tree/ex7)                   | [ex7-ans](../../tree/ex7-ans) | | | [blog](https://www.w3schools.com/CPP/cpp_variables_constants.asp)
+[ex7](../../tree/ex7)                   | [ex7-ans](../../tree/ex7-ans) | | [video](https://www.bilibili.com/video/BV1UG411G71F/)| [blog](https://www.w3schools.com/CPP/cpp_variables_constants.asp)
 [ex8](../../tree/ex8)                   | [ex8-ans-1](../../tree/ex8-ans-1) | | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-170)
 [ex8](../../tree/ex8)                   | [ex8-ans-2](../../tree/ex8-ans-2) | | |
 [ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | | | [blog1](https://www.ascii-code.com/) [blog2](https://www.programiz.com/cpp-programming/function-overloading)  [blog3](https://www.quora.com/How-did-one-come-up-with-42-being-the-answer-to-the-universe-or-is-it-a-hoax)
