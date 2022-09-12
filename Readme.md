@@ -38,9 +38,7 @@ https://meeting.tencent.com/s/ckxVNof1hVka?rs=25
 
 **会议 ID：958 9491 5777**
 
-会议直播：
-
-https://meeting.tencent.com/l/TfmYIwVlqSVP
+请大家上课带上耳机，上课时不时会需要使用，谢谢！
  
 #### Which Operating System to boot from:
 Windows 10 
