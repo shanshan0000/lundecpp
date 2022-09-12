@@ -23,6 +23,7 @@ Participer à la réunion Zoom
 
 
 ## Travaux Dirigés (TD)
+> 请大家上课带上耳机，上课时不时会需要使用，谢谢！
 
 #### Time: 
 Each Tuesday, Wednesday and Friday, 8:00 to 11:40
@@ -32,14 +33,8 @@ D406
 
 #### Tencent Meeting:
 
-点击链接入会，或添加至会议列表：
+Room ID：958 9491 5777
 
-https://meeting.tencent.com/s/ckxVNof1hVka?rs=25
-
-**会议 ID：958 9491 5777**
-
-请大家上课带上耳机，上课时不时会需要使用，谢谢！
- 
 #### Which Operating System to boot from:
 Windows 10 
 
