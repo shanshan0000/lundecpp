@@ -48,7 +48,7 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 Suggestions from students who got an A (or first place in B): 
 - [往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
 
-#### Exercises & Solutions:
+## Exercises & Solutions:
 
 Exercise | Solution  | Leetcode  | Video | Reading Materials
 ---------------- | ----------------  | ----------------| ----------------| ----------------: 
