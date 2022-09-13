@@ -66,7 +66,7 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex9](../../tree/ex9) | [ex9-ans-2](../../tree/ex9-ans-2)  | | | [blog1](https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline) [blog2](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
 [ex9](../../tree/ex9) | [ex9-ans-extended](../../tree/ex9-ans-extended)  | | |
 [ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | [video](https://www.bilibili.com/video/BV1uV4y1g7F4/) | [blog1](https://www.learncpp.com/cpp-tutorial/pointers-and-const/) [blog2](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
-[ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) | [blog](https://stackoverflow.com/questions/61915474/difference-between-const-reference-and-reference)
+[ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) | [blog1](https://stackoverflow.com/questions/61915474/difference-between-const-reference-and-reference) [blog2](https://www.geeksforgeeks.org/const_cast-in-c-type-casting-operators/)
 [ex12](../../tree/ex12) | [ex12-ans](../../tree/ex12-ans)  | [leetcode-344](../../tree/leetcode-344) |  | [blog](https://www.tutorialspoint.com/differences-between-pass-by-value-and-pass-by-reference-in-cplusplus)
 [ex13](../../tree/ex13) | [ex13-ans](../../tree/ex13-ans)  | | [video](https://www.bilibili.com/video/BV1cf4y1E77w/) |
 [ex14](../../tree/ex14) | [ex14-ans](../../tree/ex14-ans)  | | |
