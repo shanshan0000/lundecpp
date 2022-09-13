@@ -68,14 +68,14 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | [video](https://www.bilibili.com/video/BV1uV4y1g7F4/) | [blog1](https://www.learncpp.com/cpp-tutorial/pointers-and-const/) [blog2](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
 [ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) | [blog](https://stackoverflow.com/questions/61915474/difference-between-const-reference-and-reference)
 [ex12](../../tree/ex12) | [ex12-ans](../../tree/ex12-ans)  | [leetcode-344](../../tree/leetcode-344) |  | [blog](https://www.tutorialspoint.com/differences-between-pass-by-value-and-pass-by-reference-in-cplusplus)
-[ex13](../../tree/ex13) | [ex13-ans](../../tree/ex13-ans)  | |
+[ex13](../../tree/ex13) | [ex13-ans](../../tree/ex13-ans)  | | [video](https://www.bilibili.com/video/BV1cf4y1E77w/) |
 [ex14](../../tree/ex14) | [ex14-ans](../../tree/ex14-ans)  | | |
-[ex15](../../tree/ex15) | [ex15-ans](../../tree/ex15-ans)  |  | [video](https://www.bilibili.com/video/BV1cf4y1E77w/) |
-[ex16](../../tree/ex16) | [ex16-ans](../../tree/ex16-ans)  | | |
-[ex17](../../tree/ex17) | [ex17-ans](../../tree/ex17-ans)  |   |  [video](https://www.bilibili.com/video/BV1234y1S72T) |
+[ex15](../../tree/ex15) | [ex15-ans](../../tree/ex15-ans)  |  |  |
+[ex16](../../tree/ex16) | [ex16-ans](../../tree/ex16-ans)  | | [video](https://www.bilibili.com/video/BV1234y1S72T) |
+[ex17](../../tree/ex17) | [ex17-ans](../../tree/ex17-ans)  |   |  |
 [ex18](../../tree/ex18) | [ex18-ans](../../tree/ex18-ans)  | | |
 [ex19](../../tree/ex19) | [ex19-ans](../../tree/ex19-ans)  | | |
-[ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  | | |
+[ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  | | [video](https://www.bilibili.com/video/bv1q64y187Ah) |
 [ex20-q2](../../tree/ex20-q2)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | | |
 NAN  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1)  | | |
 NAN  | [ex20-q3-ans-2](../../tree/ex20-q3-ans-2)  |  | |
@@ -84,7 +84,7 @@ NAN  | [ex20-q3-ans-4](../../tree/ex20-q3-ans-4)  | | |
 NAN  | [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | | |
 [ex20-q4](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
 NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1)  | | |
-NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |  [video](https://www.bilibili.com/video/bv1q64y187Ah) |
+NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |   |
 [ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  | [leetcode-1941](../../tree/leetcode-1941) | | 
 NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | | |
 [ex21](../../tree/ex21-q1)  | [ex21-q1-ans-1](../../tree/ex21-q1-ans-1)  | | | [blog](https://blog.csdn.net/m0_37968340/article/details/74165221)
