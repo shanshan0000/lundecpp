@@ -65,9 +65,9 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | | | [blog1](https://www.ascii-code.com/) [blog2](https://www.programiz.com/cpp-programming/function-overloading)  [blog3](https://www.quora.com/How-did-one-come-up-with-42-being-the-answer-to-the-universe-or-is-it-a-hoax)
 [ex9](../../tree/ex9) | [ex9-ans-2](../../tree/ex9-ans-2)  | | | [blog1](https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline) [blog2](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
 [ex9](../../tree/ex9) | [ex9-ans-extended](../../tree/ex9-ans-extended)  | | |
-[ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | |
-[ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | | |
-[ex12](../../tree/ex12) | [ex12-ans](../../tree/ex12-ans)  | [leetcode-344](../../tree/leetcode-344) | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) |
+[ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | | [blog1](https://www.learncpp.com/cpp-tutorial/pointers-and-const/) [blog2](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
+[ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) |
+[ex12](../../tree/ex12) | [ex12-ans](../../tree/ex12-ans)  | [leetcode-344](../../tree/leetcode-344) |  |
 [ex13](../../tree/ex13) | [ex13-ans](../../tree/ex13-ans)  | |
 [ex14](../../tree/ex14) | [ex14-ans](../../tree/ex14-ans)  | | |
 [ex15](../../tree/ex15) | [ex15-ans](../../tree/ex15-ans)  |  | [video](https://www.bilibili.com/video/BV1cf4y1E77w/) |
