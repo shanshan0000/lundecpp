@@ -159,7 +159,7 @@ NAN | [ex40-ans](../../tree/ex40-ans)  | | | [blog](https://cppbetterexplained.c
 
 - 重新 clone （VCS->Get from Version Control）试试
 
-- 关闭所有的代码编辑Tab，然后再次打开代码文件。
+- 关闭所有的代码编辑tab，然后再次打开代码文件。
 
 - 或者关了 CLion, 删除项目的 .idea 文件夹，然后再次打开 Clion
 
