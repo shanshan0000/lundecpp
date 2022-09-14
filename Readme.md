@@ -1,5 +1,26 @@
 # LO02 C++ 2022
 
+## Clone this repository
+
+#### Method 1:
+
+```shell
+git clone https://gitee.com/lundechen/cpp.git 
+```
+
+Then open the ```cpp``` folder with CLion.
+
+
+#### Method 2:
+
+In CLion, click ```VCS``` -> ```Get From Version Control```, input the url:
+```text
+https://gitee.com/lundechen/cpp.git 
+```
+
+Then click ```clone```.
+
+
 ## Course videos
 
 :tv: Course videos by Prof. Antoine Jouglet are on Chaoxing Platform.
