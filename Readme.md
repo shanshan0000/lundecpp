@@ -69,8 +69,8 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) | [blog1](https://stackoverflow.com/questions/61915474/difference-between-const-reference-and-reference) [blog2](https://www.geeksforgeeks.org/const_cast-in-c-type-casting-operators/)
 [ex12](../../tree/ex12) | [ex12-ans](../../tree/ex12-ans)  | [leetcode-344](../../tree/leetcode-344) |  | [blog](https://www.tutorialspoint.com/differences-between-pass-by-value-and-pass-by-reference-in-cplusplus)
 [ex13](../../tree/ex13) | [ex13-ans](../../tree/ex13-ans)  | | [video](https://www.bilibili.com/video/BV1cf4y1E77w/) |
-[ex14](../../tree/ex14) | [ex14-ans](../../tree/ex14-ans)  | | |
-[ex15](../../tree/ex15) | [ex15-ans](../../tree/ex15-ans)  |  |  |
+[ex14](../../tree/ex14) | [ex14-ans](../../tree/ex14-ans)  | | | [blog1](https://www.geeksforgeeks.org/default-arguments-c/) [blog2](https://en.cppreference.com/w/cpp/language/default_arguments)
+[ex15](../../tree/ex15) | [ex15-ans](../../tree/ex15-ans)  |  |  | [blog1](https://www.programiz.com/cpp-programming/memory-management) [blog2](https://stackoverflow.com/questions/860447/what-is-the-array-form-of-delete) [blog3](https://www.geeksforgeeks.org/delete-in-c/)
 [ex16](../../tree/ex16) | [ex16-ans](../../tree/ex16-ans)  | | [video](https://www.bilibili.com/video/BV1234y1S72T) |
 [ex17](../../tree/ex17) | [ex17-ans](../../tree/ex17-ans)  |   |  |
 [ex18](../../tree/ex18) | [ex18-ans](../../tree/ex18-ans)  | | |
