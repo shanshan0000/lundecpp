@@ -63,7 +63,7 @@ Windows 10
 
 Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 
-> After finishing this course, you could contact me if you would like to be a TA. Basically, the TA will help ask questions in Gitee Issue and in WeChat group.
+> After finishing this course, you could contact me if you would like to be a TA. Basically, the TA will help answer questions in Gitee Issue and in WeChat group.
 
 ## They have been there as well ... and got an A!
 Suggestions from students who got an A (or first place in B): 
