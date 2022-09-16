@@ -93,6 +93,7 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex14](../../tree/ex14) | [ex14-ans](../../tree/ex14-ans)  | | | [blog1](https://www.geeksforgeeks.org/default-arguments-c/) [blog2](https://en.cppreference.com/w/cpp/language/default_arguments)
 [ex15](../../tree/ex15) | [ex15-ans](../../tree/ex15-ans)  |  |  | [blog1](https://www.programiz.com/cpp-programming/memory-management) [blog2](https://stackoverflow.com/questions/860447/what-is-the-array-form-of-delete) 
 [ex16](../../tree/ex16) | [ex16-ans](../../tree/ex16-ans)  | | [video](https://www.bilibili.com/video/BV1234y1S72T) |
+[ex16](../../tree/ex16) | [ex16-ans-extended](../../tree/ex16-ans-extended)  | | |
 [ex17](../../tree/ex17) | [ex17-ans](../../tree/ex17-ans)  |   |  |
 [ex18](../../tree/ex18) | [ex18-ans](../../tree/ex18-ans)  | | |
 [ex19](../../tree/ex19) | [ex19-ans](../../tree/ex19-ans)  | | |
