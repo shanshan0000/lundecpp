@@ -98,7 +98,7 @@ Exercise | Solution  | Leetcode  | Video | Reading Materials
 [ex18](../../tree/ex18) | [ex18-ans](../../tree/ex18-ans)  | | |
 [ex19](../../tree/ex19) | [ex19-ans](../../tree/ex19-ans)  | | |
 [ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  | | [video](https://www.bilibili.com/video/bv1q64y187Ah) | [blog](https://www.w3schools.com/cpp/cpp_oop.asp)
-[ex20-q2](../../tree/ex20-q2)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | | |
+[ex20-q2](../../tree/ex20-q2)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | | | [blog](https://stackoverflow.com/questions/9370493/inline-function-members-inside-a-class)
 NAN  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1)  | | |
 NAN  | [ex20-q3-ans-2](../../tree/ex20-q3-ans-2)  |  | |
 NAN  | [ex20-q3-ans-3](../../tree/ex20-q3-ans-3)  | | |
