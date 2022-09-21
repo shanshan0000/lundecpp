@@ -107,8 +107,8 @@ NAN  | [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | | |
 [ex20-q4](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
 NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1)  | | |
 NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |   |
-[ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  | [leetcode-1941](../../tree/leetcode-1941) | | [blog](https://www.javatpoint.com/cpp-destructor)
-NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | | | [blog1](https://drawio-app.com/uml-class-diagrams-in-draw-io/) [blog2](https://www.diagrams.net/blog/uml-class-diagrams) [blog3](https://www.javatpoint.com/uml-class-diagram)
+[ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  | [leetcode-1941](../../tree/leetcode-1941) | | [blog1](https://www.javatpoint.com/cpp-destructor)[blog2](https://www.geeksforgeeks.org/this-pointer-in-c/)
+NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | | | [blog1](https://drawio-app.com/uml-class-diagrams-in-draw-io/) [blog2](https://www.diagrams.net/blog/uml-class-diagrams) [blog3](https://www.javatpoint.com/uml-class-diagram) [blog4](https://www.uml-diagrams.org/class-reference.html)
 [ex21](../../tree/ex21-q1)  | [ex21-q1-ans-1](../../tree/ex21-q1-ans-1)  | | | [blog](https://blog.csdn.net/m0_37968340/article/details/74165221)
 [ex21](../../tree/ex21-q1)  | [ex21-q1-ans-2](../../tree/ex21-q1-ans-2)  | |  | [blog](https://en.cppreference.com/w/cpp/language/operators)
 [ex21](../../tree/ex21-q1)  | [ex21-q2-ans](../../tree/ex21-q2-ans)  | | | [blog](https://stackoverflow.com/questions/36557340/implicit-conversion-from-int-to-a-class-type)
