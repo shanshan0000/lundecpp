@@ -112,11 +112,11 @@ NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | | | [blog1](https://drawio-app.c
 [ex21](../../tree/ex21-q1)  | [ex21-q2-ans](../../tree/ex21-q2-ans)  | | | [blog](https://stackoverflow.com/questions/36557340/implicit-conversion-from-int-to-a-class-type)
 [ex21](../../tree/ex21-q1)  | [ex21-q3-ans](../../tree/ex21-q3-ans)  | | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/increment-and-decrement-operator-overloading-cpp?view=msvc-160)
 [ex21](../../tree/ex21-q1)  | [ex21-q4-ans](../../tree/ex21-q4-ans)  |  |  | [blog1](https://www.geeksforgeeks.org/overloading-stream-insertion-operators-c/) [blog2](https://learn.microsoft.com/en-us/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=msvc-170)
-NAN  | [ex22-q1-ans](../../tree/ex22-q1-ans)  |  [leetcode-1748](../../tree/leetcode-1748) |  |
+NAN  | [ex22-q1-ans](../../tree/ex22-q1-ans)  |  [leetcode-1748](../../tree/leetcode-1748) |  [video](https://www.bilibili.com/video/bv1Mg411F7Zs)  |
 NAN  | [ex22-q2-ans](../../tree/ex22-q2-ans)  |  |  |
 NAN  | [ex22-q3-ans](../../tree/ex22-q3-ans)  | [leetcode-1603](../../tree/leetcode-1603) |  |
 NAN  | [ex22-q4-ans](../../tree/ex22-q4-ans)  |  |  |
-NAN  | [ex22-q5-ans](../../tree/ex22-q5-ans)  |  | [video](https://www.bilibili.com/video/bv1Mg411F7Zs) |
+NAN  | [ex22-q5-ans](../../tree/ex22-q5-ans)  |  | |
 NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1Su411f7iT) |
 10-01 Holiday  | [ex23-ex24-solution-pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf)  |  |  |
 NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |   |  |  [blog1](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor) [blog2](http://www.cplusplus.com/forum/general/49311/) [blog3](http://www.cplusplus.com/forum/general/49311/) 
