@@ -105,7 +105,7 @@ NAN  | [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | | |
 [ex20-q4](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
 NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1)  | | |
 NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |   |
-[ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  | [leetcode-1941](../../tree/leetcode-1941) | [video](https://www.bilibili.com/video/BV1UD4y1i7Cu/)| [blog1](https://www.javatpoint.com/cpp-destructor) [blog2](https://www.geeksforgeeks.org/this-pointer-in-c/) [blog3](https://www.quora.com/When-destructor-invoked-what-is-the-difference-between-the-pointer-to-an-object-and-the-object) [blog4](https://stackoverflow.com/questions/9965977/pointer-to-object-and-its-destructor)
+[ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  |  | [video](https://www.bilibili.com/video/BV1UD4y1i7Cu/)| [blog1](https://www.javatpoint.com/cpp-destructor) [blog2](https://www.geeksforgeeks.org/this-pointer-in-c/) [blog3](https://www.quora.com/When-destructor-invoked-what-is-the-difference-between-the-pointer-to-an-object-and-the-object) [blog4](https://stackoverflow.com/questions/9965977/pointer-to-object-and-its-destructor)
 NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | | | [blog1](https://drawio-app.com/uml-class-diagrams-in-draw-io/) [blog2](https://www.diagrams.net/blog/uml-class-diagrams) [blog3](https://www.javatpoint.com/uml-class-diagram) [blog4](https://www.uml-diagrams.org/class-reference.html)
 [ex21](../../tree/ex21-q1)  | [ex21-q1-ans-1](../../tree/ex21-q1-ans-1)  | | [video](https://www.bilibili.com/video/bv183411276k) | [blog](https://blog.csdn.net/m0_37968340/article/details/74165221)
 [ex21](../../tree/ex21-q1)  | [ex21-q1-ans-2](../../tree/ex21-q1-ans-2)  | |  | [blog](https://en.cppreference.com/w/cpp/language/operators)
@@ -117,7 +117,7 @@ NAN  | [ex22-q2-ans](../../tree/ex22-q2-ans)  |  |  |
 NAN  | [ex22-q3-ans](../../tree/ex22-q3-ans)  | [leetcode-1603](../../tree/leetcode-1603) |  |
 NAN  | [ex22-q4-ans](../../tree/ex22-q4-ans)  |  |  |
 NAN  | [ex22-q5-ans](../../tree/ex22-q5-ans)  |  | |
-NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1Su411f7iT) |
+NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  | [leetcode-1941](../../tree/leetcode-1941) | [video](https://www.bilibili.com/video/bv1Su411f7iT) |
 10-01 Holiday  | [ex23-ex24-solution-pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf)  |  |  |
 NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |   |  |  [blog1](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor) [blog2](http://www.cplusplus.com/forum/general/49311/) [blog3](http://www.cplusplus.com/forum/general/49311/) 
 NAN  | [ex23-q4-ans](../../tree/ex23-q3-q4-q5-ans)  |  |  |
