@@ -189,11 +189,14 @@ https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 正确示例:
 ![](img/zhengque.png)
 
-#### 往届学生优秀作品
+#### 往届学生优秀作品 (videos)
 ##### 2021 Fall
 - https://www.bilibili.com/video/BV1x341187wn
 - https://www.bilibili.com/video/BV1bL4y1v7FY
-- 
+
+#### 往届学生优秀作品 (rapport pdf)
+- [往届学生优秀作品 (rapport pdf)](../../tree/master/往届学生优秀作品)
+
 
 ## UML with Draw.io
 
