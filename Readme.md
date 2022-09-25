@@ -240,7 +240,7 @@ Some further clarifications on mid-term/final exam:
 
 ## Asking Questions
 
-#### 使用 Gitee issue 提问
+#### 使用 **[Gitee Issue](https://gitee.com/lundechen/cpp/issues)** 提问
 By default, you should ask questions via **[Gitee Issue](https://gitee.com/lundechen/cpp/issues)**. Here is how:
 - https://www.bilibili.com/video/BV1364y1h7sb/
 
