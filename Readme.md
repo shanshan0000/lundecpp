@@ -236,7 +236,7 @@ Some further clarifications on mid-term/final exam:
 ## Asking Questions
 
 #### 使用 Gitee issue 提问
-By default, you should ask questions via Gitee issue. Here is how:
+By default, you should ask questions via **[Gitee Issue](https://gitee.com/lundechen/cpp/issues)**. Here is how:
 - https://www.bilibili.com/video/BV1364y1h7sb/
 
 #### Principe
@@ -246,8 +246,8 @@ Here is the principle for asking questions:
 
 #### WeChat group
 
-You are expected to ask questions via **Gitee issue**. However, as a **secondary** choice, 
-you can also 
+You are expected to ask questions via **[Gitee Issue](https://gitee.com/lundechen/cpp/issues)**. However, as a **secondary**  (and hence, less desirable, less encouraged) choice, 
+you could also 
 ask questions in the WeChat group.
 
 In the **WeChat group**, questions will be answered selectively. 
