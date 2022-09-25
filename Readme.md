@@ -190,6 +190,11 @@ https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 ![](img/zhengque.png)
 
 #### 往届学生优秀作品 (videos)
+
+You could get some inspirations from those projects, realized by students from past promotions. 
+
+Be innovative. You could do even better.
+
 ##### 2021 Fall
 - https://www.bilibili.com/video/BV1x341187wn
 - https://www.bilibili.com/video/BV1bL4y1v7FY
