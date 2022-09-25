@@ -52,7 +52,7 @@ Each Tuesday, Wednesday and Friday, 8:00 to 11:40
 #### Classroom: 
 D406
 
-#### Tencent Meeting:
+#### Tencent Meeting (VooV Meeting):
 
 Room ID：958 9491 5777
 
