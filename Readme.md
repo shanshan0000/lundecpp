@@ -1,6 +1,6 @@
 # LO02 C++ 2022
 
-## Clone this repository
+## First thing first: Clone this repository
 
 #### Method 1:
 
