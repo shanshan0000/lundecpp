@@ -220,7 +220,7 @@ Online version:
 
 Voici comment seront calculées les notes de l'UV (sur un total de 105, au lieu de 100): 
 
-- L'examen mi-terme : 35%
+- L'examen mi-terme : 35% (15 Oct, 18:00-20:30)
 - Le projet : 30% 
 - L'examen final : 40%
 
