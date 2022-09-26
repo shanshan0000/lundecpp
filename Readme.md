@@ -249,13 +249,11 @@ Here is the principle for asking questions:
 
 >  **Google First, Peers Second, Profs Last.**
 
-#### WeChat group
-
 You are expected to ask questions via **[Gitee Issue](https://gitee.com/lundechen/cpp/issues)**. However, as a **secondary**  (and hence, less desirable, less encouraged) choice, 
 you could also 
 ask questions in the WeChat group.
 
-In the **WeChat group**, questions will be answered selectively. 
+In Gitee Issue and the WeChat group, questions will be answered selectively. 
 
 Questions won't be answered if:
 - they could be solved on a simple Google search
