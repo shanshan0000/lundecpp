@@ -69,7 +69,7 @@ Suggestions from students who got an A (or first place in B):
 
 ## Exercises & Solutions:
 
-Exercise | Solution  | Leetcode  | Video | Reading Materials
+Exercise (branch name) | Solution (branch name)  | Leetcode (branch name)  | Video (Bilibili) | Reading Materials
 ---------------- | ----------------  | ----------------| ----------------| ----------------: 
 [ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans)  | | [video](https://www.bilibili.com/video/BV1124y1o71P/)|
 [ex2](../../tree/ex2) | [ex2-ans](../../tree/ex2-ans) | | |
