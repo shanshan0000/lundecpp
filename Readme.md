@@ -193,7 +193,7 @@ https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 
 You could get some inspirations from those projects, realized by students from past promotions. 
 
-Be innovative. You could do even better.
+Be innovative. You can do even better.
 
 ##### 2021 Fall
 - https://www.bilibili.com/video/BV1x341187wn
