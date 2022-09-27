@@ -113,7 +113,7 @@ NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | | | [blog1](https://drawio-app.c
 [ex21](../../tree/ex21-q1)  | [ex21-q2-ans](../../tree/ex21-q2-ans)  | | | [blog](https://stackoverflow.com/questions/36557340/implicit-conversion-from-int-to-a-class-type)
 [ex21](../../tree/ex21-q1)  | [ex21-q3-ans](../../tree/ex21-q3-ans)  | | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/increment-and-decrement-operator-overloading-cpp?view=msvc-160)
 [ex21](../../tree/ex21-q1)  | [ex21-q4-ans](../../tree/ex21-q4-ans)  |  |  | [blog1](https://www.geeksforgeeks.org/overloading-stream-insertion-operators-c/) [blog2](https://learn.microsoft.com/en-us/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=msvc-170)
-NAN  | [ex22-q1-ans](../../tree/ex22-q1-ans)  |  [leetcode-1748](../../tree/leetcode-1748) |  [video](https://www.bilibili.com/video/bv1Mg411F7Zs)  | [blog](https://www.runoob.com/cplusplus/cpp-exceptions-handling.html)
+NAN  | [ex22-q1-ans](../../tree/ex22-q1-ans)  |  [leetcode-1748](../../tree/leetcode-1748) |  [video](https://www.bilibili.com/video/bv1Mg411F7Zs)  | [blog1](https://www.runoob.com/cplusplus/cpp-exceptions-handling.html) [blog2](https://www.w3schools.com/cpp/cpp_exceptions.asp)
 NAN  | [ex22-q2-ans](../../tree/ex22-q2-ans)  |  |  |
 NAN  | [ex22-q3-ans](../../tree/ex22-q3-ans)  | [leetcode-1603](../../tree/leetcode-1603) |  |
 NAN  | [ex22-q4-ans](../../tree/ex22-q4-ans)  |  |  |
