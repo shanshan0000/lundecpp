@@ -69,6 +69,11 @@ Suggestions from students who got an A (or first place in B):
 
 ## Exercises & Solutions:
 
+#### List of videos
+- https://space.bilibili.com/472463946/channel/seriesdetail?sid=2086469
+
+#### Table
+
 Exercise | Solution  | Leetcode  | Video  | Reading Materials
 ---------------- | ----------------  | ----------------| ----------------| ----------------: 
 [ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans)  | | [video](https://www.bilibili.com/video/BV1124y1o71P/)|
