@@ -69,10 +69,10 @@ Suggestions from students who got an A (or first place in B):
 
 ## Exercises & Solutions:
 
-#### List of videos
+#### List of all videos
 - https://space.bilibili.com/472463946/channel/seriesdetail?sid=2086469
 
-#### Table
+#### Table of content
 
 Exercise | Solution  | Leetcode  | Video  | Reading Materials
 ---------------- | ----------------  | ----------------| ----------------| ----------------: 
