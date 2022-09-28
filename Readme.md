@@ -118,7 +118,8 @@ NAN  | [ex22-q2-ans](../../tree/ex22-q2-ans)  |  |  |
 NAN  | [ex22-q3-ans](../../tree/ex22-q3-ans)  |  |  |
 NAN  | [ex22-q4-ans](../../tree/ex22-q4-ans)  |  |  |
 NAN  | [ex22-q5-ans-v1](../../tree/ex22-q5-ans-v1) [ex22-q5-ans-v2](../../tree/ex22-q5-ans-v2)  |  | |
-NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  | [leetcode-1941](../../tree/leetcode-1941) | [video](https://www.bilibili.com/video/bv1Su411f7iT) | [blog1](https://www.geeksforgeeks.org/copy-constructor-in-cpp/) [blog2](https://www.learncpp.com/cpp-tutorial/overloading-the-assignment-operator/) [blog3](https://stackoverflow.com/questions/4172722/what-is-the-rule-of-three)
+NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1Su411f7iT) | [blog1](https://www.geeksforgeeks.org/copy-constructor-in-cpp/) [blog2](https://www.learncpp.com/cpp-tutorial/overloading-the-assignment-operator/) [blog3](https://stackoverflow.com/questions/4172722/what-is-the-rule-of-three)
+**Mid-term Revision**  | [LO02_poly_exercices](../../tree/master/pdf/LO02_poly_exercices.pdf)  |  |  [video](https://www.bilibili.com/video/BV1dP411J7k2/) |
 10-01 Holiday  | [ex23-ex24-solution-pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf)  |  |  |
 NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |   |  |  [blog1](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor) [blog2](http://www.cplusplus.com/forum/general/49311/) [blog3](http://www.cplusplus.com/forum/general/49311/) 
 NAN  | [ex23-q4-ans](../../tree/ex23-q3-q4-q5-ans)  |  |  |
@@ -126,7 +127,7 @@ NAN  | [ex23-q5-ans](../../tree/ex23-q3-q4-q5-ans)  |   | [video](https://www.bi
 NAN | [ex23-q7-ans](../../tree/ex23-q6-q7-q8-ans)  | |  | [blog1](https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean) [blog2](https://stackoverflow.com/questions/2814188/c-array-of-pointers-delete-or-delete) [blog3](https://stackoverflow.com/questions/21731888/deleting-array-of-pointers/21732015)
 NAN | [ex23-q9-ans](../../tree/ex23-q9-ans)  | | [video](https://www.bilibili.com/video/bv1tQ4y1D7xg) | [blog1](https://www.delftstack.com/howto/cpp/cpp-vector-implementation/) [blog2](https://www.geeksforgeeks.org/shallow-copy-and-deep-copy-in-c/) [blog3](http://www.fredosaurus.com/notes-cpp/oop-condestructors/shallowdeepcopy.html)
 NAN  | ex23-q3-q6-q8-q10-ans  |  [leetcode-1476](../../tree/leetcode-1476)  [leetcode-284-v1](../../tree/leetcode-284-v1)  [leetcode-284-v2](../../tree/leetcode-284-v2)      | [video](https://www.bilibili.com/video/bv1dv411g7XY)         |  [blog](https://stackoverflow.com/questions/885937/what-is-the-difference-between-association-aggregation-and-composition)
-NAN  | [ex23-q11-ans](../../tree/ex23-q11-ans)  |  |  |
+NAN  | [ex23-q11-ans](../../tree/ex23-q11-ans)  | [leetcode-1941](../../tree/leetcode-1941) |  |
 NAN  | [ex23-q13-ans](../../tree/ex23-q13-ans)  |  |  |
 NAN  | [ex24-q1-ans-1](../../tree/ex24-q1-ans-1)  | [leetcode-1286-v1](https://leetcode.com/problems/iterator-for-combination/discuss/1509630) |  |
 NAN  | [ex24-q1-ans-2](../../tree/ex24-q1-ans-2)  | [leetcode-1286-v2](https://leetcode.com/problems/iterator-for-combination/discuss/1521899) |  |
