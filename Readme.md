@@ -118,7 +118,7 @@ NAN  | [ex22-q2-ans](../../tree/ex22-q2-ans)  |  |  |
 NAN  | [ex22-q3-ans](../../tree/ex22-q3-ans)  |  |  |
 NAN  | [ex22-q4-ans](../../tree/ex22-q4-ans)  |  |  |
 NAN  | [ex22-q5-ans-v1](../../tree/ex22-q5-ans-v1) [ex22-q5-ans-v2](../../tree/ex22-q5-ans-v2)  |  | |
-NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  | [leetcode-1941](../../tree/leetcode-1941) | [video](https://www.bilibili.com/video/bv1Su411f7iT) |
+NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  | [leetcode-1941](../../tree/leetcode-1941) | [video](https://www.bilibili.com/video/bv1Su411f7iT) | [blog1](https://www.geeksforgeeks.org/copy-constructor-in-cpp/) [blog2](https://www.learncpp.com/cpp-tutorial/overloading-the-assignment-operator/)
 10-01 Holiday  | [ex23-ex24-solution-pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf)  |  |  |
 NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |   |  |  [blog1](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor) [blog2](http://www.cplusplus.com/forum/general/49311/) [blog3](http://www.cplusplus.com/forum/general/49311/) 
 NAN  | [ex23-q4-ans](../../tree/ex23-q3-q4-q5-ans)  |  |  |
