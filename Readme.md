@@ -209,6 +209,11 @@ Be innovative. You can do even better.
 #### 往届学生优秀 project 作品 (rapport pdf)
 - [往届学生优秀 project 作品 (rapport pdf)](../../tree/master/往届学生优秀作品)
 
+#### 关于重修
+重修的同学，去年项目分数是可以保留的，也可以今年重新做，刷新分数。
+
+不过，公平起见，重修的同学的往年项目分数不会透漏。是否重做项目，大家自己把握。
+
 
 ## UML with Draw.io
 
