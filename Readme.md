@@ -126,7 +126,7 @@ NAN  | [ex22-q5-ans-v1](../../tree/ex22-q5-ans-v1) [ex22-q5-ans-v2](../../tree/e
 NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1Su411f7iT) | [blog1](https://www.geeksforgeeks.org/copy-constructor-in-cpp/) [blog2](https://www.learncpp.com/cpp-tutorial/overloading-the-assignment-operator/) [blog3](https://stackoverflow.com/questions/4172722/what-is-the-rule-of-three)
 **Mid-term Revision**  | [LO02_poly_exercices](../../tree/master/pdf/LO02_poly_exercices.pdf)  |  |  [video](https://www.bilibili.com/video/BV1dP411J7k2/) |
 10-01 Holiday  | [ex23-ex24-solution-pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf)  |  |  |
-NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |   |  |  [blog1](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor) [blog2](http://www.cplusplus.com/forum/general/49311/) [blog3](http://www.cplusplus.com/forum/general/49311/) 
+NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |   |  |  [blog1](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor) [blog2](http://www.cplusplus.com/forum/general/49311/)  
 NAN  | [ex23-q4-ans](../../tree/ex23-q3-q4-q5-ans)  |  |  |
 NAN  | [ex23-q5-ans](../../tree/ex23-q3-q4-q5-ans)  |   | [video](https://www.bilibili.com/video/bv1br4y127MK) | [blog](https://www.geeksforgeeks.org/destructors-c/)
 NAN | [ex23-q7-ans](../../tree/ex23-q6-q7-q8-ans)  | |  | [blog1](https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean) [blog2](https://stackoverflow.com/questions/2814188/c-array-of-pointers-delete-or-delete) [blog3](https://stackoverflow.com/questions/21731888/deleting-array-of-pointers/21732015)
