@@ -209,6 +209,12 @@ Be innovative. You can do even better.
 #### 往届学生优秀 project 作品 (rapport pdf)
 - [往届学生优秀 project 作品 (rapport pdf)](../../tree/master/往届学生优秀作品)
 
+#### If you want some suggestions for your project ...
+- Whenever possible, use ```std::vector``` (or other STL containers) instead of primitive arrays.
+- Pay attention to code readability. Profs read every code file when grading.
+- GUI (Graphic User Interface) is not essential. It might help give a good first impression.
+- Use as many *Design Patterns* as possible, but only when appropriate.
+
 #### 关于重修
 重修的同学，去年项目分数是可以保留的，也可以今年重新做，刷新分数。
 
