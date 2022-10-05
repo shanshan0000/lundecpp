@@ -311,6 +311,7 @@ Office visit is NOT welcome unless you make an appointment at least one day in a
 For debugging with CLion, watch this:
 - [B站视频 - CLion Debug](https://www.bilibili.com/video/BV1u44y167jP/)
 
+> 有红色波浪线，不能编译，那就不能 debug。
 ## Why do we use Gitee/GitHub in this course?
 
 I learned this approach of teaching from Prof. Fabien Pfaender, the French Dean of UTSEUS. I was so impressed. It was another level.
