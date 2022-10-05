@@ -305,7 +305,7 @@ Office visit is NOT welcome unless you make an appointment at least one day in a
 #### :rocket: How to manipulate with git during TD sessions
 - [B站视频 - 编程课程使用Git-师生交互-简单场景-以算法入门为例](https://www.bilibili.com/video/BV1gu411Q7T3/)
 - Basically, you will use ```git stash```, ```git pull```  and ```git checkout``` most of the time.
-- LO02 C++ 相比 LO01 算法入门，主要是多了一个 git checkout。
+- LO02 C++ 相比 LO01 算法入门，主要是多了一个 git checkout（简单场景）。
 
 #### :bug: :bug: :bug: :bug: Debug
 For debugging with CLion, watch this:
