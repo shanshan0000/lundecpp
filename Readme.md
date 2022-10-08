@@ -270,6 +270,8 @@ You are expected to ask questions via **[Gitee Issue](https://gitee.com/lundeche
 you could also 
 ask questions in the WeChat group.
 
+> Why Gitee Issue? Because it's simply more **professional**, and better in every sense.
+
 In Gitee Issue and the WeChat group, questions will be answered selectively. 
 
 Questions won't be answered if:
