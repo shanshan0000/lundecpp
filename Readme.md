@@ -122,7 +122,8 @@ NAN  | [ex22-q1-ans](../../tree/ex22-q1-ans)  |  [leetcode-1603](../../tree/leet
 NAN  | [ex22-q2-ans](../../tree/ex22-q2-ans)  |  |  |
 NAN  | [ex22-q3-ans](../../tree/ex22-q3-ans)  |  |  |
 NAN  | [ex22-q4-ans](../../tree/ex22-q4-ans)  |  |  |
-NAN  | [ex22-q5-ans-v1](../../tree/ex22-q5-ans-v1) [ex22-q5-ans-v2](../../tree/ex22-q5-ans-v2)  |  | |
+NAN  | [ex22-q5-ans-v1](../../tree/ex22-q5-ans-v1)   |  | |
+NAN  |  [ex22-q5-ans-v2](../../tree/ex22-q5-ans-v2)  |  | |
 NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1Su411f7iT) | [blog1](https://www.geeksforgeeks.org/copy-constructor-in-cpp/) [blog2](https://www.learncpp.com/cpp-tutorial/overloading-the-assignment-operator/) [blog3](https://stackoverflow.com/questions/4172722/what-is-the-rule-of-three)
 **Mid-term Revision**  | [LO02_poly_exercices](../../tree/master/pdf/LO02_poly_exercices.pdf)  |  |  [video](https://www.bilibili.com/video/BV1dP411J7k2/) |
 10-01 Holiday  | [ex23-ex24-solution-pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf)  |  |  |
