@@ -314,6 +314,155 @@ For debugging with CLion, watch this:
 - [B站视频 - CLion Debug](https://www.bilibili.com/video/BV1u44y167jP/)
 
 > 有红色波浪线，不能编译，那就不能 debug。
+
+## Zen of Programming Languages
+
+#### Zen of Python
+https://peps.python.org/pep-0020/
+```text
+Beautiful is better than ugly.
+
+Explicit is better than implicit.
+
+Simple is better than complex.
+
+Complex is better than complicated.
+
+Flat is better than nested.
+
+Sparse is better than dense.
+
+Readability counts.
+
+Special cases aren't special enough to break the rules.
+
+Although practicality beats purity.
+
+Errors should never pass silently.
+
+Unless explicitly silenced.
+
+In the face of ambiguity, refuse the temptation to guess.
+
+There should be one-- and preferably only one --obvious way to do it.
+
+Although that way may not be obvious at first unless you're Dutch.
+
+Now is better than never.
+
+Although never is often better than *right* now.
+
+If the implementation is hard to explain, it's a bad idea.
+
+If the implementation is easy to explain, it may be a good idea.
+
+Namespaces are one honking great idea -- let's do more of those!
+```
+
+#### Zen of C++
+https://www.reddit.com/r/cpp/comments/48obqd/what_is_the_rcpp_c_equivalent_of_the_the_zen_of/
+```text
+Not too ugly is better than really ugly.
+
+Explicit is better than implicit, but bad defaults are worse than either.
+
+A simple implementation is better than a complicated one.
+
+A complicated implementation is better than a complex interface.
+
+Contiguous is better than pointer chasing.
+
+Pointer chasing is better than double pointer chasing.
+
+Readability is important; so C++ being what it is, write lots of comments.
+
+Special cases will require breaking the rules, but try to keep the rule breaking hidden.
+
+That said, if you can't hide the rule breaking, a practical impure solution to a smaller problem is better than a pure impractical solution to the generic problem.
+
+Don't use error codes.
+
+Unless their checking is statically enforced.
+
+In the face of ambiguity, don't compile.
+
+There will be many ways to do everything; know their trade-offs and be an engineer and pick one!
+
+Although the cleanest, most maintainable way will not be obvious at first unless you read books and watch talks from a lot of really smart people.
+
+2011 is better than never.
+
+Though never can be better if you haven't thought it through.
+
+If the interface easily causes undefined behavior, it's a bad idea.
+
+If the implementation is safe, it may be a good idea.
+
+Const is a honking great idea, use it everywhere you can!
+```
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-philosophy
+```text
+Express ideas directly in code
+
+Write in ISO Standard C++
+
+Express intent
+
+Ideally, a program should be statically type safe
+
+Prefer compile-time checking to run-time checking
+
+What cannot be checked at compile time should be checkable at run time
+
+Catch run-time errors early
+
+Don't leak any resources
+
+Don't waste time or space
+
+Prefer immutable data to mutable data
+```
+https://www.experts-exchange.com/articles/10157/The-Zen-Of-C.html
+```text
+ Beauty is but skin deep.
+
+ Explicit is implicit.
+
+ Why be simple when we can use meta-templates?
+
+ Complex is better when more complicated.
+
+ Nested is fun but tail end recursion rocks.
+
+ C++ is better than Python.
+ Readability counts for nothing.
+
+ Special cases aren't special enough if they don't break the rules.
+
+ Forget practicality; you're an artist so let your creativity flow.
+
+ Errors can be ignored; that's what default exception handlers are for.
+
+ Supress all compiler warnings -- you know best!
+
+ In the face of ambiguity, resort to templates.
+
+ There should be one-- and preferably only one --obvious way to do it; but don't let that stop you inventing others.
+
+ Although that way may not be obvious, which clearly means a better way exists (probably using lots of templates).
+
+ Now is the best time to introduce unnecessary complex constructs otherwise you may never get around to it.
+
+ Never is often better than right now, unless it's that "one last 'quick' change that you know will not cause a defect.
+
+ If the implementation is hard to explain, good -- you'll have job security.
+
+ If the implementation is easy to explain start working on your CV.
+
+ Namespaces are one honking great idea -- it means we can now dump everything in the global one!
+
+```
+
 ## Why do we use Gitee/GitHub in this course?
 
 I learned this approach of teaching from Prof. Fabien Pfaender, the French Dean of UTSEUS. I was so impressed. It was another level.
