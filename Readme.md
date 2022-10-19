@@ -141,7 +141,7 @@ NAN  | [ex24-q2-q3-q4-q5-q6-ans](../../tree/ex24-q2-q3-q4-q5-q6-ans)  |  | [vide
 NAN  | [ex26-ans](../../tree/ex26-ans)  | [leetcode-1748](../../tree/leetcode-1748) |  |
 NAN  | [ex27-q1-q2-q3-ans](../../tree/ex27-q1-q2-q3-ans)  |  | [video](https://www.bilibili.com/video/bv1gR4y1n7Na)  | [blog1](https://www.softwaretestinghelp.com/graph-implementation-cpp/) [blog2](https://www.geeksforgeeks.org/difference-between-vector-and-list/) [blog3](https://www.geeksforgeeks.org/vector-in-cpp-stl/) [blog4](https://www.cplusplus.com/reference/vector/vector/) [blog5](https://www.cplusplus.com/reference/list/list/) [blog6](https://www.geeksforgeeks.org/initialize-a-vector-in-cpp-different-ways/) [blog7](https://www.geeksforgeeks.org/std-find-in-cpp/) 
 NAN  | [ex27-q4-ans](../../tree/ex27-q4-ans)  |  |  | [blog](https://stackoverflow.com/questions/654428/what-is-the-order-in-which-the-destructors-and-the-constructors-are-called-in-c)
-NAN  | [ex28-ans](../../tree/ex28-ans) (optional)   | [leetcode-1941](../../tree/leetcode-1941)  |  | [blog](https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm)
+NAN  | [ex28-ans](../../tree/ex28-ans) (optional)   | [leetcode-1941](../../tree/leetcode-1941)  | [video]() (optional) | [blog](https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm)
 [ex29-q1](../../tree/ex29-q1) | [ex29-q1-ans](../../tree/ex29-q1-ans)  | | | [blog1](https://stackoverflow.com/questions/58042421/c-multi-level-inheritance-with-virtual-functions) [blog2](https://stackoverflow.com/questions/17842594/virtual-function-inheritance)
 [ex29-q2](../../tree/ex29-q2) | [ex29-q2-ans](../../tree/ex29-q2-ans)  | | [video](https://www.bilibili.com/video/BV1zL4y1i7sr/) |
 [ex30](../../tree/ex30) | [ex30-ans](../../tree/ex30-ans)  | | |
