@@ -156,7 +156,7 @@ NAN  | [ex28-ans](../../tree/ex28-ans) (optional)   |   | [video](https://www.bi
 NAN | [ex31-ans](../../tree/ex31-ans)  | | | [blog1](https://stackoverflow.com/questions/99297/how-are-virtual-functions-and-vtable-implemented) [blog2](https://isocpp.org/wiki/faq/virtual-functions)
 NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  | [leetcode-1859](https://leetcode.com/problems/sorting-the-sentence/discuss/1453463)   | | [blog](https://en.cppreference.com/w/cpp/container/vector)
 NAN | [ex32-q2-ans](../../tree/ex32-q2-ans)  | | | [blog1](https://www.bogotobogo.com/DesignPatterns/factorymethod.php) [blog2](https://refactoring.guru/design-patterns/factory-method/cpp/example)
-NAN | [ex33-ans](../../tree/ex33-ans) (optional) | | | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
+NAN | [ex33-ans](../../tree/ex33-ans) (optional) | | [video]() (optional) | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
 NAN | [ex35-q1-ans](../../tree/ex35-q1-ans)  | | [video](https://www.bilibili.com/video/BV1rv411T7LZ)  | [blog](https://refactoring.guru/design-patterns/template-method/cpp/example)
 NAN | [ex35-q1-extended](../../tree/ex35-q1-extended)  | | | 
 NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | leetcode-1636 | | 
