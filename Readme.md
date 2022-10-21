@@ -134,18 +134,18 @@ NAN | [ex23-q9-ans](../../tree/ex23-q9-ans)  | | [video](https://www.bilibili.co
 ex23-q3-q6-q8  | [ex23-composition-aggregation](../../tree/ex23-composition-aggregation) |  [leetcode-1476](../../tree/leetcode-1476)  [leetcode-284-v1](../../tree/leetcode-284-v1)  [leetcode-284-v2](../../tree/leetcode-284-v2)      | [video](https://www.bilibili.com/video/bv1dv411g7XY)         |  [blog1](https://stackoverflow.com/questions/885937/what-is-the-difference-between-association-aggregation-and-composition) [blog2](https://www.infoworld.com/article/3029325/exploring-association-aggregation-and-composition-in-oop.html) [blog3](https://stackoverflow.com/questions/25779394/c-association-aggregation-and-composition) [blog4](https://www.youtube.com/watch?v=N7xpnr8V6aQ)
 ex23-q10-q11-q12-q13-q14  |  [ex23-q10-q11-q12-q13-q14-ans](../../tree/ex23-q10-q11-q12-q13-q14-ans) |          | [video](https://www.bilibili.com/video/BV1GP41177kd/) | [blog1](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) [blog2](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 NAN  | [ex24-static-keyword](../../tree/ex24-static-keyword) | | [video1](https://www.bilibili.com/video/BV1Jh411n7UD/) [video2](https://www.bilibili.com/video/BV1se411L7t3/) | [blog](https://www.geeksforgeeks.org/static-keyword-cpp/)
-NAN  | [ex24-singleton-v1](../../tree/ex24-singleton-v1)  |  |  |
-NAN  | [ex24-singleton-v2](../../tree/ex24-singleton-v2)  |  |  |
-NAN  | [ex24-singleton-v3](../../tree/ex24-singleton-v3)  |  |  |
+live code   | [ex24-singleton-v1](../../tree/ex24-singleton-v1)  |  |  |
+live code   | [ex24-singleton-v2](../../tree/ex24-singleton-v2)  |  |  |
+live code   | [ex24-singleton-v3](../../tree/ex24-singleton-v3)  |  |  |
 NAN  | [ex24-q1-ans-1](../../tree/ex24-q1-ans-1)  | [leetcode-1286-v1](https://leetcode.com/problems/iterator-for-combination/discuss/1509630) |  | [blog](https://sourcemaking.com/design_patterns/singleton)
 NAN  | [ex24-q1-ans-2](../../tree/ex24-q1-ans-2)  | [leetcode-1286-v2](https://leetcode.com/problems/iterator-for-combination/discuss/1521899) |  | [blog1](https://stackoverflow.com/questions/10024834/singleton-synchronization-c) [blog2](https://stackoverflow.com/questions/11165852/java-singleton-and-synchronization)
 NAN  | [ex24-q1-ans-3](../../tree/ex24-q1-ans-3)  |  |  | [blog](https://en.wikipedia.org/wiki/Design_Patterns)
 NAN  | [ex24-q2-q3-q4-q5-q6-ans](../../tree/ex24-q2-q3-q4-q5-q6-ans)  |  | [video](https://www.bilibili.com/video/bv1ih411b7Xr/) | [blog1](https://www.w3schools.com/java/tryjava.asp?filename=demo_iterator_loop)   [blog2](https://leetcode.com/problems/iterator-for-combination/discuss/1509630) [blog3](https://www.geeksforgeeks.org/friend-class-function-cpp/) [blog4](https://stackoverflow.com/questions/131241/why-use-iterators-instead-of-array-indices) [blog5](https://stackoverflow.com/questions/22739507/iterator-and-memory-usage) [blog6](https://stackoverflow.com/questions/628903/performance-advantages-to-iterators) [blog7](https://stackoverflow.com/questions/1879255/performance-of-traditional-for-loop-vs-iterator-foreach-in-java) [blog8](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp) [blog9](https://medium.com/geekculture/iterator-design-pattern-in-c-42caec84bfc)
-NAN  | [ex24-q6-iterator-v0](../../tree/ex24-q6-iterator-v0)  |  |  |
-NAN  | [ex24-q6-iterator-v1](../../tree/ex24-q6-iterator-v1)  |  |  |
-NAN  | [ex24-q6-iterator-v2](../../tree/ex24-q6-iterator-v2)  |  |  |
-NAN  | [ex24-q6-iterator-v3](../../tree/ex24-q6-iterator-v3)  |  |  |
-NAN  | [ex24-q6-iterator-v4](../../tree/ex24-q6-iterator-v4)  |  |  |
+live code  | [ex24-q6-iterator-v0](../../tree/ex24-q6-iterator-v0)  |  | [video](https://www.bilibili.com/video/BV1KV4y1572k)  |
+live code   | [ex24-q6-iterator-v1](../../tree/ex24-q6-iterator-v1)  |  |  |
+live code   | [ex24-q6-iterator-v2](../../tree/ex24-q6-iterator-v2)  |  |  |
+live code   | [ex24-q6-iterator-v3](../../tree/ex24-q6-iterator-v3)  |  |  |
+live code   | [ex24-q6-iterator-v4](../../tree/ex24-q6-iterator-v4)  |  |  |
 NAN  | [ex26-ans](../../tree/ex26-ans)  | [leetcode-1748](../../tree/leetcode-1748) (self study) | [video](https://www.bilibili.com/video/bv1gR4y1n7Na)   | [blog1](https://www.softwaretestinghelp.com/graph-implementation-cpp/) [blog2](https://www.geeksforgeeks.org/difference-between-vector-and-list/) [blog3](https://www.geeksforgeeks.org/vector-in-cpp-stl/) [blog4](https://www.cplusplus.com/reference/vector/vector/) [blog5](https://www.cplusplus.com/reference/list/list/) [blog6](https://www.geeksforgeeks.org/initialize-a-vector-in-cpp-different-ways/) [blog7](https://www.geeksforgeeks.org/std-find-in-cpp/) 
 NAN  | [ex27-q1-q2-q3-ans](../../tree/ex27-q1-q2-q3-ans)  | [leetcode-1941](../../tree/leetcode-1941) (self study) | [video](https://www.bilibili.com/video/BV1zL4y1i7sr/) | 
 NAN  | [ex27-q4-ans](../../tree/ex27-q4-ans)  |   |  | [blog](https://stackoverflow.com/questions/654428/what-is-the-order-in-which-the-destructors-and-the-constructors-are-called-in-c)
