@@ -409,6 +409,14 @@ If the implementation is safe, it may be a good idea.
 Const is a honking great idea, use it everywhere you can!
 ```
 
+## Code style
+- https://google.github.io/styleguide/cppguide.html
+- https://gist.github.com/derofim/df604f2bf65a506223464e3ffd96a78a
+- https://lefticus.gitbooks.io/cpp-best-practices/content/03-Style.html
+
+#### Reformat code in CLion
+See [this video]().
+
 ## Why do we use Gitee/GitHub in this course?
 
 I learned this approach of teaching from Prof. Fabien Pfaender, the French Dean of UTSEUS. I was so impressed. It was another level.
