@@ -409,10 +409,18 @@ If the implementation is safe, it may be a good idea.
 Const is a honking great idea, use it everywhere you can!
 ```
 
-## Code style
+## Code style [optional]
 - https://google.github.io/styleguide/cppguide.html
-- https://gist.github.com/derofim/df604f2bf65a506223464e3ffd96a78a
-- https://lefticus.gitbooks.io/cpp-best-practices/content/03-Style.html
+- https://www.reddit.com/r/cpp/comments/8oja7y/which_c_style_guide_do_you_follow/
+
+## Cmake [optional]
+- https://cmake.org/cmake/help/latest/manual/cmake.1.html 
+- https://github.com/Akagi201/learning-cmake
+- https://codingnest.com/basic-cmake/
+- https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1 - Effective CMake online book
+- https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
+- https://cliutils.gitlab.io/modern-cmake/ - An Introduction to Modern CMake
+
 
 #### Reformat code in CLion
 See [this video]().
