@@ -2,6 +2,8 @@
 
 ## First thing first: Clone this repository
 
+<details>
+
 #### Method 1:
 
 ```shell
@@ -20,14 +22,21 @@ https://gitee.com/lundechen/cpp.git
 
 Then click ```clone```.
 
+</details>
 
 ## Course videos
+
+<details>
 
 :tv: Course videos by Prof. Antoine Jouglet are on Chaoxing Platform.
 
 **You should watch the corresponding videos BEFORE the QA session of each Monday.**
 
+</details>
+
 ## Online QA session
+
+<details>
 
 Professor: Antoine Jouglet from UTC
 
@@ -38,12 +47,18 @@ Participer à la réunion Zoom
 - ID de réunion : 872 7356 2034 
 - Code secret : 973229
 
+</details>
+
 ## Textbooks, slides, exercises in pdf
 
+<details>
 [:books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
 
+</details>
 
 ## Travaux Dirigés (TD)
+
+<details>
 > 请大家上课带上耳机，上课时不时会需要使用，谢谢！
 
 #### Time: 
@@ -59,15 +74,26 @@ Room ID：958 9491 5777
 #### Which Operating System to boot from:
 Windows 10 
 
+</details>
+
 ## Teaching Assistant
 
+<details>
 Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 
+</details>
+
 ## They have been there as well ... and got an A!
+
+<details>
 Suggestions from students who got an A (or first place in B): 
 - [往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
 
+</details>
+
 ## Exercises & Solutions:
+<details>
+
 
 #### List of all videos
 - https://space.bilibili.com/472463946/channel/seriesdetail?sid=2086469
@@ -167,9 +193,13 @@ NAN | [ex37-ans](../../tree/ex37-ans)  | | [video](https://www.bilibili.com/vide
 NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | | | [blog1](https://stackoverflow.com/questions/6571381/dependent-scope-and-nested-templates)
 NAN | [ex38-q2-q3-ans](../../tree/ex38-q2-q3-ans)  | | [video](https://www.bilibili.com/video/bv1xq4y1u7Jo) | [blog1](https://stackoverflow.com/questions/35563193/) [blog2](https://stackoverflow.com/questions/11394832/) [blog3](https://stackoverflow.com/questions/5108359/how-do-i-define-a-template-function-within-a-template-class-outside-of-the-class) [blog4](https://stackoverflow.com/questions/10871100/pass-a-function-as-an-explicit-template-parameter) [blog5](https://stackoverflow.com/questions/1174169/function-passed-as-template-argument) [blog6](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1529350/)
 NAN | [ex40-ans](../../tree/ex40-ans)  | | | [blog](https://cppbetterexplained.com/c-template-metaprogramming-in-practice/)
+NAN | NAN  | | | [blog](https://en.cppreference.com/w/cpp/language/rule_of_three) [blog](https://en.cppreference.com/w/cpp/language/rule_of_three)
 
+</details>
 
 ## When your CLion project seems broken:
+
+<details>
 
 - 重新 clone （VCS->Get from Version Control）试试
 
@@ -177,9 +207,11 @@ NAN | [ex40-ans](../../tree/ex40-ans)  | | | [blog](https://cppbetterexplained.c
 
 - 或者关了 CLion, 删除项目的 .idea 文件夹，然后再次打开 Clion
 
+</details>
 
 ## Project
 
+<details>
 #### Project
 
 Dans le cadre de cet UV, vous travaillerez par groupe sur un projet C++ en rapport avec le contenu de votre cours et des TDs.
@@ -228,9 +260,25 @@ Be innovative. You can do even better.
 
 不过，公平起见，重修的同学的往年项目分数不会透漏。是否重做项目，大家自己把握。
 
+#### On academic misconduct
+Just a note to remind everyone what is OK and what is not OK in terms of talking to other students about projects.
 
+It is **DEFINITELY OK** to:
+
+- discuss the assignment in general terms (what do they mean by a copy constructor?)
+- discuss how different C++ standard library functions work (different ways to insert an element in a ```std::vector```)
+- discuss strategies for successful implementation 
+- help others debug their code and find problems
+
+It is **NOT OK** to:
+
+- bug someone else for a lot of help (particularly if they are already done!)
+- share your code directly with other people/project groups 
+
+Discovery of any inappropriate code sharing will lead to harsh penalties for all involved parties. We expect that all students will conduct themselves with honesty and integrity.
+</details>
 ## UML with Draw.io
-
+<details>
 Draw.io is very popular in the academy as well as in the industry.
 
 Download the software:
@@ -240,9 +288,9 @@ Download the software:
 Online version: 
 - https://app.diagrams.net/
 
-
+</details>
 ## Notes & Exams:
-
+<details>
 Voici comment seront calculées les notes de l'UV (sur un total de 105, au lieu de 100): 
 
 - L'examen mi-terme : 35% 
@@ -262,9 +310,11 @@ Some further clarifications on mid-term/final exam:
 1. 每张答题纸最上面写上学号、中文姓名、姓名拼音。
 1. 每张答题纸最上面写上序号，比如 1/4, 2/4, 3/4, 4/4。
 1. 法方老师反馈，考试的时候卷面分占有一定比值(10%)。请大家答题时保持清晰、整洁。可以适当使用涂改液或者修正带(在不影响扫描的前提下)。
-
+</details>
 
 ## Asking Questions
+
+<details>
 
 #### 使用 **[Gitee Issue](https://gitee.com/lundechen/cpp/issues)** 提问
 By default, you should ask questions via **[Gitee Issue](https://gitee.com/lundechen/cpp/issues)**. Here is how:
@@ -303,9 +353,12 @@ Pour des questions privées, merci d'envoyer vos questions par mail à ces adres
 #### Office visit
 Office visit is NOT welcome unless you make an appointment at least one day in advance.
 
+</details>
+
 ## Bilibili Videos
 ![](img/bili.png)
 
+<details>
 #### :hammer: Install CLion and Git
 - [Install CLion and Git](https://www.bilibili.com/video/BV1cq4y1S7Be)
 - https://gitee.com/lundechen/hello
@@ -322,9 +375,10 @@ For debugging with CLion, watch this:
 - [B站视频 - CLion Debug](https://www.bilibili.com/video/BV1u44y167jP/)
 
 > 有红色波浪线，不能编译，那就不能 debug。
+</details>
 
 ## Python v.s. C++
-
+<details>
 #### Zen of Python
 https://peps.python.org/pep-0020/
 ```text
@@ -408,12 +462,16 @@ If the implementation is safe, it may be a good idea.
 
 Const is a honking great idea, use it everywhere you can!
 ```
+</details>
 
 ## Code style [optional]
+<details>
 - https://google.github.io/styleguide/cppguide.html
 - https://www.reddit.com/r/cpp/comments/8oja7y/which_c_style_guide_do_you_follow/
+</details>
 
 ## Cmake [optional]
+<details>
 - https://cmake.org/cmake/help/latest/manual/cmake.1.html 
 - https://github.com/Akagi201/learning-cmake
 - https://codingnest.com/basic-cmake/
@@ -421,12 +479,13 @@ Const is a honking great idea, use it everywhere you can!
 - https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
 - https://cliutils.gitlab.io/modern-cmake/ - An Introduction to Modern CMake
 
-
 #### Reformat code in CLion
 See [this video]().
+</details>
 
 ## Why do we use Gitee/GitHub in this course?
 
+<details>
 I learned this approach of teaching from Prof. Fabien Pfaender, the French Dean of UTSEUS. I was so impressed. It was another level.
 
 Here in this course of LO02, we are using a very basic and simple form of teaching/learning with git/GitHub/Gitee. In the course of Introduction To Machine Learning, a more sophisticated approach will be employed.
@@ -437,6 +496,12 @@ Here in this course of LO02, we are using a very basic and simple form of teachi
 #### How do you use Issues in your class?
 - https://education.github.community/t/how-do-you-use-issues-in-your-class/
 
+</details>
+
 ## Why leetcode?
+
+<details>
 - Because it's fun.
+
+</details>
 
