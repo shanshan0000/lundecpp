@@ -316,32 +316,6 @@ Pour des questions privées, merci d'envoyer vos questions par mail à ces adres
 
 </details>
 
-## Bilibili Videos
-
-<details>
-
-![](img/bili.png)
-
-
-#### :hammer: Install CLion and Git
-
-- [Install CLion and Git](https://www.bilibili.com/video/BV1cq4y1S7Be)
-- https://gitee.com/lundechen/hello
-
-> Clion 2020.1 版本无法激活的同学，可以尝试下载 CLion 2022.2，然后激活：https://docs.qq.com/doc/p/41f1c0098815f3d0a6cbb3f9ad2b2312de4b43b3?dver=3.0.0
-
-#### :rocket: How to manipulate with git during TD sessions
-- [B站视频 - 编程课程使用Git-师生交互-简单场景-以算法入门为例](https://www.bilibili.com/video/BV1gu411Q7T3/)
-- Basically, you will use ```git stash```, ```git pull```  and ```git checkout``` most of the time.
-- LO02 C++ 相比 LO01 算法入门，主要是多了一个 git checkout（简单场景）。
-
-#### :bug: :bug: :bug: :bug: Debug
-For debugging with CLion, watch this:
-- [B站视频 - CLion Debug](https://www.bilibili.com/video/BV1u44y167jP/)
-
-> 有红色波浪线，不能编译，那就不能 debug。
-
-</details>
 
 
 
@@ -360,6 +334,32 @@ For debugging with CLion, watch this:
 
 Suggestions from students who got an A (or first place in B): 
 - [往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
+
+
+#### Bilibili Videos
+
+
+![](img/bili.png)
+
+
+##### :hammer: Install CLion and Git
+
+- [Install CLion and Git](https://www.bilibili.com/video/BV1cq4y1S7Be)
+- https://gitee.com/lundechen/hello
+
+> Clion 2020.1 版本无法激活的同学，可以尝试下载 CLion 2022.2，然后激活：https://docs.qq.com/doc/p/41f1c0098815f3d0a6cbb3f9ad2b2312de4b43b3?dver=3.0.0
+
+##### :rocket: How to manipulate with git during TD sessions
+- [B站视频 - 编程课程使用Git-师生交互-简单场景-以算法入门为例](https://www.bilibili.com/video/BV1gu411Q7T3/)
+- Basically, you will use ```git stash```, ```git pull```  and ```git checkout``` most of the time.
+- LO02 C++ 相比 LO01 算法入门，主要是多了一个 git checkout（简单场景）。
+
+##### :bug: :bug: :bug: :bug: Debug
+For debugging with CLion, watch this:
+- [B站视频 - CLion Debug](https://www.bilibili.com/video/BV1u44y167jP/)
+
+> 有红色波浪线，不能编译，那就不能 debug。
+
 
 
 #### How to clone this repository
