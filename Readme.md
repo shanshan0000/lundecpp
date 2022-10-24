@@ -1,42 +1,16 @@
 # LO02 C++ 2022
 
-## First thing first: Clone this repository
+## Lectures (Cours  Magistraux)
 
 <details>
 
-#### Method 1:
-
-```shell
-git clone https://gitee.com/lundechen/cpp.git 
-```
-
-Then open the ```cpp``` folder with CLion.
-
-
-#### Method 2:
-
-In CLion, click ```VCS``` -> ```Get From Version Control```, input the url:
-```text
-https://gitee.com/lundechen/cpp.git 
-```
-
-Then click ```clone```.
-
-</details>
-
-## Course videos
-
-<details>
+#### Course videos
 
 :tv: Course videos by Prof. Antoine Jouglet are on Chaoxing Platform.
 
 **You should watch the corresponding videos BEFORE the QA session of each Monday.**
 
-</details>
-
-## Online QA session
-
-<details>
+#### Online QA session
 
 Professor: Antoine Jouglet from UTC
 
@@ -49,13 +23,7 @@ Participer à la réunion Zoom
 
 </details>
 
-## Textbooks, slides, exercises in pdf
 
-<details>
-
-[:books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
-
-</details>
 
 ## Travaux Dirigés (TD)
 
@@ -86,14 +54,7 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 
 </details>
 
-## They have been there as well ... and got an A!
 
-<details>
-
-Suggestions from students who got an A (or first place in B): 
-- [往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
-
-</details>
 
 ## Exercises & Solutions:
 
@@ -202,17 +163,6 @@ NAN | NAN  | | | [blog](https://en.cppreference.com/w/cpp/language/rule_of_three
 
 </details>
 
-## When your CLion project seems broken:
-
-<details>
-
-- 重新 clone （VCS->Get from Version Control）试试
-
-- 关闭所有的代码编辑tab，然后再次打开代码文件。
-
-- 或者关了 CLion, 删除项目的 .idea 文件夹，然后再次打开 Clion
-
-</details>
 
 ## Project
 
@@ -285,14 +235,8 @@ It is **NOT OK** to:
 
 Discovery of any inappropriate code sharing will lead to harsh penalties for all involved parties. We expect that all students will conduct themselves with honesty and integrity.
 
-</details>
+#### UML with Draw.io
 
-
-
-## UML with Draw.io
-
-
-<details>
 Draw.io is very popular in the academy as well as in the industry.
 
 Download the software:
@@ -368,8 +312,7 @@ Pour des questions privées, merci d'envoyer vos questions par mail à ces adres
 - antoine.jouglet@hds.utc.fr (Antoine Jouglet)
 
 
-#### Office visit
-Office visit is NOT welcome unless you make an appointment at least one day in advance.
+
 
 </details>
 
@@ -400,9 +343,54 @@ For debugging with CLion, watch this:
 
 </details>
 
-## Python v.s. C++ [optional]
+
+
+## Misc
 
 <details>
+
+
+#### Textbooks, slides, exercises in pdf
+
+[:books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
+
+
+
+#### They have been there as well ... and got an A!
+
+Suggestions from students who got an A (or first place in B): 
+- [往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
+
+
+#### How to clone this repository
+
+##### Method 1:
+
+```shell
+git clone https://gitee.com/lundechen/cpp.git 
+```
+
+Then open the ```cpp``` folder with CLion.
+
+
+##### Method 2:
+
+In CLion, click ```VCS``` -> ```Get From Version Control```, input the url:
+```text
+https://gitee.com/lundechen/cpp.git 
+```
+
+Then click ```clone```.
+
+
+#### When your CLion project seems broken:
+
+
+- 重新 clone （VCS->Get from Version Control）试试
+
+- 关闭所有的代码编辑tab，然后再次打开代码文件。
+
+- 或者关了 CLion, 删除项目的 .idea 文件夹，然后再次打开 Clion
 
 #### Zen of Python
 
@@ -490,19 +478,16 @@ If the implementation is safe, it may be a good idea.
 
 Const is a honking great idea, use it everywhere you can!
 ```
-</details>
 
-## Code style [optional]
-
-<details>
+#### Code style [optional]
 
 - https://google.github.io/styleguide/cppguide.html
 - https://www.reddit.com/r/cpp/comments/8oja7y/which_c_style_guide_do_you_follow/
-</details>
 
-## Cmake [optional]
+CLion can help us reformat code.
 
-<details>
+#### CMake [optional]
+
 
 - https://cmake.org/cmake/help/latest/manual/cmake.1.html 
 
@@ -516,13 +501,13 @@ Const is a honking great idea, use it everywhere you can!
 
 - https://cliutils.gitlab.io/modern-cmake/ - An Introduction to Modern CMake
 
-#### Reformat code in CLion
-See [this video]().
-</details>
+#### Office visit
 
-## Why do we use Gitee/GitHub in this course?
+Office visit is NOT welcome unless you make an appointment at least one day in advance.
 
-<details>
+
+#### Why do we use Gitee/GitHub in this course?
+
 I learned this approach of teaching from Prof. Fabien Pfaender, the French Dean of UTSEUS. I was so impressed. It was another level.
 
 Here in this course of LO02, we are using a very basic and simple form of teaching/learning with git/GitHub/Gitee. In the course of Introduction To Machine Learning, a more sophisticated approach will be employed.
@@ -534,12 +519,13 @@ Here in this course of LO02, we are using a very basic and simple form of teachi
 #### How do you use Issues in your class?
 - https://education.github.community/t/how-do-you-use-issues-in-your-class/
 
-</details>
+#### Why leetcode?
 
-## Why leetcode?
-
-<details>
 - Because it's fun.
+
+
+
+
 
 </details>
 
