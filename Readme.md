@@ -301,7 +301,11 @@ Online version:
 - https://app.diagrams.net/
 
 </details>
+
+
 ## Notes & Exams:
+
+
 <details>
 Voici comment seront calculées les notes de l'UV (sur un total de 105, au lieu de 100): 
 
