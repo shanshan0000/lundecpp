@@ -89,13 +89,15 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 ## They have been there as well ... and got an A!
 
 <details>
+
 Suggestions from students who got an A (or first place in B): 
 - [往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
 
 </details>
 
 ## Exercises & Solutions:
-<details>
+
+<details open>
 
 
 #### List of all videos
@@ -398,7 +400,7 @@ For debugging with CLion, watch this:
 
 </details>
 
-## Python v.s. C++
+## Python v.s. C++ [optional]
 
 <details>
 
