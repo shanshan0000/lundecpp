@@ -52,6 +52,7 @@ Participer à la réunion Zoom
 ## Textbooks, slides, exercises in pdf
 
 <details>
+
 [:books: Textbooks, slides, exercises in pdf](../../tree/master/pdf)
 
 </details>
@@ -59,6 +60,7 @@ Participer à la réunion Zoom
 ## Travaux Dirigés (TD)
 
 <details>
+
 > 请大家上课带上耳机，上课时不时会需要使用，谢谢！
 
 #### Time: 
@@ -79,6 +81,7 @@ Windows 10
 ## Teaching Assistant
 
 <details>
+
 Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 
 </details>
@@ -212,6 +215,9 @@ NAN | NAN  | | | [blog](https://en.cppreference.com/w/cpp/language/rule_of_three
 ## Project
 
 <details>
+
+
+
 #### Project
 
 Dans le cadre de cet UV, vous travaillerez par groupe sur un projet C++ en rapport avec le contenu de votre cours et des TDs.
@@ -276,8 +282,14 @@ It is **NOT OK** to:
 - share your code directly with other people/project groups 
 
 Discovery of any inappropriate code sharing will lead to harsh penalties for all involved parties. We expect that all students will conduct themselves with honesty and integrity.
+
 </details>
+
+
+
 ## UML with Draw.io
+
+
 <details>
 Draw.io is very popular in the academy as well as in the industry.
 
@@ -356,10 +368,14 @@ Office visit is NOT welcome unless you make an appointment at least one day in a
 </details>
 
 ## Bilibili Videos
-![](img/bili.png)
 
 <details>
+
+![](img/bili.png)
+
+
 #### :hammer: Install CLion and Git
+
 - [Install CLion and Git](https://www.bilibili.com/video/BV1cq4y1S7Be)
 - https://gitee.com/lundechen/hello
 
@@ -375,11 +391,15 @@ For debugging with CLion, watch this:
 - [B站视频 - CLion Debug](https://www.bilibili.com/video/BV1u44y167jP/)
 
 > 有红色波浪线，不能编译，那就不能 debug。
+
 </details>
 
 ## Python v.s. C++
+
 <details>
+
 #### Zen of Python
+
 https://peps.python.org/pep-0020/
 ```text
 Beautiful is better than ugly.
@@ -422,7 +442,9 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 
 #### Zen of C++
+
 https://www.reddit.com/r/cpp/comments/48obqd/what_is_the_rcpp_c_equivalent_of_the_the_zen_of/
+
 ```text
 Not too ugly is better than really ugly.
 
@@ -465,18 +487,27 @@ Const is a honking great idea, use it everywhere you can!
 </details>
 
 ## Code style [optional]
+
 <details>
+
 - https://google.github.io/styleguide/cppguide.html
 - https://www.reddit.com/r/cpp/comments/8oja7y/which_c_style_guide_do_you_follow/
 </details>
 
 ## Cmake [optional]
+
 <details>
+
 - https://cmake.org/cmake/help/latest/manual/cmake.1.html 
+
 - https://github.com/Akagi201/learning-cmake
+
 - https://codingnest.com/basic-cmake/
+
 - https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1 - Effective CMake online book
+
 - https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
+
 - https://cliutils.gitlab.io/modern-cmake/ - An Introduction to Modern CMake
 
 #### Reformat code in CLion
@@ -491,6 +522,7 @@ I learned this approach of teaching from Prof. Fabien Pfaender, the French Dean 
 Here in this course of LO02, we are using a very basic and simple form of teaching/learning with git/GitHub/Gitee. In the course of Introduction To Machine Learning, a more sophisticated approach will be employed.
 
 #### Why you should use GitHub: Lessons for the classroom and newsroom
+
 - https://www.storybench.org/use-github-lessons-classroom-newsroom/
 
 #### How do you use Issues in your class?
