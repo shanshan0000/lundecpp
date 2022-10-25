@@ -1,4 +1,4 @@
-# LO02 C++ 2022
+# LO02 C++ OOP Design Patterns
 
 ## Lectures (Cours  Magistraux)
 
