@@ -151,18 +151,18 @@ NAN  | [ex28-ans](../../tree/ex28-ans) (optional)   |   | [video](https://www.bi
 [ex29-q2](../../tree/ex29-q2) | [ex29-q2-ans](../../tree/ex29-q2-ans)  | |  |
 [ex30](../../tree/ex30) | [ex30-ans](../../tree/ex30-ans)  | | | [blog1](https://stackoverflow.com/questions/16126578/vectors-and-polymorphism-in-c) [blog2](https://stackoverflow.com/questions/8790210/polymorphism-in-c-loss-of-type-in-vector-of-parent-class) [blog3](https://stackoverflow.com/questions/34383979/c-vector-of-base-class-objects) [blog4](https://stackoverflow.com/questions/4403726/learning-c-polymorphism-and-slicing) [blog5](https://schneide.blog/2015/07/06/object-slicing-breaking-polymorphic-objects-in-c/) [blog6](https://stackoverflow.com/questions/2575296/c-polymorphism-and-slicing)
 NAN | [ex31-ans](../../tree/ex31-ans)  | | | [blog1](https://stackoverflow.com/questions/99297/how-are-virtual-functions-and-vtable-implemented) [blog2](https://isocpp.org/wiki/faq/virtual-functions)
-NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  | [leetcode-1859](https://leetcode.com/problems/sorting-the-sentence/discuss/1453463)  (self study)  | | [blog](https://en.cppreference.com/w/cpp/container/vector)
+NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  | [leetcode-1859](https://leetcode.com/problems/sorting-the-sentence/discuss/1453463)  (self study)  | [video](https://www.bilibili.com/video/BV1rv411T7LZ) | [blog](https://en.cppreference.com/w/cpp/container/vector)
 NAN | [ex32-q2-ans](../../tree/ex32-q2-ans)  | | | [blog1](https://www.bogotobogo.com/DesignPatterns/factorymethod.php) [blog2](https://refactoring.guru/design-patterns/factory-method/cpp/example)
-NAN | [ex33-ans](../../tree/ex33-ans)  | |  | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
-NAN | [ex35-q1-ans](../../tree/ex35-q1-ans)  | | [video](https://www.bilibili.com/video/BV1rv411T7LZ)  | [blog](https://refactoring.guru/design-patterns/template-method/cpp/example)
+NAN | [ex33-ans](../../tree/ex33-ans) (optional)  | |  | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
+NAN | [ex35-q1-ans](../../tree/ex35-q1-ans)  | | [video](https://www.bilibili.com/video/BV17q4y1V7F3/)  | [blog](https://refactoring.guru/design-patterns/template-method/cpp/example)
 NAN | [ex35-q1-extended](../../tree/ex35-q1-extended)  | | | 
 NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | leetcode-1636 (self study) | | 
-NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  |  leetcode-1941 (self study)   | [video](https://www.bilibili.com/video/BV17q4y1V7F3/) | [blog](https://refactoring.guru/design-patterns/observer/cpp/example)
+NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  |  leetcode-1941 (self study)   |  | [blog](https://refactoring.guru/design-patterns/observer/cpp/example)
 NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | leetcode-1859 (self study)   | | [blog](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) 
-NAN | [ex36-ans](../../tree/ex36-ans)  | | | [blog1](https://en.cppreference.com/w/cpp/language/using_declaration) [blog2](https://stackoverflow.com/questions/19237411/const-and-non-const-operator-overloading)
-NAN | [ex37-ans](../../tree/ex37-ans)  | | [video](https://www.bilibili.com/video/bv1nP4y157dg) | [blog](https://refactoring.guru/design-patterns/strategy/cpp/example)
-NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | | | [blog1](https://stackoverflow.com/questions/6571381/dependent-scope-and-nested-templates)
-NAN | [ex38-q2-q3-ans](../../tree/ex38-q2-q3-ans)  | | [video](https://www.bilibili.com/video/bv1xq4y1u7Jo) | [blog1](https://stackoverflow.com/questions/35563193/) [blog2](https://stackoverflow.com/questions/11394832/) [blog3](https://stackoverflow.com/questions/5108359/how-do-i-define-a-template-function-within-a-template-class-outside-of-the-class) [blog4](https://stackoverflow.com/questions/10871100/pass-a-function-as-an-explicit-template-parameter) [blog5](https://stackoverflow.com/questions/1174169/function-passed-as-template-argument) [blog6](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1529350/)
+NAN | [ex36-ans](../../tree/ex36-ans)  | | [video](https://www.bilibili.com/video/bv1nP4y157dg) | [blog1](https://en.cppreference.com/w/cpp/language/using_declaration) [blog2](https://stackoverflow.com/questions/19237411/const-and-non-const-operator-overloading)
+NAN | [ex37-ans](../../tree/ex37-ans)  | |  | [blog](https://refactoring.guru/design-patterns/strategy/cpp/example)
+NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | | [video](https://www.bilibili.com/video/bv1xq4y1u7Jo)  | [blog1](https://stackoverflow.com/questions/6571381/dependent-scope-and-nested-templates)
+NAN | [ex38-q2-q3-ans](../../tree/ex38-q2-q3-ans)  | | | [blog1](https://stackoverflow.com/questions/35563193/) [blog2](https://stackoverflow.com/questions/11394832/) [blog3](https://stackoverflow.com/questions/5108359/how-do-i-define-a-template-function-within-a-template-class-outside-of-the-class) [blog4](https://stackoverflow.com/questions/10871100/pass-a-function-as-an-explicit-template-parameter) [blog5](https://stackoverflow.com/questions/1174169/function-passed-as-template-argument) [blog6](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1529350/)
 NAN | [ex40-ans](../../tree/ex40-ans)  | | | [blog](https://cppbetterexplained.com/c-template-metaprogramming-in-practice/)
 live code | live-code-nested-class  | | | [blog1](https://www.geeksforgeeks.org/nested-classes-in-c/) [blog2](https://stackoverflow.com/questions/4571355/why-would-one-use-nested-classes-in-c) [blog3](https://learn.microsoft.com/en-us/cpp/cpp/nested-class-declarations?view=msvc-170)
 
@@ -371,6 +371,13 @@ For debugging with CLion, watch this:
 > 有红色波浪线，不能编译，那就不能 debug。
 
 
+#### Why watching videos before coming to classroom? Why Flipped Classroom?
+
+- [Stanford CS229 Machine Learning course](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- https://www.researchgate.net/figure/Students-perceptions-toward-watching-videos-prior-to-class_tbl2_292155097
+- https://en.wikipedia.org/wiki/Flipped_classroom
+- https://bokcenter.harvard.edu/flipped-classrooms
+- https://www.sciencedirect.com/science/article/abs/pii/S0360131521002761 
 
 #### How to clone this repository
 
