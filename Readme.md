@@ -151,14 +151,14 @@ NAN  | [ex28-ans](../../tree/ex28-ans) (optional)   |   | [video](https://www.bi
 [ex29-q2](../../tree/ex29-q2) | [ex29-q2-ans](../../tree/ex29-q2-ans)  | |  |
 [ex30](../../tree/ex30) | [ex30-ans](../../tree/ex30-ans)  | | | [blog1](https://stackoverflow.com/questions/16126578/vectors-and-polymorphism-in-c) [blog2](https://stackoverflow.com/questions/8790210/polymorphism-in-c-loss-of-type-in-vector-of-parent-class) [blog3](https://stackoverflow.com/questions/34383979/c-vector-of-base-class-objects) [blog4](https://stackoverflow.com/questions/4403726/learning-c-polymorphism-and-slicing) [blog5](https://schneide.blog/2015/07/06/object-slicing-breaking-polymorphic-objects-in-c/) [blog6](https://stackoverflow.com/questions/2575296/c-polymorphism-and-slicing)
 NAN | [ex31-ans](../../tree/ex31-ans)  | | | [blog1](https://stackoverflow.com/questions/99297/how-are-virtual-functions-and-vtable-implemented) [blog2](https://isocpp.org/wiki/faq/virtual-functions)
-NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  | [leetcode-1859](https://leetcode.com/problems/sorting-the-sentence/discuss/1453463)   | | [blog](https://en.cppreference.com/w/cpp/container/vector)
+NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  | [leetcode-1859](https://leetcode.com/problems/sorting-the-sentence/discuss/1453463)  (self study)  | | [blog](https://en.cppreference.com/w/cpp/container/vector)
 NAN | [ex32-q2-ans](../../tree/ex32-q2-ans)  | | | [blog1](https://www.bogotobogo.com/DesignPatterns/factorymethod.php) [blog2](https://refactoring.guru/design-patterns/factory-method/cpp/example)
 NAN | [ex33-ans](../../tree/ex33-ans)  | |  | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
 NAN | [ex35-q1-ans](../../tree/ex35-q1-ans)  | | [video](https://www.bilibili.com/video/BV1rv411T7LZ)  | [blog](https://refactoring.guru/design-patterns/template-method/cpp/example)
 NAN | [ex35-q1-extended](../../tree/ex35-q1-extended)  | | | 
-NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | leetcode-1636 | | 
-NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  |  leetcode-1941   | [video](https://www.bilibili.com/video/BV17q4y1V7F3/) | [blog](https://refactoring.guru/design-patterns/observer/cpp/example)
-NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | leetcode-1859   | | [blog](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) 
+NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | leetcode-1636 (self study) | | 
+NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  |  leetcode-1941 (self study)   | [video](https://www.bilibili.com/video/BV17q4y1V7F3/) | [blog](https://refactoring.guru/design-patterns/observer/cpp/example)
+NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | leetcode-1859 (self study)   | | [blog](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) 
 NAN | [ex36-ans](../../tree/ex36-ans)  | | | [blog1](https://en.cppreference.com/w/cpp/language/using_declaration) [blog2](https://stackoverflow.com/questions/19237411/const-and-non-const-operator-overloading)
 NAN | [ex37-ans](../../tree/ex37-ans)  | | [video](https://www.bilibili.com/video/bv1nP4y157dg) | [blog](https://refactoring.guru/design-patterns/strategy/cpp/example)
 NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | | | [blog1](https://stackoverflow.com/questions/6571381/dependent-scope-and-nested-templates)
