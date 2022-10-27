@@ -214,6 +214,8 @@ Be innovative. You can do even better.
 #### 往届学生优秀 project 作品 (rapport pdf)
 - [往届学生优秀 project 作品 (rapport pdf)](../../tree/master/往届学生优秀作品)
 
+> By default, you agree to share your project report on this platform. If you disagree, tell me in private chat. 
+
 #### If you want some suggestions for your project ...
 - Whenever possible, use ```std::vector``` (or other STL containers) instead of primitive arrays.
 - Pay attention to code readability. Profs read every code file when grading.
@@ -342,6 +344,7 @@ Pour des questions privées, merci d'envoyer vos questions par mail à ces adres
 Suggestions from students who got an A (or first place in B): 
 - [往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
 
+> If you got an A and want to share your experience, you can write it down and send it to me via private chat.
 
 #### Bilibili Videos
 
