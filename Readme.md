@@ -78,7 +78,7 @@ Exercise | Solution  | Leetcode  | Video  | Reading Materials
 [ex4](../../tree/ex4) | [ex4-ans](../../tree/ex4-ans)  | | [video](https://www.bilibili.com/video/BV1GP4y1Z7s1/) | [blog1](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170) [blog2](https://www.learncpp.com/cpp-tutorial/header-guards/)
 [ex5](../../tree/ex5) | [ex5-ans](../../tree/ex5-ans)  | | |
 [ex5](../../tree/ex5) | [ex5-extended](../../tree/ex5-extended) | | | [blog](https://www.quora.com/Is-cout-an-object-or-a-function-Why)
-[ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | | | [blog1](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/) [blog2](https://stackoverflow.com/questions/23345554/what-distinguishes-the-declaration-the-definition-and-the-initialization-of-a-v)
+[ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) | [leetcode-2235](https://leetcode.com/problems/add-two-integers/) | | [blog1](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/) [blog2](https://stackoverflow.com/questions/23345554/what-distinguishes-the-declaration-the-definition-and-the-initialization-of-a-v)
 [ex7](../../tree/ex7)                   | [ex7-ans](../../tree/ex7-ans) | | [video](https://www.bilibili.com/video/BV1uV4y1g7F4/)  | [blog](https://www.w3schools.com/CPP/cpp_variables_constants.asp)
 [ex8](../../tree/ex8)                   | [ex8-ans-1](../../tree/ex8-ans-1) | | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-170)
 [ex8](../../tree/ex8)                   | [ex8-ans-2](../../tree/ex8-ans-2) | | |
@@ -86,7 +86,7 @@ Exercise | Solution  | Leetcode  | Video  | Reading Materials
 [ex9](../../tree/ex9) | [ex9-ans-2](../../tree/ex9-ans-2)  | | | [blog1](https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline) [blog2](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
 [ex9](../../tree/ex9) | [ex9-ans-extended](../../tree/ex9-ans-extended)  | | |
 [ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) | [blog1](https://www.learncpp.com/cpp-tutorial/pointers-and-const/) [blog2](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
-[ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | | | [blog1](https://stackoverflow.com/questions/61915474/difference-between-const-reference-and-reference) [blog2](https://www.geeksforgeeks.org/const_cast-in-c-type-casting-operators/)
+[ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | [leetcode-709](https://leetcode.com/problems/to-lower-case/) | | [blog1](https://stackoverflow.com/questions/61915474/difference-between-const-reference-and-reference) [blog2](https://www.geeksforgeeks.org/const_cast-in-c-type-casting-operators/)
 [ex12](../../tree/ex12) | [ex12-ans](../../tree/ex12-ans)  | [leetcode-344](../../tree/leetcode-344) |  | [blog1](https://www.tutorialspoint.com/differences-between-pass-by-value-and-pass-by-reference-in-cplusplus) [blog2](https://www.geeksforgeeks.org/how-to-print-size-of-an-array-in-a-function-in-c/) [blog3](https://stackoverflow.com/questions/2276329/why-can-one-specify-the-size-of-an-array-in-a-function-parameter) [blog4](https://stackoverflow.com/questions/3062005/size-of-array-passed-to-c-function) [blog5](https://www.quora.com/How-does-C-check-an-arrays-size-when-passing-by-reference)
 [ex13](../../tree/ex13) | [ex13-ans](../../tree/ex13-ans)  | | [video](https://www.bilibili.com/video/BV1cf4y1E77w/) | [blog](https://www.codingninjas.com/blog/2020/07/27/understanding-pointers-references-in-c/) 
 [ex14](../../tree/ex14) | [ex14-ans](../../tree/ex14-ans)  | | | [blog1](https://www.geeksforgeeks.org/default-arguments-c/) [blog2](https://en.cppreference.com/w/cpp/language/default_arguments)
@@ -96,7 +96,7 @@ Exercise | Solution  | Leetcode  | Video  | Reading Materials
 [ex17](../../tree/ex17) | [ex17-ans](../../tree/ex17-ans)  |   |  |
 [ex18](../../tree/ex18) | [ex18-ans](../../tree/ex18-ans)  | | |
 [ex19](../../tree/ex19) | [ex19-ans](../../tree/ex19-ans)  | | |
-[ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  | | [video](https://www.bilibili.com/video/bv1q64y187Ah) | [blog](https://www.w3schools.com/cpp/cpp_oop.asp)
+[ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  | [leetcode-535](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [video](https://www.bilibili.com/video/bv1q64y187Ah) | [blog](https://www.w3schools.com/cpp/cpp_oop.asp)
 [ex20-q2](../../tree/ex20-q2)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | | | [blog1](https://stackoverflow.com/questions/9370493/inline-function-members-inside-a-class) [blog2](https://stackoverflow.com/questions/5306532/accessing-attributes-in-c-through-getters-setters) [blog3](https://www.positioniseverything.net/cpp-getters-and-setters/)
 NAN  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1)  | | |
 NAN  | [ex20-q3-ans-2](../../tree/ex20-q3-ans-2)  |  | |
