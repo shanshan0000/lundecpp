@@ -100,7 +100,7 @@ NAN  | [ex20-q3-ans-3](../../tree/ex20-q3-ans-3)  | | |
 NAN  | [ex20-q3-ans-4](../../tree/ex20-q3-ans-4)  | | |
 NAN  | [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | | |
 [ex20-q4](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
-NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1)  | | |
+NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1)  | | | [blog](https://www.haroldserrano.com/blog/c-tip-14-dont-return-a-reference-when-you-must-return-an-object)
 NAN | [ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | |   |
 [ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  |  | [video](https://www.bilibili.com/video/BV1UD4y1i7Cu/)| [blog1](https://www.javatpoint.com/cpp-destructor) [blog2](https://www.geeksforgeeks.org/this-pointer-in-c/) [blog3](https://www.quora.com/When-destructor-invoked-what-is-the-difference-between-the-pointer-to-an-object-and-the-object) [blog4](https://stackoverflow.com/questions/9965977/pointer-to-object-and-its-destructor)
 NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | | | [blog1](https://drawio-app.com/uml-class-diagrams-in-draw-io/) [blog2](https://www.diagrams.net/blog/uml-class-diagrams) [blog3](https://www.javatpoint.com/uml-class-diagram) [blog4](https://www.uml-diagrams.org/class-reference.html)
@@ -110,7 +110,7 @@ NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | | | [blog1](https://drawio-app.c
 [ex21](../../tree/ex21-q1)  | [ex21-q2-ans](../../tree/ex21-q2-ans)  | | | [blog](https://stackoverflow.com/questions/36557340/implicit-conversion-from-int-to-a-class-type)
 [ex21](../../tree/ex21-q1)  | [ex21-q3-ans](../../tree/ex21-q3-ans)  | | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/increment-and-decrement-operator-overloading-cpp?view=msvc-160)
 [ex21](../../tree/ex21-q1)  | [ex21-q4-ans](../../tree/ex21-q4-ans)  |  |  | [blog1](https://www.geeksforgeeks.org/overloading-stream-insertion-operators-c/) [blog2](https://learn.microsoft.com/en-us/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=msvc-170)
-NAN  | [ex22-q1-ans](../../tree/ex22-q1-ans)  |  [leetcode-1603](../../tree/leetcode-1603) |  [video](https://www.bilibili.com/video/bv1Mg411F7Zs)  | [blog1](https://www.runoob.com/cplusplus/cpp-exceptions-handling.html) [blog2](https://www.w3schools.com/cpp/cpp_exceptions.asp)
+NAN  | [ex22-q1-ans](../../tree/ex22-q1-ans)  |  [leetcode-1603](../../tree/leetcode-1603) |  [video](https://www.bilibili.com/video/bv1Mg411F7Zs)  | [blog1](https://www.runoob.com/cplusplus/cpp-exceptions-handling.html) [blog2](https://www.w3schools.com/cpp/cpp_exceptions.asp) [blog3](https://rollbar.com/blog/error-exceptions-in-c/#)
 NAN  | [ex22-q2-ans](../../tree/ex22-q2-ans)  |  |  |
 NAN  | [ex22-q3-ans](../../tree/ex22-q3-ans)  |  |  |
 NAN  | [ex22-q4-ans](../../tree/ex22-q4-ans)  |  |  |
@@ -488,20 +488,12 @@ Const is a honking great idea, use it everywhere you can!
 
 CLion can help us reformat code.
 
-#### CMake [optional]
+#### Online C/C++ Compiler
 
+If you are stuck with your CLion configuration during TP sessions, you could write and run your code online:
 
-- https://cmake.org/cmake/help/latest/manual/cmake.1.html 
-
-- https://github.com/Akagi201/learning-cmake
-
-- https://codingnest.com/basic-cmake/
-
-- https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1 - Effective CMake online book
-
-- https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
-
-- https://cliutils.gitlab.io/modern-cmake/ - An Introduction to Modern CMake
+- https://www.onlinegdb.com/online_c_compiler
+- https://www.online-cpp.com/online_c++_editor
 
 #### Office visit
 
