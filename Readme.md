@@ -1,5 +1,9 @@
 # LO02 C++ OOP Design Patterns
 
+## Online Mid-term Exam
+
+Url will appear here at 18h00 29/10/2022.
+
 ## Lectures (Cours  Magistraux)
 
 <details>
