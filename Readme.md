@@ -151,6 +151,7 @@ NAN  | [ex28-ans](../../tree/ex28-ans) (optional)   |   | [video](https://www.bi
 [ex29-q2](../../tree/ex29-q2) | [ex29-q2-ans](../../tree/ex29-q2-ans)  | |  |
 [ex30](../../tree/ex30) | [ex30-ans](../../tree/ex30-ans)  | | | [blog1](https://stackoverflow.com/questions/16126578/vectors-and-polymorphism-in-c) [blog2](https://stackoverflow.com/questions/8790210/polymorphism-in-c-loss-of-type-in-vector-of-parent-class) [blog3](https://stackoverflow.com/questions/34383979/c-vector-of-base-class-objects) [blog4](https://stackoverflow.com/questions/4403726/learning-c-polymorphism-and-slicing) [blog5](https://schneide.blog/2015/07/06/object-slicing-breaking-polymorphic-objects-in-c/) [blog6](https://stackoverflow.com/questions/2575296/c-polymorphism-and-slicing)
 NAN | [ex31-ans](../../tree/ex31-ans)  | | | [blog1](https://stackoverflow.com/questions/99297/how-are-virtual-functions-and-vtable-implemented) [blog2](https://isocpp.org/wiki/faq/virtual-functions)
+live code  | live-code-nested-class  |  | [blog1](https://www.geeksforgeeks.org/nested-classes-in-c/) [blog2](https://stackoverflow.com/questions/4571355/why-would-one-use-nested-classes-in-c) [blog3](https://learn.microsoft.com/en-us/cpp/cpp/nested-class-declarations?view=msvc-170)
 NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  | [leetcode-1859](https://leetcode.com/problems/sorting-the-sentence/discuss/1453463)  (self study)  | [video](https://www.bilibili.com/video/BV1rv411T7LZ) | [blog](https://en.cppreference.com/w/cpp/container/vector)
 NAN | [ex32-q2-ans](../../tree/ex32-q2-ans)  | | | [blog1](https://www.bogotobogo.com/DesignPatterns/factorymethod.php) [blog2](https://refactoring.guru/design-patterns/factory-method/cpp/example)
 NAN | [ex33-ans](../../tree/ex33-ans) (optional)  | |  | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
@@ -163,8 +164,8 @@ NAN | [ex36-ans](../../tree/ex36-ans)  | | [video](https://www.bilibili.com/vide
 NAN | [ex37-ans](../../tree/ex37-ans)  | |  | [blog](https://refactoring.guru/design-patterns/strategy/cpp/example)
 NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | | [video](https://www.bilibili.com/video/bv1xq4y1u7Jo)  | [blog1](https://stackoverflow.com/questions/6571381/dependent-scope-and-nested-templates)
 NAN | [ex38-q2-q3-ans](../../tree/ex38-q2-q3-ans)  | | | [blog1](https://stackoverflow.com/questions/35563193/) [blog2](https://stackoverflow.com/questions/11394832/) [blog3](https://stackoverflow.com/questions/5108359/how-do-i-define-a-template-function-within-a-template-class-outside-of-the-class) [blog4](https://stackoverflow.com/questions/10871100/pass-a-function-as-an-explicit-template-parameter) [blog5](https://stackoverflow.com/questions/1174169/function-passed-as-template-argument) [blog6](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1529350/)
-NAN | [ex40-ans](../../tree/ex40-ans)  | | | [blog](https://cppbetterexplained.com/c-template-metaprogramming-in-practice/)
-live code | live-code-nested-class  | | | [blog1](https://www.geeksforgeeks.org/nested-classes-in-c/) [blog2](https://stackoverflow.com/questions/4571355/why-would-one-use-nested-classes-in-c) [blog3](https://learn.microsoft.com/en-us/cpp/cpp/nested-class-declarations?view=msvc-170)
+NAN | [ex40-ans](../../tree/ex40-ans) (optional)  | | | [blog](https://cppbetterexplained.com/c-template-metaprogramming-in-practice/)
+
 
 
 
