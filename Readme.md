@@ -339,12 +339,12 @@ Pour des questions privées, merci d'envoyer vos questions par mail à ces adres
 
 
 
-#### They have been there as well ... and got an A!
+#### They have been there as well ... and got an A/B!
 
-Suggestions from students who got an A (or first place in B): 
+Suggestions from students who got an A or B: 
 - [往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
 
-> If you got an A and want to share your experience, you can write it down and send it to me via private chat.
+> If you got an A or B and want to share your experience, you can write it down and send it to me via private chat.
 
 #### Bilibili Videos
 
