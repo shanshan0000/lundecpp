@@ -8,6 +8,9 @@ Url will appear here at 18h00 29/10/2022.
 
 试卷答题里面（即拍的照片里面），一定要有自己的学号姓名。
 
+在线考试的同学，腾讯会议为：
+958 9491 5777
+
 ## Lectures (Cours  Magistraux)
 
 <details>
