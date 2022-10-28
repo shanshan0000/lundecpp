@@ -378,7 +378,9 @@ For debugging with CLion, watch this:
 > 有红色波浪线，不能编译，那就不能 debug。
 
 
-#### Why watching videos before coming to classroom? Why Flipped Classroom?
+#### Flipped Classroom
+
+Watching videos before coming to classroom.
 
 - [Stanford CS229 Machine Learning course](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - https://www.researchgate.net/figure/Students-perceptions-toward-watching-videos-prior-to-class_tbl2_292155097
