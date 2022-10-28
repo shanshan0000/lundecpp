@@ -154,7 +154,7 @@ NAN | [ex31-ans](../../tree/ex31-ans)  | leetcode-1636 [leetcode-1748](../../tre
 NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  |  | [video](https://www.bilibili.com/video/BV1rv411T7LZ) | [blog](https://en.cppreference.com/w/cpp/container/vector)
 live code  | live-code-nested-class  | | | [blog1](https://www.geeksforgeeks.org/nested-classes-in-c/) [blog2](https://stackoverflow.com/questions/4571355/why-would-one-use-nested-classes-in-c) [blog3](https://learn.microsoft.com/en-us/cpp/cpp/nested-class-declarations?view=msvc-170)
 NAN | [ex32-q2-ans](../../tree/ex32-q2-ans)  | | | [blog1](https://www.bogotobogo.com/DesignPatterns/factorymethod.php) [blog2](https://refactoring.guru/design-patterns/factory-method/cpp/example)
-NAN | [ex33-ans](../../tree/ex33-ans) (optional)  | | [vide]() (optional) | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
+NAN | [ex33-ans](../../tree/ex33-ans) (optional)  | | [video]() (optional) | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
 NAN | [ex35-q1-ans](../../tree/ex35-q1-ans)  | | [video](https://www.bilibili.com/video/BV17q4y1V7F3/)  | [blog](https://refactoring.guru/design-patterns/template-method/cpp/example)
 NAN | [ex35-q1-extended](../../tree/ex35-q1-extended)  | | | 
 NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | | | 
