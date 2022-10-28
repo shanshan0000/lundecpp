@@ -4,6 +4,10 @@
 
 Url will appear here at 18h00 29/10/2022.
 
+在线考试的同学注意：
+
+试卷答题里面（即拍的照片里面），一定要有自己的学号姓名。
+
 ## Lectures (Cours  Magistraux)
 
 <details>
