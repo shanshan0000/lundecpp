@@ -82,7 +82,7 @@ Exercise | Solution  | Leetcode  | Video  | Reading Materials
 [ex7](../../tree/ex7)                   | [ex7-ans](../../tree/ex7-ans) | | [video](https://www.bilibili.com/video/BV1uV4y1g7F4/)  | [blog](https://www.w3schools.com/CPP/cpp_variables_constants.asp)
 [ex8](../../tree/ex8)                   | [ex8-ans-1](../../tree/ex8-ans-1) | | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-170)
 [ex8](../../tree/ex8)                   | [ex8-ans-2](../../tree/ex8-ans-2) | | |
-[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | | | [blog1](https://www.ascii-code.com/) [blog2](https://www.programiz.com/cpp-programming/function-overloading)  [blog3](https://www.quora.com/How-did-one-come-up-with-42-being-the-answer-to-the-universe-or-is-it-a-hoax)
+[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1)   | [leetcode-509](https://leetcode.com/problems/fibonacci-number/) | | [blog1](https://www.ascii-code.com/) [blog2](https://www.programiz.com/cpp-programming/function-overloading)  [blog3](https://www.quora.com/How-did-one-come-up-with-42-being-the-answer-to-the-universe-or-is-it-a-hoax)
 [ex9](../../tree/ex9) | [ex9-ans-2](../../tree/ex9-ans-2)  | | | [blog1](https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline) [blog2](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
 [ex9](../../tree/ex9) | [ex9-ans-extended](../../tree/ex9-ans-extended)  | | |
 [ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) | [blog1](https://www.learncpp.com/cpp-tutorial/pointers-and-const/) [blog2](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
@@ -93,7 +93,7 @@ Exercise | Solution  | Leetcode  | Video  | Reading Materials
 [ex15](../../tree/ex15) | [ex15-ans](../../tree/ex15-ans)  |  |  | [blog1](https://www.programiz.com/cpp-programming/memory-management) [blog2](https://stackoverflow.com/questions/860447/what-is-the-array-form-of-delete)
 [ex16](../../tree/ex16) | [ex16-ans](../../tree/ex16-ans)  | | [video](https://www.bilibili.com/video/BV1234y1S72T) | [blog](https://stackoverflow.com/questions/30263303/stdarray-vs-array-performance)
 [ex16](../../tree/ex16) | [ex16-ans-extended](../../tree/ex16-ans-extended)  | | |
-[ex17](../../tree/ex17) | [ex17-ans](../../tree/ex17-ans)  |   |  |
+[ex17](../../tree/ex17) | [ex17-ans](../../tree/ex17-ans)  | [leetcode-412](https://leetcode.com/problems/fizz-buzz/)  |  |
 [ex18](../../tree/ex18) | [ex18-ans](../../tree/ex18-ans)  | | |
 [ex19](../../tree/ex19) | [ex19-ans](../../tree/ex19-ans)  | | |
 [ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1q64y187Ah) | [blog](https://www.w3schools.com/cpp/cpp_oop.asp)
@@ -150,7 +150,7 @@ NAN  | [ex28-ans](../../tree/ex28-ans) (optional)   |   | [video](https://www.bi
 [ex29-q1](../../tree/ex29-q1) | [ex29-q1-ans](../../tree/ex29-q1-ans)  | | | [blog1](https://stackoverflow.com/questions/58042421/c-multi-level-inheritance-with-virtual-functions) [blog2](https://stackoverflow.com/questions/17842594/virtual-function-inheritance) [blog3](https://www.programiz.com/cpp-programming/function-overriding)  [blog4](https://www.programiz.com/cpp-programming/virtual-functions)
 [ex29-q2](../../tree/ex29-q2) | [ex29-q2-ans](../../tree/ex29-q2-ans)  | |  |
 [ex30](../../tree/ex30) | [ex30-ans](../../tree/ex30-ans)  | | | [blog1](https://stackoverflow.com/questions/16126578/vectors-and-polymorphism-in-c) [blog2](https://stackoverflow.com/questions/8790210/polymorphism-in-c-loss-of-type-in-vector-of-parent-class) [blog3](https://stackoverflow.com/questions/34383979/c-vector-of-base-class-objects) [blog4](https://stackoverflow.com/questions/4403726/learning-c-polymorphism-and-slicing) [blog5](https://schneide.blog/2015/07/06/object-slicing-breaking-polymorphic-objects-in-c/) [blog6](https://stackoverflow.com/questions/2575296/c-polymorphism-and-slicing)
-NAN | [ex31-ans](../../tree/ex31-ans)  | leetcode-1636 [leetcode-1748](../../tree/leetcode-1748)  [leetcode-535](https://leetcode.com/problems/encode-and-decode-tinyurl/) [leetcode-1941](../../tree/leetcode-1941) | | [blog1](https://stackoverflow.com/questions/99297/how-are-virtual-functions-and-vtable-implemented) [blog2](https://isocpp.org/wiki/faq/virtual-functions)
+NAN | [ex31-ans](../../tree/ex31-ans)  | [leetcode-1748](../../tree/leetcode-1748)  [leetcode-535](https://leetcode.com/problems/encode-and-decode-tinyurl/) [leetcode-1941](../../tree/leetcode-1941) [leetcode-136](https://leetcode.com/problems/single-number/) | | [blog1](https://stackoverflow.com/questions/99297/how-are-virtual-functions-and-vtable-implemented) [blog2](https://isocpp.org/wiki/faq/virtual-functions)
 NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  |  | [video](https://www.bilibili.com/video/BV1rv411T7LZ) | [blog](https://en.cppreference.com/w/cpp/container/vector)
 live code  | live-code-nested-class  | | | [blog1](https://www.geeksforgeeks.org/nested-classes-in-c/) [blog2](https://stackoverflow.com/questions/4571355/why-would-one-use-nested-classes-in-c) [blog3](https://learn.microsoft.com/en-us/cpp/cpp/nested-class-declarations?view=msvc-170)
 NAN | [ex32-q2-ans](../../tree/ex32-q2-ans)  | | | [blog1](https://www.bogotobogo.com/DesignPatterns/factorymethod.php) [blog2](https://refactoring.guru/design-patterns/factory-method/cpp/example)
@@ -159,10 +159,10 @@ NAN | [ex35-q1-ans](../../tree/ex35-q1-ans)  | | [video](https://www.bilibili.co
 NAN | [ex35-q1-extended](../../tree/ex35-q1-extended)  | | | 
 NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | | | 
 NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  |     |  | [blog](https://refactoring.guru/design-patterns/observer/cpp/example)
-NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | leetcode-1859 (self study)   | | [blog](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) 
+NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | leetcode-1636   | | [blog](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) 
 NAN | [ex36-ans](../../tree/ex36-ans)  | | [video](https://www.bilibili.com/video/bv1nP4y157dg) | [blog1](https://en.cppreference.com/w/cpp/language/using_declaration) [blog2](https://stackoverflow.com/questions/19237411/const-and-non-const-operator-overloading)
 NAN | [ex37-ans](../../tree/ex37-ans)  | |  | [blog](https://refactoring.guru/design-patterns/strategy/cpp/example)
-NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | | [video](https://www.bilibili.com/video/bv1xq4y1u7Jo)  | [blog1](https://stackoverflow.com/questions/6571381/dependent-scope-and-nested-templates)
+NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | [leetcode-20](https://leetcode.com/problems/valid-parentheses/) | [video](https://www.bilibili.com/video/bv1xq4y1u7Jo)  | [blog1](https://stackoverflow.com/questions/6571381/dependent-scope-and-nested-templates)
 NAN | [ex38-q2-q3-ans](../../tree/ex38-q2-q3-ans)  | | | [blog1](https://stackoverflow.com/questions/35563193/) [blog2](https://stackoverflow.com/questions/11394832/) [blog3](https://stackoverflow.com/questions/5108359/how-do-i-define-a-template-function-within-a-template-class-outside-of-the-class) [blog4](https://stackoverflow.com/questions/10871100/pass-a-function-as-an-explicit-template-parameter) [blog5](https://stackoverflow.com/questions/1174169/function-passed-as-template-argument) [blog6](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1529350/)
 NAN | [ex40-ans](../../tree/ex40-ans) (optional)  | | | [blog](https://cppbetterexplained.com/c-template-metaprogramming-in-practice/)
 
