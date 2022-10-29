@@ -2,7 +2,10 @@
 
 ## Online Mid-term Exam
 
-Url will appear here at 18h00 29/10/2022.
+Url for online exam (either one is OK):
+
+- http://116.205.139.7:5978/
+- http://43.142.12.204:5978/
 
 在线考试的同学注意：
 
