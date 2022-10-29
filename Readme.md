@@ -1,17 +1,6 @@
 # LO02 C++ OOP Design Patterns
 
-## Online Mid-term Exam
 
-Url for online exam (either one is OK):
-
-- http://116.205.139.7:5978/
-- http://43.142.12.204:5978/
-
-在线考试的同学注意：
-
-试卷答题里面（即拍的照片里面），一定要有自己的学号姓名。
-
-腾讯会议： 958 9491 5777
 
 ## Lectures (Cours  Magistraux)
 
@@ -549,7 +538,15 @@ Here in this course of LO02, we are using a very basic and simple form of teachi
 - Because it's fun.
 
 
+#### Online Final Exam
 
+Url for online exam will appear here.
+
+在线考试的同学注意：
+
+试卷答题里面（即拍的照片里面），一定要有自己的学号姓名。
+
+腾讯会议： 958 9491 5777
 
 
 </details>
