@@ -520,6 +520,21 @@ If you are stuck with your CLion configuration during TP sessions, you could wri
 Office visit is NOT welcome unless you make an appointment at least one day in advance.
 
 
+#### How to push your code to GitHub
+
+##### 1. Create a repo on GitHub
+
+You might want to add your ```id_rsa.pub``` to GitHub so that 
+you won't need to input your GitHub user name and password in the terminal, like this:
+
+- https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html
+- [sshkeys.html](html/blog-SSH%20Keys%20for%20GitHub.html)
+
+
+##### 2. Add the repo as a remote 
+##### 3. push the branch to GitHub repo
+
+
 #### Why do we use Gitee/GitHub in this course?
 
 I learned this approach of teaching from Prof. Fabien Pfaender, the French Dean of UTSEUS. I was so impressed. It was another level.
