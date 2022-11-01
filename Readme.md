@@ -134,15 +134,15 @@ live code   | [ex24-singleton-v3](../../tree/ex24-singleton-v3)  |  |  |
 NAN  | [ex24-q1-ans-1](../../tree/ex24-q1-ans-1)  | [leetcode-1286-v1](https://leetcode.com/problems/iterator-for-combination/discuss/1509630) |  | [blog](https://sourcemaking.com/design_patterns/singleton)
 NAN  | [ex24-q1-ans-2](../../tree/ex24-q1-ans-2)  | [leetcode-1286-v2](https://leetcode.com/problems/iterator-for-combination/discuss/1521899) |  | [blog1](https://stackoverflow.com/questions/10024834/singleton-synchronization-c) [blog2](https://stackoverflow.com/questions/11165852/java-singleton-and-synchronization)
 NAN  | [ex24-q1-ans-3](../../tree/ex24-q1-ans-3)  |  |  | [blog](https://en.wikipedia.org/wiki/Design_Patterns)
-NAN  | [ex24-q2-q3-q4-q5-q6-ans](../../tree/ex24-q2-q3-q4-q5-q6-ans)  |  | [video](https://www.bilibili.com/video/bv1ih411b7Xr/) | [blog1](https://www.w3schools.com/java/tryjava.asp?filename=demo_iterator_loop)   [blog2](https://leetcode.com/problems/iterator-for-combination/discuss/1509630) [blog3](https://www.geeksforgeeks.org/friend-class-function-cpp/) [blog4](https://stackoverflow.com/questions/131241/why-use-iterators-instead-of-array-indices) [blog5](https://stackoverflow.com/questions/22739507/iterator-and-memory-usage) [blog6](https://stackoverflow.com/questions/628903/performance-advantages-to-iterators) [blog7](https://stackoverflow.com/questions/1879255/performance-of-traditional-for-loop-vs-iterator-foreach-in-java) [blog8](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp) [blog9](https://medium.com/geekculture/iterator-design-pattern-in-c-42caec84bfc)
-live code  | [ex24-q6-iterator-v0](../../tree/ex24-q6-iterator-v0)  |  | [video](https://www.bilibili.com/video/BV1KV4y1572k)  |
+NAN  | [ex24-q2-q3-q4-q5-q6-ans](../../tree/ex24-q2-q3-q4-q5-q6-ans)  |  | [video1](https://www.bilibili.com/video/bv1ih411b7Xr/) [video2](https://www.bilibili.com/video/BV1KV4y1572k)  | [blog1](https://www.w3schools.com/java/tryjava.asp?filename=demo_iterator_loop)   [blog2](https://leetcode.com/problems/iterator-for-combination/discuss/1509630) [blog3](https://www.geeksforgeeks.org/friend-class-function-cpp/) [blog4](https://stackoverflow.com/questions/131241/why-use-iterators-instead-of-array-indices) [blog5](https://stackoverflow.com/questions/22739507/iterator-and-memory-usage) [blog6](https://stackoverflow.com/questions/628903/performance-advantages-to-iterators) [blog7](https://stackoverflow.com/questions/1879255/performance-of-traditional-for-loop-vs-iterator-foreach-in-java) [blog8](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp) [blog9](https://medium.com/geekculture/iterator-design-pattern-in-c-42caec84bfc)
+live code  | [ex24-q6-iterator-v0](../../tree/ex24-q6-iterator-v0)  |  |  |
 live code   | [ex24-q6-iterator-v1](../../tree/ex24-q6-iterator-v1)  |  |  |
 live code   | [ex24-q6-iterator-v2](../../tree/ex24-q6-iterator-v2)  |  |  | [blog1](https://stackoverflow.com/questions/2728190/how-are-iterators-and-pointers-related) [blog2](https://stackoverflow.com/questions/30950285/is-an-iterator-in-c-a-pointer) [blog3](https://stackoverflow.com/questions/31128055/what-is-difference-between-iterators-and-pointers) [blog4](https://www.sandordargo.com/blog/2022/03/16/iterators-vs-pointers) [blog5](https://www.quora.com/What-is-an-iterator-in-C++-and-what-is-the-main-difference-between-it-and-a-pointer)
 live code   | [ex24-q6-iterator-v3](../../tree/ex24-q6-iterator-v3)  |  |  | [blog1](https://stackoverflow.com/questions/48410193/input-iterator-star-and-postfix-operator) [blog2](https://pvs-studio.com/fr/blog/posts/cpp/0093/) [blog3](https://hownot2code.wordpress.com/2016/06/30/use-a-prefix-increment-operator-i-in-iterators-instead-of-a-postfix-i-operator/) [blog4](https://learn.microsoft.com/en-us/cpp/cpp/increment-and-decrement-operator-overloading-cpp?view=msvc-170) 
 live code   | [ex24-q6-iterator-v4](../../tree/ex24-q6-iterator-v4)  |  |  | [blog1](https://leimao.github.io/blog/CPP-Const-Iterator/) [blog2](https://codereview.stackexchange.com/questions/202157/basic-iterator-supporting-vector-implementation)
 NAN  | [ex26-ans](../../tree/ex26-ans)  |  | [video](https://www.bilibili.com/video/bv1gR4y1n7Na)   | [blog1](https://www.softwaretestinghelp.com/graph-implementation-cpp/) [blog2](https://www.geeksforgeeks.org/difference-between-vector-and-list/) [blog3](https://www.geeksforgeeks.org/vector-in-cpp-stl/) [blog4](https://www.cplusplus.com/reference/vector/vector/) [blog5](https://www.cplusplus.com/reference/list/list/) [blog6](https://www.geeksforgeeks.org/initialize-a-vector-in-cpp-different-ways/) [blog7](https://www.geeksforgeeks.org/std-find-in-cpp/) 
-live code  | [live-code-inheritance](../../tree/live-code-inheritance)  |  | [video](https://www.bilibili.com/video/BV1h14y157Nw/) | [blog1](https://ee.usc.edu/~redekopp/cs104/slides/L08a_Inheritance.pdf) [blog2](http://ee.usc.edu/~redekopp/cs104/slides/L08b_Polymorphism.pdf)
-NAN  | [ex27-q1-q2-q3-ans](../../tree/ex27-q1-q2-q3-ans)  |  | [video](https://www.bilibili.com/video/BV1zL4y1i7sr/) | [blog1](https://www.programiz.com/cpp-programming/inheritance) 
+live code  | [live-code-inheritance](../../tree/live-code-inheritance)  |  | [video1](https://www.bilibili.com/video/BV1h14y157Nw/) [video2](https://www.bilibili.com/video/BV1zL4y1i7sr/) | [blog1](https://ee.usc.edu/~redekopp/cs104/slides/L08a_Inheritance.pdf) [blog2](http://ee.usc.edu/~redekopp/cs104/slides/L08b_Polymorphism.pdf)
+NAN  | [ex27-q1-q2-q3-ans](../../tree/ex27-q1-q2-q3-ans)  |  |  | [blog1](https://www.programiz.com/cpp-programming/inheritance) 
 NAN  | [ex27-q4-ans](../../tree/ex27-q4-ans)  |   |  | [blog](https://stackoverflow.com/questions/654428/what-is-the-order-in-which-the-destructors-and-the-constructors-are-called-in-c)
 NAN  | [ex28-ans](../../tree/ex28-ans) (optional)   |   | [video](https://www.bilibili.com/video/BV1mb4y1b7kC/)  (optional) | [blog](https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm)
 [ex29-q1](../../tree/ex29-q1) | [ex29-q1-ans](../../tree/ex29-q1-ans)  | | | [blog1](https://stackoverflow.com/questions/58042421/c-multi-level-inheritance-with-virtual-functions) [blog2](https://stackoverflow.com/questions/17842594/virtual-function-inheritance) [blog3](https://www.programiz.com/cpp-programming/function-overriding)  [blog4](https://www.programiz.com/cpp-programming/virtual-functions)
@@ -152,7 +152,7 @@ NAN | [ex31-ans](../../tree/ex31-ans)  | [leetcode-1748](../../tree/leetcode-174
 NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  |  | [video](https://www.bilibili.com/video/BV1rv411T7LZ) | [blog](https://en.cppreference.com/w/cpp/container/vector)
 live code  | live-code-nested-class  | | | [blog1](https://www.geeksforgeeks.org/nested-classes-in-c/) [blog2](https://stackoverflow.com/questions/4571355/why-would-one-use-nested-classes-in-c) [blog3](https://learn.microsoft.com/en-us/cpp/cpp/nested-class-declarations?view=msvc-170)
 NAN | [ex32-q2-ans](../../tree/ex32-q2-ans)  | | | [blog1](https://www.bogotobogo.com/DesignPatterns/factorymethod.php) [blog2](https://refactoring.guru/design-patterns/factory-method/cpp/example)
-NAN | [ex33-ans](../../tree/ex33-ans) (optional)  | | [video]() (optional) | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
+NAN | [ex33-ans](../../tree/ex33-ans) (optional)  | |  | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
 NAN | [ex35-q1-ans](../../tree/ex35-q1-ans)  | | [video](https://www.bilibili.com/video/BV17q4y1V7F3/)  | [blog](https://refactoring.guru/design-patterns/template-method/cpp/example)
 NAN | [ex35-q1-extended](../../tree/ex35-q1-extended)  | | | 
 NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | | | 
@@ -363,6 +363,9 @@ Suggestions from students who got an A or B:
 - Basically, you will use ```git stash```, ```git pull```  and ```git checkout``` most of the time.
 - LO02 C++ 相比 LO01 算法入门，主要是多了一个 git checkout（简单场景）。
 
+##### How to push your code to GitHub
+- [B站视频 - 学生如何将自己的代码 push 到 GitHub - 以 LO02 C++ 为例](https://www.bilibili.com/video/BV188411Y7Uf/)
+
 ##### :bug: :bug: :bug: :bug: Debug
 For debugging with CLion, watch this:
 - [B站视频 - CLion Debug](https://www.bilibili.com/video/BV1u44y167jP/)
@@ -525,7 +528,7 @@ Office visit is NOT welcome unless you make an appointment at least one day in a
 ##### 1. Create a repo on GitHub
 
 You might want to add your ```id_rsa.pub``` to GitHub so that 
-you won't need to input your GitHub user name and password in the terminal, like this:
+you won't need to input your GitHub user name and password in the terminal each time. You can refer to this blog as to how:
 
 - https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html
 - [sshkeys.html](html/blog-SSH%20Keys%20for%20GitHub.html)
@@ -544,6 +547,8 @@ git commit -m "<SOME MESSAGE>"
 git push github <NEW BRANCH NAME>
 ```
 
+Corresponding video:
+- https://www.bilibili.com/video/BV188411Y7Uf/
 
 #### Why do we use Gitee/GitHub in this course?
 
