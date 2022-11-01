@@ -157,7 +157,7 @@ NAN | [ex35-q1-ans](../../tree/ex35-q1-ans)  | | [video](https://www.bilibili.co
 NAN | [ex35-q1-extended](../../tree/ex35-q1-extended)  | | | 
 NAN | [ex35-q2-ans-1](../../tree/ex35-q2-ans-1)  | | | 
 NAN | [ex35-q2-ans-2](../../tree/ex35-q2-ans-2)  |     |  | [blog](https://refactoring.guru/design-patterns/observer/cpp/example)
-NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | leetcode-1636   | | [blog](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) 
+NAN | [ex35-q2-ans-3](../../tree/ex35-q2-ans-3)  | [leetcode-1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1529350/)   | | [blog](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) 
 NAN | [ex36-ans](../../tree/ex36-ans)  | | [video](https://www.bilibili.com/video/bv1nP4y157dg) | [blog1](https://en.cppreference.com/w/cpp/language/using_declaration) [blog2](https://stackoverflow.com/questions/19237411/const-and-non-const-operator-overloading)
 NAN | [ex37-ans](../../tree/ex37-ans)  | |  | [blog](https://refactoring.guru/design-patterns/strategy/cpp/example)
 NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  | [leetcode-20](https://leetcode.com/problems/valid-parentheses/) | [video](https://www.bilibili.com/video/bv1xq4y1u7Jo)  | [blog1](https://stackoverflow.com/questions/6571381/dependent-scope-and-nested-templates)
