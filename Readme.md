@@ -532,7 +532,17 @@ you won't need to input your GitHub user name and password in the terminal, like
 
 
 ##### 2. Add the repo as a remote 
+```
+git remote add github <YOUR-SSH-OR-HTTPS-REPO-URL>
+```
 ##### 3. push the branch to GitHub repo
+
+```
+git checkout -b <NEW BRANCH NAME>
+git add .
+git commit -m "<SOME MESSAGE>"
+git push github <NEW BRANCH NAME>
+```
 
 
 #### Why do we use Gitee/GitHub in this course?
