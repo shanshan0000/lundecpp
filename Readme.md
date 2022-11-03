@@ -574,6 +574,14 @@ Here in this course of LO02, we are using a very basic and simple form of teachi
 - Because it's fun.
 
 
+#### Keep things in perspective
+
+Object Oriented Programming is Inherently Harmful
+
+http://harmful.cat-v.org/software/OO_programming/
+
+https://nccastaff.bournemouth.ac.uk/jmacey/Lectures/DesignPatterns/lecture1/#/1/4
+
 #### Online Final Exam
 
 Url for online exam will appear here.

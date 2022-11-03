@@ -1,0 +1,115 @@
+<!DOCTYPE html> <html class="cye-disabled cye-nm"><!--
+ Page saved with SingleFile 
+ url: http://harmful.cat-v.org/software/OO_programming/ 
+ saved date: Thu Nov 03 2022 19:36:09 GMT+0800 (China Standard Time)
+--><meta charset=utf-8>
+<title>Object Oriented Programming is Inherently Harmful</title>
+<style media="screen, handheld">body{display:flex;flex-wrap:wrap;font-family:sans}header{flex-basis:100%;flex-shrink:0}article{flex-basis:60%;padding-left:1em}footer{flex-basis:100%;flex-shrink:0}header nav{display:flex;justify-content:space-between}nav a,header a{text-decoration:none;color:inherit}header h1 span{margin-left:1em;font-size:50%;font-style:italic}body>nav{flex-basis:content;padding-right:1vw;min-width:16em}nav ul{display:flex;flex-direction:column;list-style-type:none;list-style-position:outside;padding-left:0}nav li ul{padding-left:0.6em}footer{display:flex;justify-content:space-between}</style>
+<style media=screen>body{display:flex;flex-wrap:wrap}header{flex-basis:100%;flex-shrink:0}article{flex-basis:60%;padding-left:1em}footer{flex-basis:100%;flex-shrink:0}header nav{display:flex;justify-content:space-between}nav a,header a{text-decoration:none;color:inherit}header h1 span{margin-left:1em;font-size:50%;font-style:italic}body>nav{flex-basis:content;padding-right:1vw;min-width:16em}nav ul{display:flex;flex-direction:column;list-style-type:none;list-style-position:outside;padding-left:0}nav li ul{padding-left:0.6em}footer{display:flex;justify-content:space-between}body{margin:0;padding:0;font-size:84%;font-family:Helvetica,Verdana,Arial,"Liberation Sans",FreeSans,sans-serif}a{text-decoration:none}a:hover{text-decoration:underline}.thisPage{color:black}header nav{background-color:rgb(100,135,220);color:white;padding:0.3em;border-bottom:2px solid black;font-size:91%}header h1{background-color:#ff6d06;color:black;margin:0;border-bottom:2px solid black;font-weight:normal;padding:0.25ex;font-size:233%}header a:hover{text-decoration:none}body>nav{border-right:1px solid #ddd;padding:0}body>nav>div{border-bottom:1px solid #ddd}body>nav>div a{color:rgb(0,102,204);display:block;text-transform:capitalize;font-weight:bold;padding:0.25em 1ex 0.25em 2mm;font-size:102%}body>nav>div a:hover{color:white;background-color:rgb(100,135,220);border-left:black solid 0.2em;text-decoration:none}article{padding:0.5ex 0 5vh 1vw}article h1,article h2{color:rgb(0,102,204);font-weight:bold;margin:2em 0 0 0;border-bottom:2px solid rgb(0,102,204)}article a{color:rgb(0,102,204)}article a:hover{color:rgb(100,135,220)}footer{color:white;background-color:rgb(100,135,220)}footer a{color:inherit}footer div{padding:1em}</style>
+<link rel="shortcut icon" href="data:image/x-icon;base64,AAABAAQAICAQAAEABADoAgAARgAAABAQEAABAAQAKAEAAC4DAAAgIBAAAQAEAOgCAABWBAAAEBAQAAEABAAoAQAAPgcAACgAAAAgAAAAQAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3IdkAAZt/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIiIiIiIiIiIiIiIiIiIAACIiIiIiIiIiIiIiIiIiAAAiIiIiIiIiIiIiIiIiIgAAIiIiIiIiIiIiIiIiIiIAACIiIiIiIiIiIiIiIiIiAAAiIiIiIiIiIiIiIiIiIgAAIiIiAAAAAAAAAAAiIiIAACIiIgAAAAAAAAAAIiIiAAAiIiIAERERERERACIiIgAAIiIiABEREREREQAiIiIAACIiIgAREREREREAIiIiAAAiIiIAERERERERACIiIgAAIiIiABEREREREQAiIiIAACIiIgAREREREREAIiIiAAAiIiIAERERERERACIiIgAAIiIiABEREREREQAiIiIAACIiIgAREREREREAIiIiAAAiIiIAERERERERACIiIgAAIiIiABEREREREQAiIiIAACIiIgAREREREREAIiIiAAAiIiIAAAAAAAAAACIiIgAAIiIiAAAAAAAAAAAiIiIAACIiIiIiIiIiIiIiIiIiAAAiIiIiIiIiIiIiIiIiIgAAIiIiIiIiIiIiIiIiIiIAACIiIiIiIiIiIiIiIiIiAAAiIiIiIiIiIiIiIiIiIgAAIiIiIiIiIiIiIiIiIiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAQAAAAIAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3IdkAAZt/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIiIiIiIiIAIiIiIiIiIgAiIiIiIiIiACIgAAAAAiIAIiARERECIgAiIBEREQIiACIgERERAiIAIiARERECIgAiIBEREQIiACIgERERAiIAIiAAAAACIgAiIiIiIiIiACIiIiIiIiIAIiIiIiIiIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAAAACAAAABAAAAAAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADch2QABm3/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIiIiIiIiIiIiIiIiIgAAIiIiIiIiIiIiIiIiIiIAACIiIiIiIiIiIiIiIiIiAAAiIiIiIiIiIiIiIiIiIgAAIiIiIiIiIiIiIiIiIiIAACIiIiIiIiIiIiIiIiIiAAAiIiIAAAAAAAAAACIiIgAAIiIiAAAAAAAAAAAiIiIAACIiIgAREREREREAIiIiAAAiIiIAERERERERACIiIgAAIiIiABEREREREQAiIiIAACIiIgAREREREREAIiIiAAAiIiIAERERERERACIiIgAAIiIiABEREREREQAiIiIAACIiIgAREREREREAIiIiAAAiIiIAERERERERACIiIgAAIiIiABEREREREQAiIiIAACIiIgAREREREREAIiIiAAAiIiIAERERERERACIiIgAAIiIiABEREREREQAiIiIAACIiIgAAAAAAAAAAIiIiAAAiIiIAAAAAAAAAACIiIgAAIiIiIiIiIiIiIiIiIiIAACIiIiIiIiIiIiIiIiIiAAAiIiIiIiIiIiIiIiIiIgAAIiIiIiIiIiIiIiIiIiIAACIiIiIiIiIiIiIiIiIiAAAiIiIiIiIiIiIiIiIiIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAAAABAAAAAgAAAAAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADch2QABm3/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIiIiIiIiIgAiIiIiIiIiACIiIiIiIiIAIiAAAAACIgAiIBEREQIiACIgERERAiIAIiARERECIgAiIBEREQIiACIgERERAiIAIiARERECIgAiIAAAAAIiACIiIiIiIiIAIiIiIiIiIgAiIiIiIiIiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=" type=image/vnd.microsoft.icon><style>.sf-hidden{display:none!important}</style><link rel=canonical href=http://harmful.cat-v.org/software/OO_programming/><meta http-equiv=content-security-policy content="default-src 'none'; font-src 'self' data:; img-src 'self' data:; style-src 'unsafe-inline'; media-src 'self' data:; script-src 'unsafe-inline' data:; object-src 'self' data:;"><style>img[src="data:,"],source[src="data:,"]{display:none!important}</style><body><div id=cyeBlackMaskLayer style=background-color:rgb(19,19,19);position:fixed;width:1980px;height:1080px;z-index:-2147483648 class=sf-hidden></div>
+<header>
+ <nav>
+ <div class=left>
+ <a href=http://quotes.cat-v.org/>quotes</a> |
+ <a href=http://doc.cat-v.org/>docs</a> |
+ <a href=http://repo.cat-v.org/>repo</a> |
+ <a href=http://go-lang.cat-v.org/>golang</a> |
+ <a href=http://sam.cat-v.org/>sam</a> |
+ <a href=http://man.cat-v.org/>man</a> |
+ <a href=http://acme.cat-v.org/>acme</a> |
+ <a href=http://glenda.cat-v.org/>Glenda</a> |
+ <a href=http://ninetimes.cat-v.org/>9times</a> |
+ <a href=http://harmful.cat-v.org/>harmful</a> |
+ <a href=http://9p.cat-v.org/>9P</a> |
+ <a href=http://cat-v.org/>cat-v.org</a>
+ </div>
+ <div class=right>
+ <span class=doNotDisplay>Related sites:</span>
+ | <a href=http://cat-v.org/update_log>site updates</a>
+ | <a href=http://harmful.cat-v.org/sitemap>site map</a> |
+ </div>
+ </nav>
+ <h1><a href=http://harmful.cat-v.org/>cat -v <span id=headerSubTitle>harmful stuff</span></a></h1>
+</header>
+ <nav id=side-bar>
+ <div>
+<ul>
+<li><a href=http://harmful.cat-v.org/Blog/>› Blog/</a></li>
+<li><a href=http://harmful.cat-v.org/cat-v/>› cat v/</a></li>
+<li><a href=http://harmful.cat-v.org/economics/>› economics/</a></li>
+<li><a href=http://harmful.cat-v.org/films/>› films/</a></li>
+<li><a href=http://harmful.cat-v.org/journalism/>› journalism/</a></li>
+<li><a href=http://harmful.cat-v.org/people/>› people/</a></li>
+<li><a href=http://harmful.cat-v.org/science/>› science/</a></li>
+<li><a href=http://harmful.cat-v.org/security-theater/>› security theater/</a></li>
+<li><a href=http://harmful.cat-v.org/society/>› society/</a></li>
+<li><a href=http://harmful.cat-v.org/software/ class=thisPage>»<i> software/</i></a></li>
+<li><ul>
+<li><a href=http://harmful.cat-v.org/software/GCC>› GCC</a></li>
+<li><a href=http://harmful.cat-v.org/software/GNU/>› GNU/</a></li>
+<li><a href=http://harmful.cat-v.org/software/OO_programming/ class=thisPage>»<i> OO programming/</i></a></li>
+<li><ul>
+<li><a href=http://harmful.cat-v.org/software/OO_programming/why_oo_sucks>› why oo sucks</a></li>
+</ul></li>
+<li><a href=http://harmful.cat-v.org/software/SAP>› SAP</a></li>
+<li><a href=http://harmful.cat-v.org/software/andy_tanenbaum>› andy tanenbaum</a></li>
+<li><a href=http://harmful.cat-v.org/software/c++/>› c++/</a></li>
+<li><a href=http://harmful.cat-v.org/software/csh>› csh</a></li>
+<li><a href=http://harmful.cat-v.org/software/dynamic-linking/>› dynamic linking/</a></li>
+<li><a href=http://harmful.cat-v.org/software/email/>› email/</a></li>
+<li><a href=http://harmful.cat-v.org/software/firefox>› firefox</a></li>
+<li><a href=http://harmful.cat-v.org/software/gnome/>› gnome/</a></li>
+<li><a href=http://harmful.cat-v.org/software/java>› java</a></li>
+<li><a href=http://harmful.cat-v.org/software/node.js>› node.js</a></li>
+<li><a href=http://harmful.cat-v.org/software/operating-systems/>› operating systems/</a></li>
+<li><a href=http://harmful.cat-v.org/software/patents/>› patents/</a></li>
+<li><a href=http://harmful.cat-v.org/software/ruby/>› ruby/</a></li>
+<li><a href=http://harmful.cat-v.org/software/ssh>› ssh</a></li>
+<li><a href=http://harmful.cat-v.org/software/svn/>› svn/</a></li>
+<li><a href=http://harmful.cat-v.org/software/symlinks>› symlinks</a></li>
+<li><a href=http://harmful.cat-v.org/software/xml/>› xml/</a></li>
+</ul></li>
+<li><a href=http://harmful.cat-v.org/standards/>› standards/</a></li>
+<li><a href=http://harmful.cat-v.org/words/>› words/</a></li>
+</ul>
+ </div>
+ </nav>
+<article>
+<h1>Object Oriented Programming is Inherently Harmful</h1>
+<p>“<em>Object-oriented programming is an exceptionally bad idea which could only have originated in California.</em>” – Edsger Dijkstra</p>
+<p>“<em>object-oriented design is the roman numerals of computing.</em>” – <a href=http://genius.cat-v.org/rob-pike/>Rob Pike</a></p>
+<p>“<em>The phrase "object-oriented” means a lot of things. Half are obvious, and the other half are mistakes.</em>“ – Paul Graham</p>
+<p>“<em>Implementation inheritance causes the same intertwining and brittleness that have been observed when goto statements are overused. As a result, OO systems often suffer from complexity and lack of reuse.</em>” – John Ousterhout <em>Scripting, IEEE Computer, March 1998</em></p>
+<p>“<em>90% of the shit that is popular right now wants to rub its object-oriented nutsack all over my code</em>” – kfx</p>
+<p>“<em>Sometimes, the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function.</em>” – John Carmack</p>
+<p>“<em>The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.</em>” – Joe Armstrong</p>
+<p>“<em>I used to be enamored of object-oriented programming. I’m now finding myself leaning toward believing that it is a plot designed to destroy joy.</em>” – Eric Allman</p>
+<p>OO is the “structured programming” snake oil of the 90' Useful at times, but
+hardly the “end all” programing paradigm some like to make out of it.</p>
+<p>And, at least in it’s most popular forms, it’s can be extremely harmful and
+dramatically increase complexity.</p>
+<p>Inheritance is more trouble than it’s worth. Under the doubtful disguise of the
+holy “code reuse” an insane amount of gratuitous complexity is added to our
+environment, which makes necessary industrial quantities of syntactical sugar
+to make the ensuing mess minimally manageable.</p>
+<ul>
+<li><a href=http://doc.cat-v.org/programming/bad_properties_of_OO>Bad Engineering Properties of Object-Oriented Languages by Luca Cardelli</a>.</li>
+<li><a href=http://harmful.cat-v.org/software/OO_programming/why_oo_sucks>Why OO Sucks by Joe Armstrong</a>.</li>
+<li><a href=http://harmful.cat-v.org/software/OO_programming/_pdf/Pitfalls_of_Object_Oriented_Programming_GCAP_09.pdf>Pitfalls of Object Oriented Programming</a> - By Tony Albrecht of Sony Computer Entertainment Europe, Research &amp; Development Division.</li>
+</ul>
+<h2>See Also</h2>
+<ul>
+<li><a href=http://www.iwriteiam.nl/AoP_OOCH.html>Object-Oriented Considered Harmful</a> by Frans Faase.</li>
+<li><a href=http://www.geocities.com/tablizer/oopbad.htm>Object Oriented Programming Oversold!</a></li>
+<li><a href=https://web.archive.org/web/20120224000044/http://parand.com/say/index.php/2005/07/18/i-hate-patterns/>I Hate Patterns</a> - By Parand Tony Darugar.</li>
+<li><a href=http://www.paulgraham.com/noop.html>Why arc Isn’t Particularly Object-Oriented</a> - By Paul Graham.</li>
+<li><a href=http://www.norvig.com/java-iaq.html#del>The questions</a> about inheritance in the Java IAQ.</li>
+<li><a href=http://pyvideo.org/video/880/stop-writing-classes>Stop Writing Classes</a> - Great talk about how classes are often used and abused. By Jack Diederich.</li>
+</ul>
+</article>
+<footer>
+<br class="doNotDisplay doNotPrint">
+<div style=margin-right:auto><a href=http://werc.cat-v.org/>Powered by werc</a></div>
+<div><form action=/_search/ method=POST><input type=text id=searchtext name=q value> <input type=submit value=Search></form></div>
+</footer>
+<div id=cye-workaround-body style="position:absolute;left:0px;top:0px;z-index:-2147483646;background:none 0% 0%/auto repeat scroll padding-box border-box white;height:1339px;width:2560px" class=sf-hidden></div><div id=cye-workaround-body-image style="position:absolute;left:0px;top:0px;z-index:-2147483645;background:none 0% 0%/auto repeat scroll padding-box border-box rgba(0,0,0,0);height:1339px;width:2560px" class=sf-hidden></div>
