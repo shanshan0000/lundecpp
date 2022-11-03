@@ -1,6 +1,11 @@
 # LO02 C++ OOP Design Patterns
 
 
+## :bell: 最新通知 - What's new
+
+*最新通知会出现在这儿。每次上课前请查看。*
+
+- [New] 项目截止日期：11月25日23点59。
 
 ## Lectures (Cours  Magistraux)
 
