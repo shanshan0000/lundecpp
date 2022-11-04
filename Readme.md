@@ -176,15 +176,7 @@ cpp_in_other_universities | [cpp_in_other_universities](../../tree/cpp_in_other_
 </details>
 
 
-#### Other online resources
 
-##### GitHub repositories
-
-Those resources, found by googling "GitHub cpp design patterns", could be interesting for some of you:
-- https://github.com/JakubVojvoda/design-patterns-cpp
-- https://github.com/pezy/DesignPatterns
-- https://github.com/RefactoringGuru/design-patterns-cpp
-- https://github.com/fsaadatmand/Head-First-Design-Pattern-CPP-Examples
 
 
 ## Project
@@ -587,11 +579,29 @@ Here in this course of LO02, we are using a very basic and simple form of teachi
 
 #### Keep things in perspective
 
-Object Oriented Programming is Inherently Harmful
+Some programmers argue that "Object Oriented Programming is Inherently Harmful":
 
-http://harmful.cat-v.org/software/OO_programming/
+- http://harmful.cat-v.org/software/OO_programming/
 
-https://nccastaff.bournemouth.ac.uk/jmacey/Lectures/DesignPatterns/lecture1/#/1/4
+- https://nccastaff.bournemouth.ac.uk/jmacey/Lectures/DesignPatterns/lecture1/#/1/4
+
+
+#### Design patterns repositories on GitHub 
+
+Those resources, found by googling "GitHub cpp design patterns", could be interesting for some of you:
+- https://github.com/JakubVojvoda/design-patterns-cpp
+- https://github.com/pezy/DesignPatterns
+- https://github.com/RefactoringGuru/design-patterns-cpp
+- https://github.com/fsaadatmand/Head-First-Design-Pattern-CPP-Examples
+
+
+#### xkcd
+
+- [Pointers](https://www.explainxkcd.com/wiki/index.php/138:_Pointers)
+
+
+
+
 
 #### Online Final Exam
 
