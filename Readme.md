@@ -176,6 +176,17 @@ cpp_in_other_universities | [cpp_in_other_universities](../../tree/cpp_in_other_
 </details>
 
 
+#### Other online resources
+
+##### GitHub repositories
+
+Those resources, found by googling "GitHub cpp design patterns", could be interesting for some of you:
+- https://github.com/JakubVojvoda/design-patterns-cpp
+- https://github.com/pezy/DesignPatterns
+- https://github.com/RefactoringGuru/design-patterns-cpp
+- https://github.com/fsaadatmand/Head-First-Design-Pattern-CPP-Examples
+
+
 ## Project
 
 <details>
