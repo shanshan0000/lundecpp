@@ -426,7 +426,7 @@ Then click ```clone```.
 #### Cpp and design patterns courses in other universities
 
 See this branch:
-- [cpp_in_other_universities](../../tree/cpp_in_other_universities)
+- [cpp-in-other-universities](../../tree/cpp-in-other-universities)
 
 #### Zen of Python
 
