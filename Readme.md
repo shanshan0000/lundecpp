@@ -522,9 +522,33 @@ Const is a honking great idea, use it everywhere you can!
 CLion can help us reformat code.
 
 #### Very Basic Markdown [optional]
+You might need to use triple backquotes (\`) to make your code
+in Gitee Issue more beautifully rendered:
 
-See this markdown file:
-- []()
+##### Example 1
+
+\`\`\`cpp
+int main() {
+&nbsp;&nbsp;&nbsp;&nbsp;    std::cout << "Hello, World!" << std::endl;
+&nbsp;&nbsp;&nbsp;&nbsp;    return 0;
+}
+
+\`\`\`
+
+will render in markdown as:
+
+
+```cpp
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+```
+
+##### Example 2
+
+\`\`\`static\`\`\` will render as: ```static```.
+
 
 #### Online C/C++ Compiler
 
