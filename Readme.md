@@ -529,9 +529,13 @@ in Gitee Issue more beautifully rendered:
 ##### Example 1
 
 \`\`\`cpp
+
 int main() {
+
 &nbsp;&nbsp;&nbsp;&nbsp;    std::cout << "Hello, World!" << std::endl;
+
 &nbsp;&nbsp;&nbsp;&nbsp;    return 0;
+
 }
 
 \`\`\`
@@ -541,11 +545,8 @@ will render in markdown as:
 
 ```cpp
 int main() {
-
     std::cout << "Hello, World!" << std::endl;
-
     return 0;
-    
 }
 ```
 
