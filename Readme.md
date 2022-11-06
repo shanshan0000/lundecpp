@@ -548,7 +548,7 @@ int main() {
 \`\`\`static\`\`\` will render as: ```static```.
 
 
-#### ```gcc``` command lines
+#### Let's be geek: ```gcc``` command lines [optional]
 
 TODO.
 
