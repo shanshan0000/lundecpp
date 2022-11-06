@@ -591,6 +591,21 @@ https://www.tutorialspoint.com/advanced-cplusplus-with-boost-library
 
 https://www.boost.org/doc/libs/
 
+#### Very basic Google abseil [optional]
+
+https://github.com/abseil/abseil-cpp
+
+
+#### Cpp open source libraries [optional]
+
+
+https://en.cppreference.com/w/cpp/links/libs
+
+
+https://github.com/fffaraz/awesome-cpp
+
+
+
 #### Online C/C++ Compiler
 
 If you are stuck with your CLion configuration during TP sessions, you could write and run your code online:
