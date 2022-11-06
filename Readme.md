@@ -552,17 +552,6 @@ int main() {
 \`\`\`static\`\`\` will render as: ```static```.
 
 
-#### Very basic ```g++``` command lines [optional]
-
-What is the difference between gcc and g++ in Linux?
-
-gcc is used to compile C program while g++ is used to compile C++ program. Since, a C program can also be compile complied through g++, because it is the extended or we can say advance compiler for C programming language.
-
-https://courses.cs.washington.edu/courses/cse326/00sp/unix/g++.html
-
-https://www.cs.bu.edu/fac/gkollios/cs113/Usingg++.html
-
-
 #### Detecting memory leak with Linux tools [optional]
 
 - https://www.cprogramming.com/debugging/valgrind.html
@@ -575,17 +564,17 @@ https://www.cs.bu.edu/fac/gkollios/cs113/Usingg++.html
 valgrind --tool=memcheck <your_app> <your_apps_params>
 ```
 
-#### Very basic CMake [optional]
+#### g++ v.s. CMake v.s. makefile [optional]
+
+```gcc``` is used to compile C program while ```g++``` is used to compile C++ program.
+
+https://www.cvl.isy.liu.se/education/graduate/opencv/CMake%20presentation.pdf 
+
+https://courses.cs.washington.edu/courses/cse326/00sp/unix/g++.html
 
 https://cmake.org/cmake/help/latest/guide/tutorial/A%20Basic%20Starting%20Point.html
 
-http://derekmolloy.ie/hello-world-introductions-to-cmake/
-
-#### Very basic makefile [optional]
-
 https://www.softwaretestinghelp.com/cpp-makefile-tutorial/
-
-https://stackoverflow.com/questions/2481269/how-to-make-a-simple-c-makefile
 
 #### Very basic Boost library [optional]
 
