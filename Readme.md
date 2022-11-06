@@ -516,7 +516,7 @@ Const is a honking great idea, use it everywhere you can!
 #### Code style [optional]
 
 - https://google.github.io/styleguide/cppguide.html
-- https://www.reddit.com/r/cpp/comments/8oja7y/which_c_style_guide_do_you_follow/
+- https://www.reddit.com/r/cpp/comments/8oja7y
 
 CLion can help us reformat code.
 
@@ -551,6 +551,11 @@ int main() {
 ##### Example 2
 
 \`\`\`static\`\`\` will render as: ```static```.
+
+
+#### ```gcc``` command lines
+
+TODO.
 
 
 #### Online C/C++ Compiler
