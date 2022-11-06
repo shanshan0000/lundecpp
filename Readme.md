@@ -633,20 +633,12 @@ Those resources, found by googling "GitHub cpp design patterns", could be intere
 #### xkcd
 
 - [Pointers](https://www.explainxkcd.com/wiki/index.php/138:_Pointers)
-
-
 - [Real Programmers](https://xkcd.com/378/)
-
 - [Error Code](https://www.explainxkcd.com/wiki/index.php/1024:_Error_Code)
-
 - [Compiling](https://www.explainxkcd.com/wiki/index.php/303:_Compiling)
-
 - [Wisdom of the Ancients](https://www.explainxkcd.com/wiki/index.php/979:_Wisdom_of_the_Ancients)
-
 - [Tech Support](https://www.explainxkcd.com/wiki/index.php/806:_Tech_Support)
-
 - [ISO 8601](https://www.explainxkcd.com/wiki/index.php/1179:_ISO_8601)
-
 - [Exploits of a Mom](https://www.explainxkcd.com/wiki/index.php/327:_Exploits_of_a_Mom)
 
 #### Online Final Exam
