@@ -526,17 +526,12 @@ in Gitee Issue more beautifully rendered:
 
 ##### Example 1
 
-\`\`\`cpp
-
-int main() {
-
-&nbsp;&nbsp;&nbsp;&nbsp;    std::cout << "Hello, World!" << std::endl;
-
-&nbsp;&nbsp;&nbsp;&nbsp;    return 0;
-
-}
-
-\`\`\`
+\`\`\`cpp<br>
+int main() {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  <br>  std::cout << "Hello, World!" << std::endl;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    return 0;<br>
+}<br>
+\`\`\`<br>
 
 will render in markdown as:
 
