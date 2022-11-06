@@ -335,6 +335,17 @@ Pour des questions privées, merci d'envoyer vos questions par mail à ces adres
 
 
 
+## A picture is worth a thousand words
+
+<details>
+
+
+
+
+
+
+
+</details>
 
 ## Misc
 
