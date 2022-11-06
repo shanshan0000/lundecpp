@@ -572,8 +572,7 @@ Office visit is NOT welcome unless you make an appointment at least one day in a
 You might want to add your ```id_rsa.pub``` to GitHub so that 
 you won't need to input your GitHub user name and password in the terminal each time. You can refer to this blog as to how:
 
-- https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html
-- [sshkeys.html](html/blog-SSH%20Keys%20for%20GitHub.html)
+- https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html if you cannnot browse it, here is a local backup of the web page: [sshkeys.html](html/blog-SSH%20Keys%20for%20GitHub.html)
 
 
 ##### 2. Add the repo as a remote 
