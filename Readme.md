@@ -556,8 +556,6 @@ gcc is used to compile C program while g++ is used to compile C++ program. Since
 
 https://courses.cs.washington.edu/courses/cse326/00sp/unix/g++.html
 
-http://www.cs.fsu.edu/~lacher/lectures/Output/compiler/index.html?$$$compiler2.html$$$
-
 https://www.cs.bu.edu/fac/gkollios/cs113/Usingg++.html
 
 
