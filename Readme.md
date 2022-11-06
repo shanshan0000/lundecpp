@@ -548,10 +548,38 @@ int main() {
 \`\`\`static\`\`\` will render as: ```static```.
 
 
-#### Let's be geek: ```gcc``` command lines [optional]
+#### Very basic ```g++``` command lines [optional]
+
+What is the difference between gcc and g++ in Linux?
+
+gcc is used to compile C program while g++ is used to compile C++ program. Since, a C program can also be compile complied through g++, because it is the extended or we can say advance compiler for C programming language.
+
+https://courses.cs.washington.edu/courses/cse326/00sp/unix/g++.html
+
+http://www.cs.fsu.edu/~lacher/lectures/Output/compiler/index.html?$$$compiler2.html$$$
+
+https://www.cs.bu.edu/fac/gkollios/cs113/Usingg++.html
+
+
+#### Detecting memory leak with Linux tools [optional]
+
+- https://www.cprogramming.com/debugging/valgrind.html
+
+- https://stackoverflow.com/questions/5360491/how-i-can-detect-memory-leaks-of-c-application-in-linux-ubuntu-os
+
+- https://www.networkworld.com/article/3006625/review-5-memory-debuggers-for-linux-coding.html?page=2
+
+```
+valgrind --tool=memcheck <your_app> <your_apps_params>
+```
+
+#### Very Basic CMake [optional]
 
 TODO.
 
+#### Very Basic make install [optional]
+
+TODO.
 
 #### Online C/C++ Compiler
 
