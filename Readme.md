@@ -573,13 +573,23 @@ https://www.cs.bu.edu/fac/gkollios/cs113/Usingg++.html
 valgrind --tool=memcheck <your_app> <your_apps_params>
 ```
 
-#### Very Basic CMake [optional]
+#### Very basic CMake [optional]
 
-TODO.
+https://cmake.org/cmake/help/latest/guide/tutorial/A%20Basic%20Starting%20Point.html
 
-#### Very Basic make install [optional]
+http://derekmolloy.ie/hello-world-introductions-to-cmake/
 
-TODO.
+#### Very basic makefile [optional]
+
+https://www.softwaretestinghelp.com/cpp-makefile-tutorial/
+
+https://stackoverflow.com/questions/2481269/how-to-make-a-simple-c-makefile
+
+#### Very basic Boost library [optional]
+
+https://www.tutorialspoint.com/advanced-cplusplus-with-boost-library
+
+https://www.boost.org/doc/libs/
 
 #### Online C/C++ Compiler
 
