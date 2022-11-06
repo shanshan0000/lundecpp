@@ -528,7 +528,7 @@ in Gitee Issue more beautifully rendered:
 
 \`\`\`cpp<br>
 int main() {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;  <br>  std::cout << "Hello, World!" << std::endl;<br>
+&nbsp;&nbsp;&nbsp;&nbsp; std::cout << "Hello, World!" << std::endl;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;    return 0;<br>
 }<br>
 \`\`\`<br>
