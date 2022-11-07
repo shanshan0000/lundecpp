@@ -263,7 +263,7 @@ Download the software:
 Online version: 
 - https://app.diagrams.net/
 
-#### One more thing ...
+#### Last but not least
 
 ![](img/additive.jpg)
 
