@@ -5,6 +5,9 @@
 
 *最新通知会出现在这儿。每次上课前请查看。*
 
+- [New] 大家好，
+https://github.com/open-academy/machine-learning 这儿星星过70的话，我会给大家周五减轻大家复习负担。因为，期末会很难，很难。而且只有两个小时时间。
+
 - [New] 项目截止日期：11月25日23点59。
 
 ## Lectures (Cours  Magistraux)
