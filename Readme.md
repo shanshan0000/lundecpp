@@ -8,6 +8,10 @@
 - [New] 大家好，
 https://github.com/open-academy/machine-learning 这儿星星过70的话，我会给大家周五减轻大家复习负担。因为，期末会很难，很难。而且只有两个小时时间。我也需要额外加不少班。
 
+If you want to thank me personally, go to https://github.com/open-academy/machine-learning and give it a star.
+
+![](img/thank.png)
+
 - [New] 项目截止日期：11月25日23点59。
 
 ## Lectures (Cours  Magistraux)
