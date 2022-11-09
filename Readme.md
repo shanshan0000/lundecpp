@@ -697,6 +697,6 @@ Url for online exam will appear here.
 
 If you want to thank me personally, go to https://github.com/open-academy/machine-learning and give it a star.
 
-![](img/thank.jpg)
+![](img/thank.png)
 
 
