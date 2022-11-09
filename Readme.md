@@ -697,9 +697,9 @@ Url for online exam will appear here.
 
 </details>
 
-## If you want to thank me personally ...
+## Conclusion
 
-If you want to thank me personally, go to https://github.com/open-academy/machine-learning and give it a star. Thank you!
+If you like this course and want to thank me personally, please go to <br> https://github.com/open-academy/machine-learning <br> and give it a star. Thank you!
 
 ![](img/thank.png)
 
