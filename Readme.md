@@ -115,8 +115,6 @@ NAN  | [ex22-q3-ans](../../tree/ex22-q3-ans)  |  |  |
 NAN  | [ex22-q4-ans](../../tree/ex22-q4-ans)  |  |  |
 NAN  | [ex22-q5-ans-v1](../../tree/ex22-q5-ans-v1) <br> [ex22-q5-ans-v2](../../tree/ex22-q5-ans-v2) |  | |
 NAN  | [ex23-q1-ans](../../tree/ex23-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1Su411f7iT) | [blog1](https://www.geeksforgeeks.org/copy-constructor-in-cpp/) [blog2](https://www.learncpp.com/cpp-tutorial/overloading-the-assignment-operator/) [blog3](https://stackoverflow.com/questions/4172722/what-is-the-rule-of-three)
-**Mid-term Revision**  | [LO02_poly_exercices](../../tree/master/pdf/LO02_poly_exercices.pdf)  |  |  [video](https://www.bilibili.com/video/BV1dP411J7k2/) |
-10-01 Holiday  | [ex23-ex24-solution-pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf)  |  |  |
 NAN  | [ex23-q2-ans](../../tree/ex23-q2-ans)  |   |  |  [blog1](https://stackoverflow.com/questions/4754763/object-array-initialization-without-default-constructor) [blog2](http://www.cplusplus.com/forum/general/49311/)  
 NAN  | [ex23-q4-q5-ans](../../tree/ex23-q4-q5-ans)  |   | [video](https://www.bilibili.com/video/bv1br4y127MK) | [blog](https://www.geeksforgeeks.org/destructors-c/)
 NAN | [ex23-q7-ans](../../tree/ex23-q7-ans)  | |  | [blog1](https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean) [blog2](https://stackoverflow.com/questions/2814188/c-array-of-pointers-delete-or-delete) [blog3](https://stackoverflow.com/questions/21731888/deleting-array-of-pointers/21732015) [blog4](https://www.learncpp.com/cpp-tutorial/pointers-and-const/)
@@ -148,15 +146,39 @@ live code | [live-code-adaptor](../../tree/live-code-adaptor)  |  |   |
 NAN | [ex37-ans](../../tree/ex37-ans)  | [leetcode-20](https://leetcode.com/problems/valid-parentheses/) |  | [blog](https://refactoring.guru/design-patterns/strategy/cpp/example)
 NAN | [ex38-q1-ans](../../tree/ex38-q1-ans)  |  [leetcode-844](https://leetcode.com/problems/backspace-string-compare/discuss/2628310)  | [video](https://www.bilibili.com/video/bv1xq4y1u7Jo)   | [blog1](https://stackoverflow.com/questions/6571381/dependent-scope-and-nested-templates) [blog2](https://stackoverflow.com/questions/495021/why-can-templates-only-be-implemented-in-the-header-file) [blog3](https://stackoverflow.com/questions/5612791/c-template-and-header-files) [blog4](https://www.bogotobogo.com/cplusplus/template_declaration_definition_header_implementation_file.php)
 NAN | [ex38-q2-q3-ans](../../tree/ex38-q2-q3-ans)  | [leetcode-150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | | [blog1](https://stackoverflow.com/questions/35563193/) [blog2](https://stackoverflow.com/questions/11394832/) [blog3](https://stackoverflow.com/questions/5108359/how-do-i-define-a-template-function-within-a-template-class-outside-of-the-class) [blog4](https://stackoverflow.com/questions/10871100/pass-a-function-as-an-explicit-template-parameter) [blog5](https://stackoverflow.com/questions/1174169/function-passed-as-template-argument) [blog6](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1529350/)
-live code | [live-code-associative-container](../../tree/live-code-associative-container)  |  [leetcode-2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/discuss/2743574) |  [video]() | [blog1](https://isocpp.org/wiki/faq/strange-inheritance) [blog2](https://cplusplus.com/reference/map/map/)  [blog3](https://www.cse.msu.edu/~cse232/us22/slides/cse232_associative_containers.pdf) [blog4](https://www.ida.liu.se/~TDDD38/lecture/slides/stl_II.pdf) [blog5](https://cplusplus.com/reference/set/set/)
-NAN | [ex40-ans](../../tree/ex40-ans)  |  [leetcode-1748](../../tree/leetcode-1748) <br> [leetcode-535](https://leetcode.com/problems/encode-and-decode-tinyurl/)  <br>[leetcode-1941](../../tree/leetcode-1941) <br> [leetcode-136](https://leetcode.com/problems/single-number/)  | | [blog1](https://cppbetterexplained.com/c-template-metaprogramming-in-practice/) [blog2](https://embeddedartistry.com/blog/2017/08/02/an-overview-of-c-stl-containers/) [blog3](https://stackoverflow.com/questions/2196995/is-there-any-advantage-of-using-map-over-unordered-map-in-case-of-trivial-keys)
-**Final Exam Revision (significant extra work on the prof side)** | [ex75-ans-v1](../../tree/ex75-ans-v1) <br> [ex75-ans-v2](../../tree/ex75-ans-v2)  <br>[ex75-ans-v3](../../tree/ex75-ans-v3) <br> [ex76-ans](../../tree/ex76-ans) <br> | Practicing STL containers with leetcode will help a lot  |  [video1](https://www.bilibili.com/video/BV1Y14y1p7mP/) | 
+NAN | [ex40-ans](../../tree/ex40-ans)  |  | | [blog1](https://cppbetterexplained.com/c-template-metaprogramming-in-practice/) [blog2](https://embeddedartistry.com/blog/2017/08/02/an-overview-of-c-stl-containers/) [blog3](https://stackoverflow.com/questions/2196995/is-there-any-advantage-of-using-map-over-unordered-map-in-case-of-trivial-keys)
 
 </details>
 
+#### Mid-term exam revision
+*Note: I make those videos so as to help you revise more targetedly. It represents significant extra work (for free) on my side.*
 
+For mid-term exam revision,  [Ex23_Ex24_solution.pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf) will help a lot, and [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_poly_exercices.pdf) is your best friend.
 
+- **Mid-term exam revision #1**
+    - Video:
+        - https://www.bilibili.com/video/BV1dP411J7k2/
 
+#### Final exam revision
+*Note: I make those videos so as to help you revise more targetedly. It represents significant extra work (for free) on my side.*
+
+For final exam revision, [LO02_poly_exercices](../../tree/master/pdf/LO02_poly_exercices.pdf) is your best friend, and practicing STL containers with leetcode will help a lot.
+
+- **Final exam revision #1 - Ex75 (poly exercise)**
+    - Branches:
+        - [ex75-ans-v1](../../tree/ex75-ans-v1) 
+        - [ex75-ans-v2](../../tree/ex75-ans-v2)  
+        - [ex75-ans-v3](../../tree/ex75-ans-v3) 
+        - [ex76-ans](../../tree/ex76-ans) 
+    - Video:
+        - https://www.bilibili.com/video/BV1Y14y1p7mP/
+
+- **Final exam revision #2 - live code - containers**
+    - Branches:
+        - [live-code-STL-containers](../../tree/live-code-STL-containers) 
+    - Video:
+    - Blogs:
+        - [blog1](https://isocpp.org/wiki/faq/strange-inheritance) [blog2](https://cplusplus.com/reference/map/map/)  [blog3](https://www.cse.msu.edu/~cse232/us22/slides/cse232_associative_containers.pdf) [blog4](https://www.ida.liu.se/~TDDD38/lecture/slides/stl_II.pdf) [blog5](https://cplusplus.com/reference/set/set/)
 
 ## Project
 
