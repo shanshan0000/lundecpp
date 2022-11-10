@@ -181,7 +181,7 @@ For final exam revision, [LO02_poly_exercices](../../tree/master/pdf/LO02_poly_e
         - https://www.bilibili.com/video/BV1Y14y1p7mP/
 
 - **Final exam revision #2 - live code - containers**
-    - Main idea: An ```std::map``` inside of a ```std::list```, for counting numbers, and iterate through the list by number of occurance. Each element appears only once in the list, emulating hence a ```std::set```.
+    - Main idea: An ```std::map``` inside of a ```std::list```, for counting numbers, and iterate through the list by number of occurance. Each element appears only once in the ```std::list```, emulating hence a ```std::set```.
     - Branches:
         - [live-code-STL-containers](../../tree/live-code-STL-containers) 
     - Video:
