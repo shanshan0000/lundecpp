@@ -161,7 +161,7 @@ NAN | [ex40-ans](../../tree/ex40-ans)  |  | | [blog1](https://cppbetterexplained
 
 For mid-term exam revision,  [Ex23_Ex24_solution.pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf) will help a lot, and [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_poly_exercices.pdf) is your best friend.
 
-- **Mid-term exam revision #1**
+- **Mid-term exam revision #1 - Ex70 (poly exercise)**
     - Video:
         - https://www.bilibili.com/video/BV1dP411J7k2/
 
