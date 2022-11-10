@@ -677,9 +677,11 @@ Url for online exam will appear here.
 </details>
 
 ## Conclusion
+<details>
 
 If you like this course and want to thank me personally, please go to <br> https://github.com/open-academy/machine-learning <br> and give it a star. Thank you!
 
 ![](img/thank.png)
 
 
+</details>
