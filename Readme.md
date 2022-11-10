@@ -174,11 +174,12 @@ For final exam revision, [LO02_poly_exercices](../../tree/master/pdf/LO02_poly_e
         - https://www.bilibili.com/video/BV1Y14y1p7mP/
 
 - **Final exam revision #2 - live code - containers**
+    - Main idea: An ```std::map``` inside of a ```std::list```, for counting numbers, and iterate through the list by number of occurance. Each element appears only once in the list, emulating hence a ```std::set```.
     - Branches:
         - [live-code-STL-containers](../../tree/live-code-STL-containers) 
     - Video:
     - Blogs:
-        - [blog1](https://isocpp.org/wiki/faq/strange-inheritance) [blog2](https://cplusplus.com/reference/map/map/)  [blog3](https://www.cse.msu.edu/~cse232/us22/slides/cse232_associative_containers.pdf) [blog4](https://www.ida.liu.se/~TDDD38/lecture/slides/stl_II.pdf) [blog5](https://cplusplus.com/reference/set/set/)
+        - [blog1](https://isocpp.org/wiki/faq/strange-inheritance) [blog2](https://cplusplus.com/reference/map/map/)  [blog3](https://www.cse.msu.edu/~cse232/us22/slides/cse232_associative_containers.pdf) [blog4](https://www.ida.liu.se/~TDDD38/lecture/slides/stl_II.pdf) [blog5](https://cplusplus.com/reference/set/set/) [blog6](https://en.cppreference.com/w/cpp/container/map/insert) [blog7](https://stackoverflow.com/questions/966905/stuck-on-c-template-deriving-from-stdmap) [blog8](https://stackoverflow.com/questions/6806173/subclass-inherit-standard-containers/7110262#7110262) [blog9](https://stackoverflow.com/questions/4353203/thou-shalt-not-inherit-from-stdvector)
 
 ## Project
 
