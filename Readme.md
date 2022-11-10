@@ -673,7 +673,7 @@ Those resources, found by googling "GitHub cpp design patterns", could be intere
 #### Career advice
 In general I don't give any career or life advices to anyone. I am a liberal and believe that the beauty of life lies in its diversity and randomness, hence an infinity of possibilities. Giving advices to people is limiting and often unhelpful.
 
-However, if you want to be a programmer, it might be worth it to build your GitHub profile, contributing to interesting projects (personal or open-souce) and, accumulating Green Blocks, like this:
+However, if you want to be a programmer, it might be worth it to build your GitHub profile, by contributing to interesting projects (personal or open-souce) and, accumulating Green Blocks, like this:
 
 ![](img/contribution.png)
 
