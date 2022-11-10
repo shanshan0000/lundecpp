@@ -150,7 +150,13 @@ NAN | [ex40-ans](../../tree/ex40-ans)  |  | | [blog1](https://cppbetterexplained
 
 </details>
 
+## Exam Revision
+
+
+<details open>
+
 #### Mid-term exam revision
+
 *Note: I make those videos so as to help you revise more targetedly. It represents significant extra work (for free) on my side.*
 
 For mid-term exam revision,  [Ex23_Ex24_solution.pdf](../../tree/master/pdf/Ex23_Ex24_solution.pdf) will help a lot, and [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_poly_exercices.pdf) is your best friend.
@@ -160,6 +166,7 @@ For mid-term exam revision,  [Ex23_Ex24_solution.pdf](../../tree/master/pdf/Ex23
         - https://www.bilibili.com/video/BV1dP411J7k2/
 
 #### Final exam revision
+
 *Note: I make those videos so as to help you revise more targetedly. It represents significant extra work (for free) on my side.*
 
 For final exam revision, [LO02_poly_exercices](../../tree/master/pdf/LO02_poly_exercices.pdf) is your best friend, and practicing STL containers with leetcode will help a lot.
@@ -180,6 +187,8 @@ For final exam revision, [LO02_poly_exercices](../../tree/master/pdf/LO02_poly_e
     - Video:
     - Blogs:
         - [blog1](https://isocpp.org/wiki/faq/strange-inheritance) [blog2](https://cplusplus.com/reference/map/map/)  [blog3](https://www.cse.msu.edu/~cse232/us22/slides/cse232_associative_containers.pdf) [blog4](https://www.ida.liu.se/~TDDD38/lecture/slides/stl_II.pdf) [blog5](https://cplusplus.com/reference/set/set/) [blog6](https://en.cppreference.com/w/cpp/container/map/insert) [blog7](https://stackoverflow.com/questions/966905/stuck-on-c-template-deriving-from-stdmap) [blog8](https://stackoverflow.com/questions/6806173/subclass-inherit-standard-containers/7110262#7110262) [blog9](https://stackoverflow.com/questions/4353203/thou-shalt-not-inherit-from-stdvector)
+
+</details>
 
 ## Project
 
