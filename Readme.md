@@ -136,7 +136,7 @@ NAN  | [ex28-ans](../../tree/ex28-ans) (optional)   |   | [video](https://www.bi
 [ex30](../../tree/ex30) | [ex30-ans](../../tree/ex30-ans)  | | | [blog1](https://stackoverflow.com/questions/16126578/vectors-and-polymorphism-in-c) [blog2](https://stackoverflow.com/questions/8790210/polymorphism-in-c-loss-of-type-in-vector-of-parent-class) [blog3](https://stackoverflow.com/questions/34383979/c-vector-of-base-class-objects) [blog4](https://stackoverflow.com/questions/4403726/learning-c-polymorphism-and-slicing) [blog5](https://schneide.blog/2015/07/06/object-slicing-breaking-polymorphic-objects-in-c/) [blog6](https://stackoverflow.com/questions/2575296/c-polymorphism-and-slicing)
 NAN | [ex31-ans](../../tree/ex31-ans)  | [leetcode-1748](../../tree/leetcode-1748) <br> [leetcode-535](https://leetcode.com/problems/encode-and-decode-tinyurl/)  <br>[leetcode-1941](../../tree/leetcode-1941) <br> [leetcode-136](https://leetcode.com/problems/single-number/) | | [blog1](https://stackoverflow.com/questions/99297/how-are-virtual-functions-and-vtable-implemented) [blog2](https://isocpp.org/wiki/faq/virtual-functions) [blog3](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/) [blog4](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) [blog5](https://www.geeksforgeeks.org/virtual-destructor/)
 NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  |  | [video](https://www.bilibili.com/video/BV1rv411T7LZ) | [blog](https://en.cppreference.com/w/cpp/container/vector)
-live code  | live-code-nested-class  | | | [blog1](https://www.geeksforgeeks.org/nested-classes-in-c/) [blog2](https://stackoverflow.com/questions/4571355/why-would-one-use-nested-classes-in-c) [blog3](https://learn.microsoft.com/en-us/cpp/cpp/nested-class-declarations?view=msvc-170)
+live code  | live-code-nested-class  | | | [blog1](https://www.geeksforgeeks.org/nested-classes-in-c/) [blog3](https://learn.microsoft.com/en-us/cpp/cpp/nested-class-declarations?view=msvc-170)
 NAN | [ex32-q2-ans](../../tree/ex32-q2-ans)  | | | [blog1](https://www.bogotobogo.com/DesignPatterns/factorymethod.php) [blog2](https://refactoring.guru/design-patterns/factory-method/cpp/example)
 NAN | [ex33-ans](../../tree/ex33-ans)  | |  | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
 NAN | [ex35-q1-ans](../../tree/ex35-q1-ans) <br> [ex35-q1-extended](../../tree/ex35-q1-extended) | | [video](https://www.bilibili.com/video/BV17q4y1V7F3/)  | [blog](https://refactoring.guru/design-patterns/template-method/cpp/example)
@@ -188,7 +188,9 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
         - [live-code-STL-containers-v1](../../tree/live-code-STL-containers-v1) 
         - [live-code-STL-containers-v2](../../tree/live-code-STL-containers-v2) 
         - [live-code-STL-containers-v3](../../tree/live-code-STL-containers-v3) 
-    - TODO: start with leetcode. Then Ex75. nested class? Vector of Ex38? Dict?
+    - TODO: start with leetcode. Then Ex75. Vector of Ex38? Dict?
+    - Template: 
+        - I showcase only with ```char``` and ```int```. It's up to you to make it a  template class.
     - Video:
     - Blogs:
         - [blog1](https://isocpp.org/wiki/faq/strange-inheritance) [blog2](https://cplusplus.com/reference/map/map/)  [blog3](https://www.cse.msu.edu/~cse232/us22/slides/cse232_associative_containers.pdf) [blog4](https://www.ida.liu.se/~TDDD38/lecture/slides/stl_II.pdf) [blog5](https://cplusplus.com/reference/set/set/) [blog6](https://en.cppreference.com/w/cpp/container/map/insert) [blog7](https://stackoverflow.com/questions/966905/stuck-on-c-template-deriving-from-stdmap) [blog8](https://stackoverflow.com/questions/6806173/subclass-inherit-standard-containers/7110262#7110262) [blog9](https://stackoverflow.com/questions/4353203/thou-shalt-not-inherit-from-stdvector)
