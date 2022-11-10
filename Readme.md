@@ -243,7 +243,7 @@ Be innovative. You can do even better.
 > By default, you agree to share your project report on this platform. If you disagree, tell me in private chat. 
 
 #### If you want some suggestions for your project ...
-- Whenever possible, use ```std::vector``` (or other STL containers) instead of builtin arrays.
+- Whenever possible, use ```std::vector``` (or other STL containers) instead of built-in arrays.
 - Pay attention to code readability. Profs read every code file when grading.
 - GUI (Graphic User Interface) is not essential. It might help give a good first impression.
 - Use as many *Design Patterns* as possible, but only when appropriate.
