@@ -169,7 +169,7 @@ For mid-term exam revision,  [Ex23_Ex24_solution.pdf](../../tree/master/pdf/Ex23
 
 *Note: I make those videos so as to help you revise more targetedly. It represents significant extra work (for free) on my side.*
 
-For final exam revision, [LO02_poly_exercices](../../tree/master/pdf/LO02_poly_exercices.pdf) is your best friend, and practicing STL containers with leetcode will help a lot.
+For final exam revision, [LO02_poly_exercices](../../tree/master/pdf/LO02_poly_exercices.pdf) is your best friend, and practicing STL containers with above-listed leetcode will help a lot.
 
 - **Final exam revision #1 - Ex75 (poly exercise)**
     - Branches:
