@@ -276,7 +276,7 @@ Some further clarifications on mid-term/final exam:
 
 ## Asking Questions
 
-<details open>
+<details closed>
 
 #### 使用 **[Gitee Issue](https://gitee.com/lundechen/cpp/issues)** 提问
 By default, you should ask questions via **[Gitee Issue](https://gitee.com/lundechen/cpp/issues)**. Here is how:
