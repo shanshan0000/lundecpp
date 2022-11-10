@@ -188,7 +188,7 @@ For final exam revision, [LO02_poly_exercices](../../tree/master/pdf/LO02_poly_e
         - [live-code-STL-containers-v1](../../tree/live-code-STL-containers-v1) 
         - [live-code-STL-containers-v2](../../tree/live-code-STL-containers-v2) 
         - [live-code-STL-containers-v3](../../tree/live-code-STL-containers-v3) 
-    - TODO: start with leetcode. nested class? Vector of Ex38?
+    - TODO: start with leetcode. Then ex75. nested class? Vector of Ex38?
     - Video:
     - Blogs:
         - [blog1](https://isocpp.org/wiki/faq/strange-inheritance) [blog2](https://cplusplus.com/reference/map/map/)  [blog3](https://www.cse.msu.edu/~cse232/us22/slides/cse232_associative_containers.pdf) [blog4](https://www.ida.liu.se/~TDDD38/lecture/slides/stl_II.pdf) [blog5](https://cplusplus.com/reference/set/set/) [blog6](https://en.cppreference.com/w/cpp/container/map/insert) [blog7](https://stackoverflow.com/questions/966905/stuck-on-c-template-deriving-from-stdmap) [blog8](https://stackoverflow.com/questions/6806173/subclass-inherit-standard-containers/7110262#7110262) [blog9](https://stackoverflow.com/questions/4353203/thou-shalt-not-inherit-from-stdvector)
