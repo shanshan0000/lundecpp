@@ -98,7 +98,7 @@ Exercise | Solution  | Leetcode  | Video  | Reading Materials
 [ex17](../../tree/ex17) | [ex17-ans](../../tree/ex17-ans)  | [leetcode-412](https://leetcode.com/problems/fizz-buzz/)  |  |
 [ex18](../../tree/ex18) | [ex18-ans](../../tree/ex18-ans)  | | |
 [ex19](../../tree/ex19) | [ex19-ans](../../tree/ex19-ans)  | | |
-[ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  |  | [video1](https://www.bilibili.com/video/bv1q64y187Ah) [video2](https://www.bilibili.com/video/BV1UD4y1i7Cu/) | [blog](https://www.w3schools.com/cpp/cpp_oop.asp)
+[ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1q64y187Ah)  | [blog](https://www.w3schools.com/cpp/cpp_oop.asp)
 [ex20-q2](../../tree/ex20-q2)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | | | [blog1](https://stackoverflow.com/questions/9370493/inline-function-members-inside-a-class) [blog2](https://stackoverflow.com/questions/5306532/accessing-attributes-in-c-through-getters-setters) [blog3](https://www.positioniseverything.net/cpp-getters-and-setters/)
 NAN  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1) <br> [ex20-q3-ans-2](../../tree/ex20-q3-ans-2) <br> [ex20-q3-ans-3](../../tree/ex20-q3-ans-3) <br> [ex20-q3-ans-4](../../tree/ex20-q3-ans-4) <br> [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | | |
 [ex20-q4](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
@@ -185,13 +185,15 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
     - Main idea 2: An ```std::map``` inside of a ```std::map```, for counting numbers, and iterate through the ```std::map``` by number of occurance, instead of by order of value. 
     - Main idea 3: An ```std::set``` inside of a ```std::vector``` and iterate through the ```std::vector``` by order of value. When printing, the number of occurence will also be printed, emulating hence a *Counter* in Python.
     - Branches:
-        - [live-code-STL-containers-v1](../../tree/live-code-STL-containers-v1) 
-        - [live-code-STL-containers-v2](../../tree/live-code-STL-containers-v2) 
-        - [live-code-STL-containers-v3](../../tree/live-code-STL-containers-v3) 
-    - TODO: start with leetcode. Then Ex75. Vector of Ex38? Dict?
+        - [live-code-containers-v1](../../tree/live-code-containers-v1) 
+        - [live-code-containers-v2](../../tree/live-code-containers-v2) 
+        - [live-code-containers-v3](../../tree/live-code-containers-v3) 
+        - [live-code-containers-v4](../../tree/live-code-containers-v4) 
+        - [live-code-containers-v5](../../tree/live-code-containers-v5) 
+    - Video:
+        - https://www.bilibili.com/video/BV1UD4y1i7Cu/
     - Template: 
         - I showcase only with ```char``` and ```int```. It's up to you to make it a  template class.
-    - Video:
     - Blogs:
         - [blog1](https://isocpp.org/wiki/faq/strange-inheritance) [blog2](https://cplusplus.com/reference/map/map/)  [blog3](https://www.cse.msu.edu/~cse232/us22/slides/cse232_associative_containers.pdf) [blog4](https://www.ida.liu.se/~TDDD38/lecture/slides/stl_II.pdf) [blog5](https://cplusplus.com/reference/set/set/) [blog6](https://en.cppreference.com/w/cpp/container/map/insert) [blog7](https://stackoverflow.com/questions/966905/stuck-on-c-template-deriving-from-stdmap) [blog8](https://stackoverflow.com/questions/6806173/subclass-inherit-standard-containers/7110262#7110262) [blog9](https://stackoverflow.com/questions/4353203/thou-shalt-not-inherit-from-stdvector)
 
