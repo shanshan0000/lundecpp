@@ -193,6 +193,24 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
     - Blogs:
         - [blog1](https://isocpp.org/wiki/faq/strange-inheritance) [blog2](https://cplusplus.com/reference/map/map/)  [blog3](https://www.cse.msu.edu/~cse232/us22/slides/cse232_associative_containers.pdf) [blog4](https://www.ida.liu.se/~TDDD38/lecture/slides/stl_II.pdf) [blog5](https://cplusplus.com/reference/set/set/) [blog6](https://en.cppreference.com/w/cpp/container/map/insert) [blog7](https://stackoverflow.com/questions/966905/stuck-on-c-template-deriving-from-stdmap) [blog8](https://stackoverflow.com/questions/6806173/subclass-inherit-standard-containers/7110262#7110262) [blog9](https://stackoverflow.com/questions/4353203/thou-shalt-not-inherit-from-stdvector)
 
+- **Final exam revision #3 - in depth - dig deeper into Ex32 Ex33**
+    - Video:
+        - TODO
+
+    - Branches:
+        - [in-depth-ex32](../../tree/in-depth-ex32)
+        - [in-depth-ex33](../../tree/in-depth-ex33)
+
+
+- **Final exam revision #4 - Ex76 (poly exercise)**
+    - Branches:
+        - [ex76-ans](../../tree/ex76-ans) 
+    - Video:
+        - TODO
+
+
+
+
 </details>
 
 ## Project
