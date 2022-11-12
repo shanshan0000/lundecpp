@@ -95,7 +95,7 @@ Three forms of exercises are prepared by Lunde Chen :
 
 - Exercises marked with :white_check_mark: : <br> Test Driven.
 
-- Exercises marked with :airplane: is : <br> Fill in the ____.
+- Exercises marked with :airplane:  : <br> Fill in the ____.
 
 - Exercises marked with :rainbow: : <br> Some Base Code, Students Free To Do Exercise By Themselves.
 
