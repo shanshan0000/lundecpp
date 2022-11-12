@@ -174,7 +174,6 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
         - [ex75-ans-v1](../../tree/ex75-ans-v1) 
         - [ex75-ans-v2](../../tree/ex75-ans-v2)  
         - [ex75-ans-v3](../../tree/ex75-ans-v3) 
-        - [ex76-ans](../../tree/ex76-ans) 
     - Video:
         - https://www.bilibili.com/video/BV1Y14y1p7mP/
 
