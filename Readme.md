@@ -202,6 +202,25 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
         - [in-depth-iterator](../../tree/in-depth-iterator)
 
 - **Final exam revision #4 - in depth - dig deeper into ```dynamic_cast```**
+    - Code
+    ```cpp
+    struct A {
+        virtual void fa() {}
+    };
+
+    struct B {
+        virtual void fb() {}
+    };
+
+    int main() {
+        A *pa = new B;
+        pa->fa();
+
+        B * pb = dynamic_cast<B *>(pa);
+        if (pb)
+            pb->fb();
+    }
+    ```
     - Main topic: ```dynamic_cast```
     - Video:
         - TODO
