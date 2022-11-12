@@ -377,8 +377,9 @@ Pour des questions privées, merci d'envoyer vos questions par mail à ces adres
 - lundechen@shu.edu.cn (Lunde Chen)
 - antoine.jouglet@hds.utc.fr (Antoine Jouglet)
 
+#### Office visit
 
-
+Office visit is NOT welcome unless you make an appointment at least one day in advance.
 
 </details>
 
@@ -639,9 +640,11 @@ If you are stuck with your CLion configuration during TP sessions, you could wri
 - https://www.onlinegdb.com/online_c_compiler
 - https://www.online-cpp.com/online_c++_editor
 
-#### Office visit
 
-Office visit is NOT welcome unless you make an appointment at least one day in advance.
+
+#### Cpp test with CLion
+
+TODO.
 
 
 #### How to push your code to GitHub
