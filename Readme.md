@@ -5,6 +5,10 @@
 
 *最新通知会出现在这儿。每次上课前请查看。*
 
+- [New] 线上考试的同学登记一下: <br> https://docs.qq.com/doc/DT1VoYndvV0phZEha
+
+
+
 - [New] 项目截止日期：11月25日23点59。
 
 ## Lectures (Cours  Magistraux)
