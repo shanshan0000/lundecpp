@@ -422,6 +422,11 @@ Suggestions from students who got an A or B:
 
 > If you got an A or B and want to share your experience, you can write it down and send it to me via private chat.
 
+#### Books
+
+See this branch:
+- [books](../../tree/books)
+
 #### Bilibili Videos
 
 
