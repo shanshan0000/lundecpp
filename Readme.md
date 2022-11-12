@@ -208,7 +208,7 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
         - TODO
 
     - Branches:
-        - [in-depth-ex33](../../tree/in-depth-dynamic_cast)
+        - [in-depth-dynamic_cast](../../tree/in-depth-dynamic_cast)
 
     - Reading materials:
         - https://learn.microsoft.com/en-us/cpp/cpp/dynamic-cast-operator?view=msvc-170
