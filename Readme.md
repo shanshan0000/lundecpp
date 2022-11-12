@@ -1,13 +1,27 @@
 # LO02 C++ OOP Design Patterns
 
 
+
+## Online Final Exam
+
+线上考试的同学登记一下: 
+
+- https://docs.qq.com/doc/DT1VoYndvV0phZEha
+
+
+Url for online exam will appear here.
+
+在线考试的同学注意：
+
+试卷答题里面（即拍的照片里面），一定要有自己的学号姓名。
+
+1001班: 958 9491 5777
+
+1002班: 601-8612-3874
+
 ## :bell: 最新通知 - What's new
 
 *最新通知会出现在这儿。每次上课前请查看。*
-
-- [New] 线上考试的同学登记一下: <br> https://docs.qq.com/doc/DT1VoYndvV0phZEha
-
-
 
 - [New] 项目截止日期：11月25日23点59。
 
@@ -758,17 +772,6 @@ A GitHub profile with a lot of Green Blocks will make your CV more attactive.
 
 For more C++/Programming related funny images, here is a branch:
 - [funny](../../tree/funny)
-
-#### Online Final Exam
-
-Url for online exam will appear here.
-
-在线考试的同学注意：
-
-试卷答题里面（即拍的照片里面），一定要有自己的学号姓名。
-
-腾讯会议： 958 9491 5777
-
 
 </details>
 
