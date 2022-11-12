@@ -91,7 +91,7 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 
 #### Table of content
 
-Three kinds of exercises are prepared by Lunde Chen :
+Three forms of exercises are prepared by Lunde Chen :
 
 - Exercises marked with :white_check_mark: : <br> Test Driven.
 
