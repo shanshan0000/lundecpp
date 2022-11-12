@@ -5,8 +5,6 @@
 
 *最新通知会出现在这儿。每次上课前请查看。*
 
-- [New] For your final revision, read this:
-    - https://learn.microsoft.com/en-us/cpp/cpp/dynamic-cast-operator?view=msvc-170
 - [New] 项目截止日期：11月25日23点59。
 
 ## Lectures (Cours  Magistraux)
