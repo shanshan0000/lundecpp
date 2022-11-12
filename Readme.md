@@ -91,6 +91,17 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 
 #### Table of content
 
+Three kinds of exercises are prepared by Lunde Chen :
+
+- Exercises marked with :white_check_mark: : <br> Test Driven.
+
+- Exercises marked with :airplane: is : <br> Fill in the ____.
+
+- Exercises marked with :rainbow: : <br> Some Base Code, Students Free To Do Exercise By Themselves.
+
+
+
+
 Exercise | Solution  | Leetcode  | Video  | Reading Materials
 ---------------- | ----------------  | ----------------| ----------------| ----------------: 
 [ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans)  | [leetcode-2235](https://leetcode.com/problems/add-two-integers/) | [video](https://www.bilibili.com/video/BV1124y1o71P/)|
@@ -101,8 +112,8 @@ Exercise | Solution  | Leetcode  | Video  | Reading Materials
 [ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) |  | | [blog1](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/) [blog2](https://stackoverflow.com/questions/23345554/what-distinguishes-the-declaration-the-definition-and-the-initialization-of-a-v)
 [ex7](../../tree/ex7)                   | [ex7-ans](../../tree/ex7-ans) | [leetcode-1929](https://leetcode.com/problems/concatenation-of-array/) | [video](https://www.bilibili.com/video/BV1uV4y1g7F4/)  | [blog](https://www.w3schools.com/CPP/cpp_variables_constants.asp)
 [ex8](../../tree/ex8)                   | [ex8-ans-1](../../tree/ex8-ans-1) <br> [ex8-ans-2](../../tree/ex8-ans-2) | | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-170)
-[ex9 :sparkles:](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1) <br> [ex9-ans-2](../../tree/ex9-ans-2) <br> [ex9-ans-extended](../../tree/ex9-ans-extended)  | | | [blog1](https://www.ascii-code.com/) [blog2](https://www.programiz.com/cpp-programming/function-overloading)  [blog3](https://www.quora.com/How-did-one-come-up-with-42-being-the-answer-to-the-universe-or-is-it-a-hoax) [blog4](https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline) [blog5](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
-[ex10 :sparkles:](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) | [blog1](https://www.learncpp.com/cpp-tutorial/pointers-and-const/) [blog2](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
+[ex9 :white_check_mark:](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1) <br> [ex9-ans-2](../../tree/ex9-ans-2) <br> [ex9-ans-extended](../../tree/ex9-ans-extended)  | | | [blog1](https://www.ascii-code.com/) [blog2](https://www.programiz.com/cpp-programming/function-overloading)  [blog3](https://www.quora.com/How-did-one-come-up-with-42-being-the-answer-to-the-universe-or-is-it-a-hoax) [blog4](https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline) [blog5](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
+[ex10 :white_check_mark:](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) | [blog1](https://www.learncpp.com/cpp-tutorial/pointers-and-const/) [blog2](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
 [ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | [leetcode-709](https://leetcode.com/problems/to-lower-case/) | | [blog1](https://stackoverflow.com/questions/61915474/difference-between-const-reference-and-reference) [blog2](https://www.geeksforgeeks.org/const_cast-in-c-type-casting-operators/)
 [ex12](../../tree/ex12) | [ex12-ans](../../tree/ex12-ans)  | [leetcode-344](../../tree/leetcode-344) |  | [blog1](https://www.tutorialspoint.com/differences-between-pass-by-value-and-pass-by-reference-in-cplusplus) [blog2](https://www.geeksforgeeks.org/how-to-print-size-of-an-array-in-a-function-in-c/) [blog3](https://stackoverflow.com/questions/2276329/why-can-one-specify-the-size-of-an-array-in-a-function-parameter) [blog4](https://stackoverflow.com/questions/3062005/size-of-array-passed-to-c-function) [blog5](https://www.quora.com/How-does-C-check-an-arrays-size-when-passing-by-reference)
 [ex13](../../tree/ex13) | [ex13-ans](../../tree/ex13-ans)  | | [video](https://www.bilibili.com/video/BV1cf4y1E77w/) | [blog](https://www.codingninjas.com/blog/2020/07/27/understanding-pointers-references-in-c/) 
@@ -115,7 +126,7 @@ Exercise | Solution  | Leetcode  | Video  | Reading Materials
 [ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1q64y187Ah)  | [blog](https://www.w3schools.com/cpp/cpp_oop.asp)
 [ex20-q2](../../tree/ex20-q2)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | | | [blog1](https://stackoverflow.com/questions/9370493/inline-function-members-inside-a-class) [blog2](https://stackoverflow.com/questions/5306532/accessing-attributes-in-c-through-getters-setters) [blog3](https://www.positioniseverything.net/cpp-getters-and-setters/)
 NAN  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1) <br> [ex20-q3-ans-2](../../tree/ex20-q3-ans-2) <br> [ex20-q3-ans-3](../../tree/ex20-q3-ans-3) <br> [ex20-q3-ans-4](../../tree/ex20-q3-ans-4) <br> [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | | |
-[ex20-q4 :sparkles:](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
+[ex20-q4 :white_check_mark:](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
 NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1) <br>[ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | | | [blog](https://www.haroldserrano.com/blog/c-tip-14-dont-return-a-reference-when-you-must-return-an-object)
 [ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  |  | | [blog1](https://www.javatpoint.com/cpp-destructor) [blog2](https://www.geeksforgeeks.org/this-pointer-in-c/) [blog3](https://www.quora.com/When-destructor-invoked-what-is-the-difference-between-the-pointer-to-an-object-and-the-object) [blog4](https://stackoverflow.com/questions/9965977/pointer-to-object-and-its-destructor)
 NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | | | [blog1](https://drawio-app.com/uml-class-diagrams-in-draw-io/) [blog2](https://www.diagrams.net/blog/uml-class-diagrams) [blog3](https://www.javatpoint.com/uml-class-diagram) [blog4](https://www.uml-diagrams.org/class-reference.html)
@@ -686,7 +697,6 @@ Cpp test with CLion
 
 TODO.
 
-Exercises marked with :sparkles: is Test Driven.
 
 If you are interested in making LO01 and LO02 exercised test driven, please contact me.
 
