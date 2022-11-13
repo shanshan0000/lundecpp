@@ -87,7 +87,7 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 
 
 #### List of all videos
-- https://space.bilibili.com/472463946/channel/seriesdetail?sid=2086469
+- [中文] https://space.bilibili.com/472463946/channel/seriesdetail?sid=2086469
 
 #### Table of content
 
@@ -773,6 +773,8 @@ However, if you aspire to be a programmer, it might be worth it to build your Gi
 A GitHub profile with a lot of Green Blocks will make your CV more attactive.
 
 #### xkcd
+
+> Life is short. Let's code in C++, to make it even shorter.
 
 - [Pointers](https://www.explainxkcd.com/wiki/index.php/138:_Pointers)
 - [Real Programmers](https://xkcd.com/378/)
