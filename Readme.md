@@ -95,9 +95,9 @@ Three forms of exercises are prepared :
 
 - Exercises marked with :white_check_mark: : <br> Test Driven.
 
-- Exercises marked with :airplane:  : <br> Fill in the ____.
+- Exercises marked with :heavy_minus_sign:  : <br> Fill in the ____.
 
-- Exercises marked with :rainbow: : <br> Some Base Code, Students Free To Do Exercise By Themselves.
+- Exercises marked with :question: : <br> Some Base Code, Students Free To Do Exercise By Themselves.
 
 
 
