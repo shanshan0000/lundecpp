@@ -11,6 +11,8 @@
 
 Url for online exam will appear here.
 
+- http://116.205.139.7:8978/
+
 在线考试的同学注意：
 
 试卷答题里面（即拍的照片里面），一定要有自己的学号姓名。
