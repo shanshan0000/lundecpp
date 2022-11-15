@@ -217,7 +217,7 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
         virtual void fa() {}
     };
 
-    struct B {
+    struct B : public A {
         virtual void fb() {}
     };
 
