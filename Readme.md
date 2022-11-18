@@ -2,13 +2,13 @@
 
 
 
-## :bell: 最新通知 - What's new
+##  最新通知 - What's new :bell:
 
 *最新通知会出现在这儿。每次上课前请查看。*
 
 - [New] 项目截止日期：11月25日23点59。
 
-## Lectures (Cours  Magistraux)
+## Lectures (Cours  Magistraux) :orange_book:
 
 <details>
 
@@ -33,7 +33,7 @@ Participer à la réunion Zoom
 
 
 
-## Travaux Dirigés (TD)
+## Travaux Dirigés (TD)  :computer:
 
 <details>
 
@@ -54,7 +54,7 @@ Windows 10
 
 </details>
 
-## Teaching Assistant
+## Teaching Assistant :purple_heart:
 
 <details>
 
@@ -63,7 +63,7 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 </details>
 
 
-## Exercises & Solutions:
+## Exercises & Solutions :mag:
 
 <details open>
 
@@ -75,16 +75,20 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 
 Three forms of exercises are prepared :
 
-- Exercises marked with :white_check_mark: : <br> Test Driven.
+- Exercises marked with :white_check_mark: : <br> Test Driven Development Test cases are privided and you are supposed to pass the test locally on CLion and on GitHub Action as well. 
+    - Video on the how to:
+        - TODO.
 
 - Exercises marked with :o:  : <br> Fill in the ____.
+    - Video on the how to:
+        - TODO.
 
-- Exercises marked with :question: : <br> Some Base Code, Students Free To Do Exercise By Themselves.
+- Exercises marked with :free: : <br> Some Base Code, Students Free To Do Exercise By Themselves.
 
 
 
 
-Exercise | Solution  | Leetcode  | Video  | Reading Materials
+Exercise :lock: | Solution :key: | Leetcode :gem:  | Video :cinema:  | Reading Materials :rocket:
 ---------------- | ----------------  | ----------------| ----------------| ----------------: 
 [ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans)  | [leetcode-2235](https://leetcode.com/problems/add-two-integers/) | [video](https://www.bilibili.com/video/BV1124y1o71P/)|
 [ex2](../../tree/ex2) | [ex2-ans](../../tree/ex2-ans) | | |
@@ -156,7 +160,7 @@ NAN | [ex40-ans](../../tree/ex40-ans)  | [leetcode-2215](https://leetcode.com/pr
 
 </details>
 
-## Exam Revision
+## Exam Revision  :gift:
 
 
 <details open>
@@ -171,7 +175,7 @@ For mid-term exam revision,  [Ex23_Ex24_solution.pdf](../../tree/master/pdf/Ex23
     - Video:
         - https://www.bilibili.com/video/BV1dP411J7k2/
 
-#### Final exam revision
+#### Final exam revision 
 
 *Note: I make those videos so as to help you revise more targetedly. It represents significant extra work (for free) on my side.*
 
@@ -207,7 +211,7 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
         - TODO
 
     - Branches:
-        - [in-depth-iterator](../../tree/in-depth-iterator)
+        - [in-depth-iterator](../../tree/in-depth-iterator) TODO
 
 - **Final exam revision #4 - in depth - dig deeper into ```dynamic_cast```**
     - Code
@@ -234,7 +238,7 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
         - TODO
 
     - Branches:
-        - [in-depth-dynamic_cast](../../tree/in-depth-dynamic_cast)
+        - [in-depth-dynamic_cast](../../tree/in-depth-dynamic_cast) TODO
 
     - Reading materials:
         - https://learn.microsoft.com/en-us/cpp/cpp/dynamic-cast-operator?view=msvc-170
@@ -250,13 +254,13 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
 
 </details>
 
-## Project
+## Project :hammer:
 
 <details>
 
 
 
-#### Project
+#### Project 
 
 Dans le cadre de cet UV, vous travaillerez par groupe sur un projet C++ en rapport avec le contenu de votre cours et des TDs.
 - Chaque groupe sera formé de 4 à 5 étudiants.
@@ -341,7 +345,7 @@ Online version:
 </details>
 
 
-## Notes & Exams:
+## Notes & Exams  :100:
 
 
 <details>
@@ -366,7 +370,7 @@ Some further clarifications on mid-term/final exam:
 1. 法方老师反馈，考试的时候卷面分占有一定比值(10%)。请大家答题时保持清晰、整洁。可以适当使用涂改液或者修正带(在不影响扫描的前提下)。
 </details>
 
-## Asking Questions
+## Asking Questions :question:
 
 <details closed>
 
@@ -410,7 +414,7 @@ Office visit is NOT welcome unless you make an appointment at least one day in a
 </details>
 
 
-## Misc
+## Misc :rainbow:
 
 <details>
 
@@ -794,7 +798,7 @@ Url for online exam will appear here.
 
 </details>
 
-## Conclusion
+## Conclusion :sparkling_heart:
 <details>
 
 If you like this course and want to thank me personally, please go to <br> https://github.com/open-academy/machine-learning <br> and give it a star. Thank you!
