@@ -63,7 +63,6 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 </details>
 
 
-
 ## Exercises & Solutions:
 
 <details open>
@@ -78,7 +77,7 @@ Three forms of exercises are prepared :
 
 - Exercises marked with :white_check_mark: : <br> Test Driven.
 
-- Exercises marked with :heavy_minus_sign:  : <br> Fill in the ____.
+- Exercises marked with :o:  : <br> Fill in the ____.
 
 - Exercises marked with :question: : <br> Some Base Code, Students Free To Do Exercise By Themselves.
 
@@ -109,7 +108,7 @@ Exercise | Solution  | Leetcode  | Video  | Reading Materials
 [ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1q64y187Ah)  | [blog](https://www.w3schools.com/cpp/cpp_oop.asp)
 [ex20-q2](../../tree/ex20-q2)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | | | [blog1](https://stackoverflow.com/questions/9370493/inline-function-members-inside-a-class) [blog2](https://stackoverflow.com/questions/5306532/accessing-attributes-in-c-through-getters-setters) [blog3](https://www.positioniseverything.net/cpp-getters-and-setters/)
 NAN  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1) <br> [ex20-q3-ans-2](../../tree/ex20-q3-ans-2) <br> [ex20-q3-ans-3](../../tree/ex20-q3-ans-3) <br> [ex20-q3-ans-4](../../tree/ex20-q3-ans-4) <br> [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | | |
-[ex20-q4 :heavy_minus_sign:](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
+[ex20-q4 :o:](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
 NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1) <br>[ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | | | [blog](https://www.haroldserrano.com/blog/c-tip-14-dont-return-a-reference-when-you-must-return-an-object)
 [ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  |  | | [blog1](https://www.javatpoint.com/cpp-destructor) [blog2](https://www.geeksforgeeks.org/this-pointer-in-c/) [blog3](https://www.quora.com/When-destructor-invoked-what-is-the-difference-between-the-pointer-to-an-object-and-the-object) [blog4](https://stackoverflow.com/questions/9965977/pointer-to-object-and-its-destructor)
 NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | | | [blog1](https://drawio-app.com/uml-class-diagrams-in-draw-io/) [blog2](https://www.diagrams.net/blog/uml-class-diagrams) [blog3](https://www.javatpoint.com/uml-class-diagram) [blog4](https://www.uml-diagrams.org/class-reference.html)
