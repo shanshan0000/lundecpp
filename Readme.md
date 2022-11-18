@@ -88,7 +88,7 @@ Three forms of exercises are prepared :
 
 
 
-Exercise :lock: | Solution :key: | Leetcode :gem:  | Video :cinema:  | Reading Materials :rocket:
+Exercise :lock: | Solution :key: | Leetcode :gem:  | Video :cinema:  | Reading <br> Materials :rocket:
 ---------------- | ----------------  | ----------------| ----------------| ----------------: 
 [ex1](../../tree/ex1) | [ex1-ans](../../tree/ex1-ans)  | [leetcode-2235](https://leetcode.com/problems/add-two-integers/) | [video](https://www.bilibili.com/video/BV1124y1o71P/)|
 [ex2](../../tree/ex2) | [ex2-ans](../../tree/ex2-ans) | | |
