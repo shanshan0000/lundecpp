@@ -649,6 +649,11 @@ int main() {
 valgrind --tool=memcheck <your_app> <your_apps_params>
 ```
 
+Valgrind can be used directly in CLion:
+
+![](img/valgrind.png)
+
+
 #### g++ v.s. CMake v.s. makefile [optional]
 
 ```gcc``` is used to compile C program while ```g++``` is used to compile C++ program.
