@@ -87,7 +87,7 @@ Three forms of exercises are prepared :
     - Video on the how to:
         - TODO.
 
-- Exercises marked with :free: : <br> Some Base Code, Students Free To Do Exercise By Themselves.
+- Exercises marked with :free: : <br> Some Starter Code, Students Free To Do Exercise By Themselves.
 
 
 
