@@ -298,6 +298,10 @@ Be innovative. You can do even better.
 - https://www.bilibili.com/video/BV1x341187wn
 - https://www.bilibili.com/video/BV1bL4y1v7FY
 
+##### 2022 Fall
+- https://www.bilibili.com/video/BV1UR4y1o7xH/
+
+
 #### 往届学生优秀 project 作品 (rapport pdf)
 - [往届学生优秀 project 作品 (rapport pdf)](../../tree/master/往届学生优秀作品)
 
