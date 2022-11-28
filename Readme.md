@@ -299,8 +299,8 @@ Be innovative. You can do even better.
 - https://www.bilibili.com/video/BV1bL4y1v7FY
 
 ##### 2022 Fall
-- https://www.bilibili.com/video/BV1UR4y1o7xH/
-- https://www.bilibili.com/video/BV1Eg411i73Y/
+- https://www.bilibili.com/video/BV1UR4y1o7xH
+- https://www.bilibili.com/video/BV1Eg411i73Y
 - https://www.bilibili.com/video/BV1y24y1C7LG
 - https://www.bilibili.com/video/BV1rG4y1973U
 
