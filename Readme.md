@@ -87,7 +87,7 @@ Three forms of exercises are prepared :
     - Video on the how to:
         - TODO.
 
-- Exercises marked with :free: : <br> Some Base Code, Students Free To Do Exercise By Themselves.
+- Exercises marked with :free: : <br> Some Starter Code, Students Free To Do Exercise By Themselves.
 
 
 
@@ -649,6 +649,11 @@ int main() {
 ```
 valgrind --tool=memcheck <your_app> <your_apps_params>
 ```
+
+Valgrind can be used directly in CLion:
+
+![](img/valgrind.png)
+
 
 #### g++ v.s. CMake v.s. makefile [optional]
 
