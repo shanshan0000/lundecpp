@@ -306,6 +306,7 @@ Be innovative. You can do even better.
 #### If you want some suggestions for your project ...
 - Whenever possible, use ```std::vector``` (or other STL containers) instead of built-in arrays.
 - Pay attention to code readability. Profs read every code file when grading.
+- There should be more than 5 (or, 10) header files in your project. If your program has only 1 header file, it can easily get very messy.
 - GUI (Graphic User Interface) is not essential. It might help give a good first impression.
 - Use as many *Design Patterns* as possible, but only when appropriate.
 
