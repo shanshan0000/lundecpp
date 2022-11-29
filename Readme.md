@@ -387,9 +387,9 @@ Some further clarifications on mid-term/final exam:
 
 Despite the efforts from the prof side, the failing rate of LO02 has been very high.
 
-- 2020： ~25%
-- 2021： ~30%
-- 2022： ~30%
+- 2020： ~25% failing rate
+- 2021： ~30% failing rate
+- 2022： ~30% failing rate
 
 
 
