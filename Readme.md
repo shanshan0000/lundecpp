@@ -383,6 +383,16 @@ Some further clarifications on mid-term/final exam:
 1. 法方老师反馈，考试的时候卷面分占有一定比值(10%)。请大家答题时保持清晰、整洁。可以适当使用涂改液或者修正带(在不影响扫描的前提下)。
 </details>
 
+#### 挂科率
+
+Despite the efforts from the prof side, the failing rate of LO02 has been very high.
+
+- 2020： ~25%
+- 2021： ~30%
+- 2022： ~30%
+
+
+
 ## Asking Questions :question:
 
 <details closed>
