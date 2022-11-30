@@ -463,7 +463,7 @@ Office visit is NOT welcome unless you make an appointment at least one day in a
 Suggestions from students who got an A or B: 
 - [往届学生的学习方法总结](../../tree/master/往届学生的学习方法总结)
 
-> If you got an A or B and want to share your experience, you can write it down and send it to me via private chat.
+> If you got an A or B and want to share your experience, you can write it down and send it to me via private chat, or just email to `lundechen@shu.edu.cn`.
 
 #### Books
 
