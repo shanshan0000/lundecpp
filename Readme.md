@@ -308,12 +308,12 @@ Be innovative. You can do even better.
 - https://www.bilibili.com/video/BV1rG4y1973U
 - https://www.bilibili.com/video/BV1Dd4y1x7Df
 
-> By default, you agree to share your project video on this platform. If you disagree, tell me in private chat. 
+> By default, you agree to share your project videos on this platform. If you disagree, tell me in private chat. 
 
 #### 往届学生优秀 project 作品 (rapport pdf)
 - [往届学生优秀 project 作品 (rapport pdf)](../../tree/master/往届学生优秀作品)
 
-> By default, you agree to share your project report on this platform. If you disagree, tell me in private chat. 
+> By default, you agree to share your project reports on this platform. If you disagree, tell me in private chat. 
 
 #### If you want some suggestions for your project ...
 - Whenever possible, use ```std::vector``` (or other STL containers) instead of built-in arrays.
