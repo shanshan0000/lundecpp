@@ -402,7 +402,7 @@ Despite the efforts from the prof side, historically, the failing rate of LO02 h
 
 ![](img/xuefen.jpg)
 
-具体细节不详，可以咨询教务处。I can tell you nothing about that, because I know nothing about it.
+具体细节不详，可信度不详，如有需要，可以咨询教务处。I can tell you nothing about that, because I know nothing about it.
 
 </details>
 
