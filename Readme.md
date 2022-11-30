@@ -290,7 +290,7 @@ https://docs.qq.com/doc/DT1R1RFdJdFRSUHVw
 
 #### 往届学生优秀 project 作品 (videos)
 
-You could get some inspirations from those projects, realized by students from past promotions. 
+You could get some inspirations from those projects, accomplished by students from past promotions. 
 
 Be innovative. You can do even better.
 
@@ -303,6 +303,7 @@ Be innovative. You can do even better.
 - https://www.bilibili.com/video/BV1Eg411i73Y
 - https://www.bilibili.com/video/BV1y24y1C7LG
 - https://www.bilibili.com/video/BV1rG4y1973U
+- https://www.bilibili.com/video/BV1Dd4y1x7Df
 
 
 
