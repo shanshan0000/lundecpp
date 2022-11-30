@@ -305,7 +305,7 @@ Be innovative. You can do even better.
 - https://www.bilibili.com/video/BV1rG4y1973U
 - https://www.bilibili.com/video/BV1Dd4y1x7Df
 
-
+> By default, you agree to share your project video on this platform. If you disagree, tell me in private chat. 
 
 #### 往届学生优秀 project 作品 (rapport pdf)
 - [往届学生优秀 project 作品 (rapport pdf)](../../tree/master/往届学生优秀作品)
