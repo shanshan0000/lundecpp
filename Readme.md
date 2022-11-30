@@ -170,7 +170,7 @@ NAN | [ex40-ans](../../tree/ex40-ans)  | [leetcode-2215](https://leetcode.com/pr
 ## Exam Revision  :gift:
 
 
-<details open>
+<details closed>
 
 #### Mid-term exam revision
 
