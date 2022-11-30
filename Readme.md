@@ -385,7 +385,9 @@ Some further clarifications on mid-term/final exam:
 1. 每张答题纸最上面写上学号、中文姓名、姓名拼音。
 1. 每张答题纸最上面写上序号，比如 1/4, 2/4, 3/4, 4/4。
 1. 法方老师反馈，考试的时候卷面分占有一定比值(10%)。请大家答题时保持清晰、整洁。可以适当使用涂改液或者修正带(在不影响扫描的前提下)。
-</details>
+
+
+
 
 #### 挂科率
 
@@ -394,6 +396,10 @@ Despite the efforts from the prof side, historically, the failing rate of LO02 h
 - 2020： ~25% failing rate
 - 2021： ~30% failing rate
 - 2022： ~25% failing rate
+
+
+</details>
+
 
 
 
