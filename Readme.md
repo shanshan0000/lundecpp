@@ -639,7 +639,7 @@ Const is a honking great idea, use it everywhere you can!
 CLion can help us reformat code.
 
 #### Very Basic Markdown [optional]
-You might need to use triple backquotes (\`) to make your code
+You might need to use (triple) backquotes (\`) to make your code
 in Gitee Issue more beautifully rendered:
 
 ##### Example 1
@@ -664,6 +664,8 @@ int main() {
 ##### Example 2
 
 \`\`\`static\`\`\` will render as: ```static```.
+
+\`static\` will render as: `static` as well.
 
 
 #### Detecting memory leak with Linux tools [optional]
