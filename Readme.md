@@ -393,7 +393,7 @@ Despite the efforts from the prof side, the failing rate of LO02 has been very h
 
 - 2020： ~25% failing rate
 - 2021： ~30% failing rate
-- 2022： ~30% failing rate
+- 2022： ~25% failing rate
 
 
 
