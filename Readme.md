@@ -323,6 +323,7 @@ Be innovative. You can do even better.
 - Use as many *Design Patterns* as possible, but only when appropriate.
 
 #### 关于重修
+
 重修的同学，去年项目分数是可以保留的，也可以今年重新做，刷新分数。
 
 不过，公平起见，重修的同学的往年项目分数不会透漏。是否重做项目，大家自己把握。
@@ -397,6 +398,11 @@ Despite the efforts from the prof side, historically, the failing rate of LO02 h
 - 2021： ~30% failing rate
 - 2022： ~30% failing rate
 
+#### 学分替代
+
+![](img/xuefen.jpg)
+
+具体细节不详，可以咨询教务处。I can tell you nothing about that, because I know nothing about it.
 
 </details>
 
