@@ -389,7 +389,7 @@ Some further clarifications on mid-term/final exam:
 
 
 
-#### 挂科率
+#### Faling rate 
 
 Despite the efforts from the prof side, historically, the failing rate of LO02 has been very high.
 
