@@ -800,7 +800,7 @@ A GitHub profile with a lot of Green Blocks will make your CV more attactive.
 
 #### xkcd
 
-> Life is short. Let's code in C++, to make it even shorter.
+> Life is short. Have fun.
 
 - [Pointers](https://www.explainxkcd.com/wiki/index.php/138:_Pointers)
 - [Real Programmers](https://xkcd.com/378/)
