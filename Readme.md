@@ -663,9 +663,9 @@ int main() {
 
 ##### Example 2
 
-\`\`\`static\`\`\` will render as: ```static```.
+\`\`\`static\`\`\` will render as ```static```.
 
-\`static\` will render as: `static` as well.
+\`static\` will render as `static` as well.
 
 
 #### Detecting memory leak with Linux tools [optional]
