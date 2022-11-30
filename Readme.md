@@ -389,7 +389,7 @@ Some further clarifications on mid-term/final exam:
 
 #### 挂科率
 
-Despite the efforts from the prof side, the failing rate of LO02 has been very high.
+Despite the efforts from the prof side, historically, the failing rate of LO02 has been very high.
 
 - 2020： ~25% failing rate
 - 2021： ~30% failing rate
