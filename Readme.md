@@ -151,8 +151,6 @@ NAN  | [ex28-ans](../../tree/ex28-ans) (optional)   |   | [video](https://www.bi
 NAN | [ex31-ans](../../tree/ex31-ans)  | [leetcode-1748](../../tree/leetcode-1748) <br> [leetcode-535](https://leetcode.com/problems/encode-and-decode-tinyurl/)  <br>[leetcode-1941](../../tree/leetcode-1941) <br> [leetcode-136](https://leetcode.com/problems/single-number/) | | [blog1](https://stackoverflow.com/questions/99297/how-are-virtual-functions-and-vtable-implemented) [blog2](https://isocpp.org/wiki/faq/virtual-functions) [blog3](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/) [blog4](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors) [blog5](https://www.geeksforgeeks.org/virtual-destructor/)
 NAN | [ex32-q1-ans](../../tree/ex32-q1-ans)  |  | [video](https://www.bilibili.com/video/BV1rv411T7LZ) | [blog](https://en.cppreference.com/w/cpp/container/vector)
 TODO | [剑指Offer]()  |  |  | 
-TODO | [编程之美]()  |  |  | 
-TODO | [编程珠玑]()  |  |  | 
 live code  | [live-code-nested-class](../../tree/live-code-nested-class)  | | | [blog1](https://www.geeksforgeeks.org/nested-classes-in-c/) [blog3](https://learn.microsoft.com/en-us/cpp/cpp/nested-class-declarations?view=msvc-170)
 NAN | [ex32-q2-ans](../../tree/ex32-q2-ans)  | | | [blog1](https://www.bogotobogo.com/DesignPatterns/factorymethod.php) [blog2](https://refactoring.guru/design-patterns/factory-method/cpp/example)
 NAN | [ex33-ans](../../tree/ex33-ans)  | |  | [blog](https://stackoverflow.com/questions/500493/c-equivalent-of-javas-instanceof)
