@@ -260,7 +260,7 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
 
 ## Project :hammer:
 
-<details>
+<details open>
 
 
 
