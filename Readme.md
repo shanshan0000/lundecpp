@@ -69,7 +69,7 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 
 
 #### List of all videos
-- [中文] https://space.bilibili.com/472463946/channel/seriesdetail?sid=2086469
+- [中文] https://space.bilibili.com/472463946/channel/collectiondetail?sid=906760
 
 #### List of all branches
 - [list of all branches](../../branches)
