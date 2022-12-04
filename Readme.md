@@ -80,11 +80,11 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 Three forms of exercises are prepared :
 
 - Exercises marked with :white_check_mark: : <br> Test Driven Development Test cases are privided and you are supposed to pass the test locally on CLion and on GitHub Action as well. 
-    - Video on the how to:
+    - Video showing the how:
         - TODO.
 
 - Exercises marked with :o:  : <br> Fill in the ____.
-    - Video on the how to:
+    - Video showing the how:
         - TODO.
 
 - Exercises marked with :free: : <br> Some Starter Code, Students Free To Do Exercise By Themselves.
@@ -399,7 +399,8 @@ Despite the efforts from the prof side, historically, the failing rate of LO02 h
 
 ![](img/xuefen.jpg)
 
-具体细节不详，如有需要，可以咨询教务处。I can tell you nothing about that, because I know nothing about it.
+具体细节不详，如有需要，可以咨询教务处。
+
 
 </details>
 
