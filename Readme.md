@@ -319,11 +319,6 @@ Be innovative. You can do even better.
 - GUI (Graphic User Interface) is not essential. It might help give a good first impression.
 - Use as many *Design Patterns* as possible, but only when appropriate.
 
-#### 关于重修
-
-重修的同学，去年项目分数是可以保留的，也可以今年重新做，刷新分数。
-
-不过，公平起见，重修的同学的往年项目分数不会透漏。是否重做项目，大家自己把握。
 
 #### On academic misconduct
 Just a note to remind everyone what is OK and what is not OK in terms of talking to other students about projects.
@@ -394,6 +389,13 @@ Despite the efforts from the prof side, historically, the failing rate of LO02 h
 - 2020： ~25% failing rate
 - 2021： ~30% failing rate
 - 2022： ~30% failing rate
+
+
+#### 关于重修
+
+重修的同学，去年项目分数是可以保留的，也可以今年重新做，刷新分数。
+
+不过，公平起见，重修的同学的往年项目分数不会透漏。是否重做项目，大家自己把握。
 
 #### 学分替代
 
