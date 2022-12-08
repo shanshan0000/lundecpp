@@ -268,7 +268,7 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
 
 Dans le cadre de cet UV, vous travaillerez par groupe sur un projet C++ en rapport avec le contenu de votre cours et des TDs.
 - Chaque groupe sera formé de 4 à 5 étudiants.
-- Vous devrez rendre un livrable le ?? novembre à 23h59 au plus tard (!) sur: "Chaoxing Plateform" - Section Homework (作业).
+- Vous devrez rendre un livrable le 25 novembre à 23h59 au plus tard (!) sur: "Chaoxing Plateform" - Section Homework (作业).
 
 #### Project description:
 [:books: Project description in pdf](../../tree/master/project)
