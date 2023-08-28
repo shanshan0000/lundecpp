@@ -10,6 +10,12 @@
 
 ## Lectures (Cours  Magistraux) :orange_book:
 
+#### Time
+Each Monday, 18:00-21:40
+
+#### Classroom
+CJ207 (For both G1 and G2)
+
 #### Course videos
 
 :tv: Course videos by Prof. Antoine Jouglet are on Chaoxing Platform.
@@ -24,11 +30,11 @@
 Each Tuesday, Wednesday and Friday, 8:00 to 11:40
 
 #### Classroom: 
-8:00-9:40
-- D406
-
-10:00-11:40
+8:00-9:40 (G1)
 - D503
+
+10:00-11:40 (G2)
+- D401
 
 
 #### Tencent Meeting (VooV Meeting):
@@ -710,7 +716,7 @@ However, if you aspire to be a programmer, it might be worth it to build your Gi
 
 ![](img/contribution.png)
 
-A GitHub profile with a lot of Green Blocks will make your CV more attactive.
+A GitHub profile with a lot of Green Blocks will make your CV more attractive.
 
 #### xkcd
 
