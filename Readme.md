@@ -6,32 +6,13 @@
 
 *最新通知会出现在这儿。每次上课前请查看。*
 
-- [New] 项目截止日期：11月25日23点59。
+- [New] 请同学们安装好 CLion 和 git 环境。
 
 ## Lectures (Cours  Magistraux) :orange_book:
-
-<details>
 
 #### Course videos
 
 :tv: Course videos by Prof. Antoine Jouglet are on Chaoxing Platform.
-
-**You should watch the corresponding videos BEFORE the QA session of each Monday.**
-
-#### Online QA session
-
-Professor: Antoine Jouglet from UTC
-
-Time: each Monday 18:00-20:45
-
-Participer à la réunion Zoom 
-- https://utc-fr.zoom.us/j/87273562034?pwd=V2ttWGFyekVWYTRISnFzTm5yYlgwZz09
-- ID de réunion : 872 7356 2034 
-- Code secret : 973229
-
-</details>
-
-
 
 ## Travaux Dirigés (TD)  :computer:
 
@@ -43,7 +24,12 @@ Participer à la réunion Zoom
 Each Tuesday, Wednesday and Friday, 8:00 to 11:40
 
 #### Classroom: 
-D406
+8:00-9:40
+- D406
+
+10:00-11:40
+- D503
+
 
 #### Tencent Meeting (VooV Meeting):
 
@@ -53,15 +39,6 @@ Room ID：958 9491 5777
 Windows 10 
 
 </details>
-
-## Teaching Assistant :purple_heart:
-
-<details>
-
-Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
-
-</details>
-
 
 ## Exercises & Solutions :mag:
 
@@ -74,23 +51,7 @@ Mr. 张厚泽 is the TA for this course. Many thanks to him for helping out!
 #### List of all branches
 - [list of all branches](../../branches)
 
-
 #### Table of content
-
-Three forms of exercises are prepared :
-
-- Exercises marked with :white_check_mark: : <br> Test Driven Development Test cases are privided and you are supposed to pass the test locally on CLion and on GitHub Action as well. 
-    - Video showing the how:
-        - TODO.
-
-- Exercises marked with :o:  : <br> Fill in the ____.
-    - Video showing the how:
-        - TODO.
-
-- Exercises marked with :free: : <br> Some Starter Code, Students Free To Do Exercise By Themselves.
-
-
-
 
 Exercise :lock: | Solution :key: | Leetcode :gem:  | Video :cinema:  | Reading <br> Materials :rocket:
 ---------------- | ----------------  | ----------------| ----------------| ----------------: 
@@ -102,8 +63,8 @@ Exercise :lock: | Solution :key: | Leetcode :gem:  | Video :cinema:  | Reading <
 [ex6](../../tree/ex6) | [ex6-ans](../../tree/ex6-ans) |  | | [blog1](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/) [blog2](https://stackoverflow.com/questions/23345554/what-distinguishes-the-declaration-the-definition-and-the-initialization-of-a-v)
 [ex7](../../tree/ex7)                   | [ex7-ans](../../tree/ex7-ans) | [leetcode-1929](https://leetcode.com/problems/concatenation-of-array/) | [video](https://www.bilibili.com/video/BV1uV4y1g7F4/)  | [blog](https://www.w3schools.com/CPP/cpp_variables_constants.asp)
 [ex8](../../tree/ex8)                   | [ex8-ans-1](../../tree/ex8-ans-1) <br> [ex8-ans-2](../../tree/ex8-ans-2) | | | [blog](https://docs.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-170)
-[ex9 :white_check_mark:](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1) <br> [ex9-ans-2](../../tree/ex9-ans-2) <br> [ex9-ans-extended](../../tree/ex9-ans-extended)  | | | [blog1](https://www.ascii-code.com/) [blog2](https://www.programiz.com/cpp-programming/function-overloading)  [blog3](https://www.quora.com/How-did-one-come-up-with-42-being-the-answer-to-the-universe-or-is-it-a-hoax) [blog4](https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline) [blog5](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
-[ex10 :white_check_mark:](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) | [blog1](https://www.learncpp.com/cpp-tutorial/pointers-and-const/) [blog2](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
+[ex9](../../tree/ex9) | [ex9-ans-1](../../tree/ex9-ans-1) <br> [ex9-ans-2](../../tree/ex9-ans-2) <br> [ex9-ans-extended](../../tree/ex9-ans-extended)  | | | [blog1](https://www.ascii-code.com/) [blog2](https://www.programiz.com/cpp-programming/function-overloading)  [blog3](https://www.quora.com/How-did-one-come-up-with-42-being-the-answer-to-the-universe-or-is-it-a-hoax) [blog4](https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline) [blog5](https://stackoverflow.com/questions/5057021/why-are-c-inline-functions-in-the-header)
+[ex10](../../tree/ex10) | [ex10-ans](../../tree/ex10-ans)  | | [video](https://www.bilibili.com/video/BV1Zb4y117iZ/) | [blog1](https://www.learncpp.com/cpp-tutorial/pointers-and-const/) [blog2](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
 [ex11](../../tree/ex11) | [ex11-ans](../../tree/ex11-ans)  | [leetcode-709](https://leetcode.com/problems/to-lower-case/) | | [blog1](https://stackoverflow.com/questions/61915474/difference-between-const-reference-and-reference) [blog2](https://www.geeksforgeeks.org/const_cast-in-c-type-casting-operators/)
 [ex12](../../tree/ex12) | [ex12-ans](../../tree/ex12-ans)  | [leetcode-344](../../tree/leetcode-344) |  | [blog1](https://www.tutorialspoint.com/differences-between-pass-by-value-and-pass-by-reference-in-cplusplus) [blog2](https://www.geeksforgeeks.org/how-to-print-size-of-an-array-in-a-function-in-c/) [blog3](https://stackoverflow.com/questions/2276329/why-can-one-specify-the-size-of-an-array-in-a-function-parameter) [blog4](https://stackoverflow.com/questions/3062005/size-of-array-passed-to-c-function) [blog5](https://www.quora.com/How-does-C-check-an-arrays-size-when-passing-by-reference)
 [ex13](../../tree/ex13) | [ex13-ans](../../tree/ex13-ans)  | | [video](https://www.bilibili.com/video/BV1cf4y1E77w/) | [blog](https://www.codingninjas.com/blog/2020/07/27/understanding-pointers-references-in-c/) 
@@ -116,7 +77,7 @@ Exercise :lock: | Solution :key: | Leetcode :gem:  | Video :cinema:  | Reading <
 [ex20-q1](../../tree/ex20-q1) | [ex20-q1-ans](../../tree/ex20-q1-ans)  |  | [video](https://www.bilibili.com/video/bv1q64y187Ah)  | [blog](https://www.w3schools.com/cpp/cpp_oop.asp)
 [ex20-q2](../../tree/ex20-q2)  | [ex20-q2-ans](../../tree/ex20-q2-ans)  | | | [blog1](https://stackoverflow.com/questions/9370493/inline-function-members-inside-a-class) [blog2](https://stackoverflow.com/questions/5306532/accessing-attributes-in-c-through-getters-setters) [blog3](https://www.positioniseverything.net/cpp-getters-and-setters/)
 NAN  | [ex20-q3-ans-1](../../tree/ex20-q3-ans-1) <br> [ex20-q3-ans-2](../../tree/ex20-q3-ans-2) <br> [ex20-q3-ans-3](../../tree/ex20-q3-ans-3) <br> [ex20-q3-ans-4](../../tree/ex20-q3-ans-4) <br> [ex20-q3-ans-5](../../tree/ex20-q3-ans-5)  | | |
-[ex20-q4 :o:](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
+[ex20-q4](../../tree/ex20-q4) | [ex20-q4-ans](../../tree/ex20-q4-ans)  | | |
 NAN | [ex20-q5-ans-1](../../tree/ex20-q5-ans-1) <br>[ex20-q5-ans-2](../../tree/ex20-q5-ans-2)  | | | [blog](https://www.haroldserrano.com/blog/c-tip-14-dont-return-a-reference-when-you-must-return-an-object)
 [ex20-q6](../../tree/ex20-q6) | [ex20-q6-ans](../../tree/ex20-q6-ans)  |  | | [blog1](https://www.javatpoint.com/cpp-destructor) [blog2](https://www.geeksforgeeks.org/this-pointer-in-c/) [blog3](https://www.quora.com/When-destructor-invoked-what-is-the-difference-between-the-pointer-to-an-object-and-the-object) [blog4](https://stackoverflow.com/questions/9965977/pointer-to-object-and-its-destructor)
 NAN  | [ex20-q7-ans](../../tree/ex20-q7-ans)  | | | [blog1](https://drawio-app.com/uml-class-diagrams-in-draw-io/) [blog2](https://www.diagrams.net/blog/uml-class-diagrams) [blog3](https://www.javatpoint.com/uml-class-diagram) [blog4](https://www.uml-diagrams.org/class-reference.html)
@@ -210,51 +171,6 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
     - Blogs:
         - [blog1](https://isocpp.org/wiki/faq/strange-inheritance) [blog2](https://cplusplus.com/reference/map/map/)  [blog3](https://www.cse.msu.edu/~cse232/us22/slides/cse232_associative_containers.pdf) [blog4](https://www.ida.liu.se/~TDDD38/lecture/slides/stl_II.pdf) [blog5](https://cplusplus.com/reference/set/set/) [blog6](https://en.cppreference.com/w/cpp/container/map/insert) [blog7](https://stackoverflow.com/questions/966905/stuck-on-c-template-deriving-from-stdmap) [blog8](https://stackoverflow.com/questions/6806173/subclass-inherit-standard-containers/7110262#7110262) [blog9](https://stackoverflow.com/questions/4353203/thou-shalt-not-inherit-from-stdvector)
 
-- **Final exam revision #3 - in depth - dig deeper into iterator**
-    - Video:
-        - TODO
-
-    - Branches:
-        - [in-depth-iterator](../../tree/in-depth-iterator) TODO
-
-- **Final exam revision #4 - in depth - dig deeper into ```dynamic_cast```**
-    - Code
-    ```cpp
-    struct A {
-        virtual void fa() {}
-    };
-
-    struct B : public A {
-        virtual void fb() {}
-    };
-
-    int main() {
-        A *pa = new B;
-        pa->fa();
-
-        B * pb = dynamic_cast<B *>(pa);
-        if (pb)
-            pb->fb();
-    }
-    ```
-    - Main topic: ```dynamic_cast```
-    - Video:
-        - TODO
-
-    - Branches:
-        - [in-depth-dynamic_cast](../../tree/in-depth-dynamic_cast) TODO
-
-    - Reading materials:
-        - https://learn.microsoft.com/en-us/cpp/cpp/dynamic-cast-operator?view=msvc-170
-
-- **Final exam revision #5 - Ex76 (poly exercise)**
-    - Branches:
-        - [ex76-ans](../../tree/ex76-ans) 
-    - Video:
-        - TODO
-
-
-
 
 </details>
 
@@ -268,7 +184,7 @@ For final exam revision, [LO02_poly_exercices.pdf](../../tree/master/pdf/LO02_po
 
 Dans le cadre de cet UV, vous travaillerez par groupe sur un projet C++ en rapport avec le contenu de votre cours et des TDs.
 - Chaque groupe sera formé de 4 à 5 étudiants.
-- Vous devrez rendre un livrable le 25 novembre à 23h59 au plus tard (!) sur: "Chaoxing Plateform" - Section Homework (作业).
+- Vous devrez rendre un livrable le ?? novembre à 23h59 au plus tard (!) sur: "Chaoxing Plateform" - Section Homework (作业).
 
 #### Project description:
 [:books: Project description in pdf](../../tree/master/project)
@@ -361,9 +277,9 @@ Online version:
 <details>
 Voici comment seront calculées les notes de l'UV (sur un total de 105, au lieu de 100): 
 
-- L'examen mi-terme : 35% 
-- Le projet : 30% 
-- L'examen final : 40%
+- L'examen mi-terme : ??% 
+- Le projet : ??% 
+- L'examen final : ??%
 
 Some further clarifications on mid-term/final exam:
 
@@ -420,7 +336,7 @@ By default, you should ask questions via **[Gitee Issue](https://gitee.com/lunde
 #### Principe
 Here is the principle for asking questions:
 
->  **Google First, Peers Second, Profs Last.**
+>  **ChatGPT/Google First, Peers Second, Profs Last.**
 
 You are expected to ask questions via **[Gitee Issue](https://gitee.com/lundechen/cpp/issues)**. However, as a **secondary**  (and hence, less desirable, less encouraged) choice, 
 you could also 
@@ -440,7 +356,7 @@ Questions won't be answered if:
 - **Questions asked in personal WeChat chats will NOT be answered.**
 - **Messages sent after 21:00 in personal chats will be extremely unwelcome.**
 
-Learning how to use Google & Baidu & Bing to solve programming problems is an important skill you should develop during this course.
+Learning how to use ChatGPT & Google & Baidu & Bing to solve programming problems is an important skill you should develop during this course.
 
 Pour des questions privées, merci d'envoyer vos questions par mail à ces adresses ci-dessous :
 - lundechen@shu.edu.cn (Lunde Chen)
@@ -725,18 +641,6 @@ If you are stuck with your CLion configuration during TP sessions, you could wri
 - https://www.onlinegdb.com/online_c_compiler
 - https://www.online-cpp.com/online_c++_editor
 
-
-
-#### Test Driven Development
-
-Cpp test with CLion
-
-TODO.
-
-
-If you are interested in making LO01 and LO02 exercised test driven, please contact me.
-
-
 #### How to push your code to GitHub
 
 ##### 1. Create a repo on GitHub
@@ -824,36 +728,13 @@ A GitHub profile with a lot of Green Blocks will make your CV more attactive.
 For more C++/Programming related funny images, here is a branch:
 - [funny](../../tree/funny)
 
-
-
-#### Online Final Exam
-
-线上考试的同学登记一下: 
-
-- https://docs.qq.com/doc/DT1VoYndvV0phZEha
-
-
-Url for online exam will appear here.
-
-
-在线考试的同学注意：
-
-试卷答题里面（即拍的照片里面），一定要有自己的学号姓名。
-
-1001班: 958 9491 5777
-
-1002班: 601-8612-3874
-
-
-
 </details>
 
 ## Conclusion :sparkling_heart:
 <details>
 
-If you like this course and want to thank me personally, please go to <br> https://github.com/open-academy/machine-learning <br> and give it a star. Thank you!
+If you like this course and want to thank me personally, please go to <br> https://github.com/ocademy-ai/machine-learning <br> and give it a star. Thank you!
 
 ![](img/thank.png)
-
 
 </details>
